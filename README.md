@@ -1,4 +1,4 @@
-# Developer Conferences in Taiwan
+# Developer Conferences in Taiwan 2018
 
 ## March
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
@@ -42,7 +42,10 @@
   |---|---|---|---|---|---|
   | 09.11 (Tue) | 09.13 (The) | [DevOpsDays Taipei 2018](https://devopsdays.tw/) | | [Link](https://ithomeonline.typeform.com/to/BWVLs2) | |
 
-<!-- ## October -->
+## October
+  | State date | End date | Name | Ticket | Call for Speaker | Venue |
+  |---|---|---|---|---|---|
+  | 10.05 (Fri) | 10.07 (Sun) | g0v summit 2018 | [Register Now](https://g0v-summit2018.kktix.cc/events/conf) | [Link](http://summit.g0v.tw/2018/cfp/) | 中央研究院人文社會科學館 |
 
 ## November
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
