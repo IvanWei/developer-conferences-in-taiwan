@@ -21,7 +21,8 @@
   - 2018.07.18 (Sat) - 2018.07.19 (Sun) [ModernWeb 2018](http://modernweb.tw/) / [Ticket - Wait]() / [Call for Speaker](https://modernweb.tw/cfp/) / ---
   - 2018.07.27 (Sat) - 2018.07.28 (Sun) [HITCON Community 2018 Conference](https://hitcon.org/) / <!-- [Ticket - Wait]() /  -->[Call for Speaker](https://cfp2018.hitcon.org/zh/what-is-hitcon) [[規範](https://blog.hitcon.org/2018/03/hitcon-2018-cmt-cfp.html)] / 台北南港展覽館
 
-<!-- ## August -->
+## August
+  - 2018.08.11 (Sat) - 2018.08.12 (Sun) [COSCUP 2018](https://2018.coscup.org/) / <!-- [Ticket - Wait]() / [Call for Speaker]() / -->台灣科技大學
 
 ## September
   - 2018.09.11 (Tue) - 2018.09.13 (The) [DevOpsDays Taipei 2018](https://devopsdays.tw/) / [Call for Speaker](https://ithomeonline.typeform.com/to/BWVLs2)
@@ -34,13 +35,14 @@
 <!-- ## December -->
 
 ## Main Website / Facebook
-  - *[JSDC Taiwan](http://jsdc.tw/) / [Facebook](https://www.facebook.com/JSDC.TW/)
+  - *[DataCon.TW & Taiwan Hadoop User Group](https://www.facebook.com/groups/hadoop.tw/) / [Facebook](https://zh-tw.facebook.com/datacon.tw/)
   - *[JCConf Taiwan](http://jcconf.tw/) / [Facebook](https://www.facebook.com/groups/185338705012/)
+  - *[JSDC Taiwan](http://jsdc.tw/) / [Facebook](https://www.facebook.com/JSDC.TW/)
   - *[台灣資料科學年會](http://datasci.tw/?conf=DS) / [Facebook](https://www.facebook.com/twdsconf)
   - *[台灣人工智慧年會](http://datasci.tw/?conf=AI) / [Facebook](https://www.facebook.com/twaiconf/)
-  - *[DataCon.TW & Taiwan Hadoop User Group](https://www.facebook.com/groups/hadoop.tw/) / [Facebook](https://zh-tw.facebook.com/datacon.tw/)
+  - [AgileCommunity.tw](http://agilecommunity.tw/) / [Facebook](https://www.facebook.com/AgileCommunity.tw/)
+  - [COSCUP](https://coscup.org/) / [Facebook](https://www.facebook.com/coscup/)
+  - [FED X DESIGN](http://www.fed.tw/) / [Facebook](https://www.facebook.com/groups/f2e.tw/)
   - [HITCON](https://blog.hitcon.org/) / [Facebook](https://zh-tw.facebook.com/HITCON)
   - [LaravelConf Taiwan](https://laravelconf.tw/) / [Facebook](https://zh-tw.facebook.com/laravelconftw/)
-  - [FED X DESIGN](http://www.fed.tw/) / [Facebook](https://www.facebook.com/groups/f2e.tw/)
   - [PyCon Taiwan](https://tw.pycon.org) / [Facebook](https://zh-tw.facebook.com/pycontw/)
-  - [AgileCommunity.tw](http://agilecommunity.tw/) / [Facebook](https://www.facebook.com/AgileCommunity.tw/)
