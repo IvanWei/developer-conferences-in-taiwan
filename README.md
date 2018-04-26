@@ -56,7 +56,7 @@
 
 ---
 
-## Organizer list
+## List of organizations
   | Announcement | Name | Main Website | Facebook |
   |---|---|---|---|
   | ✔ | AgileCommunity.tw | [Link](http://agilecommunity.tw/) | [Link](https://www.facebook.com/AgileCommunity.tw/) |
