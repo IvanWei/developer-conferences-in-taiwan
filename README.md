@@ -8,7 +8,7 @@
 ## April
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
-  | 04.27 (Fri) | --- | [Ruby X Elixir Conf Taiwan 2018](https://2018.rubyconf.tw/) | [Register Now](https://rubytaiwan.kktix.cc/events/rubyelixirconftaiwan2018?utm_source=officialsite) | | 張榮發基金會國際會議中心 |
+  | 04.27 (Fri) | --- | [Ruby X Elixir Conf Taiwan 2018](https://2018.rubyconf.tw/) | [End](https://rubytaiwan.kktix.cc/events/rubyelixirconftaiwan2018?utm_source=officialsite) | | 張榮發基金會國際會議中心 |
 
 ## May
   | State date | End date | Name | Ticket | Call for Speaker | Venue | More |
