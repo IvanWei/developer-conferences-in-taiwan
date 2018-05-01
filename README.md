@@ -22,7 +22,7 @@
   |---|---|---|---|---|---|
   | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Register Now](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) | | 中央研究院人文社會科學館 |
   | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 |
-  | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei] | | | |
+  | 06.27 (Web) | 06.28 (Thu) | AWS Summit Taipei | | | |
   | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | | [Link](https://ithomeonline.typeform.com/to/lVAogM) | |
 
 
@@ -47,7 +47,7 @@
 ## October
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
-  | 10.05 (Fri) | 10.07 (Sun) |[ g0v summit 2018](http://summit.g0v.tw/2018/) | [Register Now](https://g0v-summit2018.kktix.cc/events/conf) | [Link](http://summit.g0v.tw/2018/cfp/) | 中央研究院人文社會科學館 |
+  | 10.05 (Fri) | 10.07 (Sun) |[g0v summit 2018](http://summit.g0v.tw/2018/) | [Register Now](https://g0v-summit2018.kktix.cc/events/conf) | [Link](http://summit.g0v.tw/2018/cfp/) | 中央研究院人文社會科學館 |
 
 ## November
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
