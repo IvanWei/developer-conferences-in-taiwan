@@ -35,7 +35,7 @@
 ## August
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
-  | 08.11 (Sat) | 08.12 (Sun) | [COSCUP 2018](https://2018.coscup.org/) | | | 台灣科技大學 |
+  | 08.11 (Sat) | 08.12 (Sun) | [COSCUP 2018](https://2018.coscup.org/) | | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform) | 台灣科技大學 |
 
 ## September
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
