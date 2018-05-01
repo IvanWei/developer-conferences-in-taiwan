@@ -14,14 +14,16 @@
   | State date | End date | Name | Ticket | Call for Speaker | Venue | More |
   |---|---|---|---|---|---|---|
   | 05.04 (Thu) | 05.06 (Sat) | [MIX 2018 創新設計年會](http://mixconf.tw/) | 1. [Register Now](https://userxper.kktix.cc/events/mix-2018) <br /> 2. [Workshop - Register Now](https://userxper.kktix.cc/events/mix-2018-workshop) | | 三創生活園區 12F | |
+  | 05.16 (Web) | --- | [iThome Cloud Summit 2018](https://cloudsummit.ithome.com.tw/) | [Register Now](https://cloudsummit.ithome.com.tw/signup.html) | | 台北國際會議中心 (TICC) |
   | 05.28 (Mon) | 05.30 (Wed) | [DevDays Asia 2018 亞太技術年會](https://www.microsoft.com/taiwan/events/2018devdays/) | [Register Now](https://www.accupass.com/event/1802230727421714084630) | | 華南銀行國際會議中心 | [1](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1656928304394209/), [2](https://www.facebook.com/groups/laravel.tw/permalink/1671089109626798/) |
 
 ## June
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
   | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Register Now](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) | | 中央研究院人文社會科學館 |
-  | 06.14 (The) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 |
-  | 06.28 (The) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | | [Link](https://ithomeonline.typeform.com/to/lVAogM) | |
+  | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 |
+  | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei] | | | |
+  | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | | [Link](https://ithomeonline.typeform.com/to/lVAogM) | |
 
 
 ## July
@@ -40,12 +42,12 @@
 ## September
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
-  | 09.11 (Tue) | 09.13 (The) | [DevOpsDays Taipei 2018](https://devopsdays.tw/) | | [Link](https://ithomeonline.typeform.com/to/BWVLs2) | |
+  | 09.11 (Tue) | 09.13 (Thu) | [DevOpsDays Taipei 2018](https://devopsdays.tw/) | | [Link](https://ithomeonline.typeform.com/to/BWVLs2) | |
 
 ## October
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
   |---|---|---|---|---|---|
-  | 10.05 (Fri) | 10.07 (Sun) | g0v summit 2018 | [Register Now](https://g0v-summit2018.kktix.cc/events/conf) | [Link](http://summit.g0v.tw/2018/cfp/) | 中央研究院人文社會科學館 |
+  | 10.05 (Fri) | 10.07 (Sun) |[ g0v summit 2018](http://summit.g0v.tw/2018/) | [Register Now](https://g0v-summit2018.kktix.cc/events/conf) | [Link](http://summit.g0v.tw/2018/cfp/) | 中央研究院人文社會科學館 |
 
 ## November
   | State date | End date | Name | Ticket | Call for Speaker | Venue |
