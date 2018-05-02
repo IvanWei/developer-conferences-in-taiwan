@@ -124,6 +124,22 @@
         "Venue": "",
         "More": ""
       }, {
+        "State date": "07.21 (Sat)",
+        "End date": "07.27 (Fri)",
+        "Name": {"link": {"title": "DebCamp", "source": "https://debconf18.debconf.org/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://debconf18.debconf.org/register/"}},
+        "Call for Speaker": {"link": {"title": "Link", "source": "https://debconf18.debconf.org/talks/new/"}},
+        "Venue": "國立交通大學 電子資訊研究大樓",
+        "More": {"link": {"title": "投稿規範", "source": "https://debconf18.debconf.org/cfp/"}}
+      }, {
+        "State date": "07.28 (Sat)",
+        "End date": "---",
+        "Name": {"link": {"title": "DebConf18", "source": "https://debconf18.debconf.org/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://debconf18.debconf.org/register/"}},
+        "Call for Speaker": {"link": {"title": "Link", "source": "https://debconf18.debconf.org/talks/new/"}},
+        "Venue": "國立交通大學 電子資訊研究大樓",
+        "More": {"link": {"title": "投稿規範", "source": "https://debconf18.debconf.org/cfp/"}}
+      }, {
         "State date": "07.27 (Sat)",
         "End date": "07.28 (Sun)",
         "Name": {"link": {"title": "HITCON Community 2018 Conference", "source": "https://hitcon.org/"}},
