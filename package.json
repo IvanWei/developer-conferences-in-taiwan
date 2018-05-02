@@ -1,0 +1,26 @@
+{
+  "name": "developer-conferences-in-taiwan",
+  "version": "18.5.2",
+  "description": "developer conferences in taiwan",
+  "main": "app.js",
+  "scripts": {
+    "build": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanWei/developer-conferences-in-taiwan.git"
+  },
+  "keywords": [
+    "developer",
+    "conference"
+  ],
+  "author": "Ivan Wei <scorpionseed@gmail.com> (https://blog.ivanwei.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanWei/developer-conferences-in-taiwan/issues"
+  },
+  "homepage": "https://github.com/IvanWei/developer-conferences-in-taiwan#readme",
+  "devDependencies": {
+    "json2md": "https://github.com/IvanWei/json2md.git"
+  }
+}
