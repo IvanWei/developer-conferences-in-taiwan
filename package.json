@@ -4,7 +4,7 @@
   "description": "developer conferences in taiwan",
   "main": "app.js",
   "scripts": {
-    "build": "node app.js"
+    "build": "node build.js"
   },
   "repository": {
     "type": "git",
