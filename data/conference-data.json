@@ -3,9 +3,9 @@
     {"h1": "Developer Conferences in Taiwan 2018"},
     {"h2": "March"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "03.10 (Sat)",
+        "Start date": "03.10 (Sat)",
         "End date": "---",
         "Name": {"link": {"title": "SITCON 2018", "source": "http://sitcon.org/2018/#/"}},
         "Ticket": {"link": {"title": "Sell out", "source": "https://sitcon.kktix.cc/events/sitcon2018"}},
@@ -15,9 +15,9 @@
     }},
     {"h2": "April"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "04.27 (Fri)",
+        "Start date": "04.27 (Fri)",
         "End date": "---",
         "Name": {"link": {"title": "Ruby X Elixir Conf Taiwan 2018", "source": "https://2018.rubyconf.tw/"}},
         "Ticket": {"link": {"title": "Sell out", "source": "https://rubytaiwan.kktix.cc/events/rubyelixirconftaiwan2018?utm_source=officialsite"}},
@@ -28,9 +28,9 @@
 
     {"h2": "May"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Workshop", "Call for Speaker", "Venue", "Coupon 1", "Coupon 2"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Workshop", "Call for Speaker", "Venue", "Coupon 1", "Coupon 2"],
       "rows": [{
-        "State date": "05.04 (Thu)",
+        "Start date": "05.04 (Thu)",
         "End date": "05.06 (Sat)",
         "Name": {"link": {"title": "MIX 2018 創新設計年會", "source": "http://mixconf.tw/"}},
         "Ticket": {"link": {"title": "Sell out", "source": "https://userxper.kktix.cc/events/mix-2018"}},
@@ -40,7 +40,7 @@
         "Coupon 1": "",
         "Coupon 2": ""
       }, {
-        "State date": "05.16 (Web)",
+        "Start date": "05.16 (Web)",
         "End date": "---",
         "Name": {"link": {"title": "iThome Cloud Summit 2018", "source": "https://cloudsummit.ithome.com.tw/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://cloudsummit.ithome.com.tw/signup.html"}},
@@ -50,7 +50,7 @@
         "Coupon 1": "",
         "Coupon 2": ""
       }, {
-        "State date": "05.28 (Mon)",
+        "Start date": "05.28 (Mon)",
         "End date": "05.30 (Wed)",
         "Name": {"link": {"title": "DevDays Asia 2018 亞太技術年會", "source": "https://www.microsoft.com/taiwan/events/2018devdays/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://www.accupass.com/event/1802230727421714084630"}},
@@ -64,30 +64,30 @@
 
     {"h2": "June"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "06.01 (Fir)",
+        "Start date": "06.01 (Fir)",
         "End date": "06.02 (Sat)",
         "Name": {"link": {"title": "PyCon Taiwan 2018", "source": "https://tw.pycon.org"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://tw.pycon.org/2018/zh-hant/registration/ticket-info/"}},
         "Call for Speaker": "",
         "Venue": "中央研究院人文社會科學館"
       }, {
-        "State date": "06.14 (Thu)",
+        "Start date": "06.14 (Thu)",
         "End date": "---",
         "Name": {"link": {"title": "Kubernetes Summit", "source": "http://summit.ithome.com.tw/kubernetes/"}},
         "Ticket": "",
         "Call for Speaker": {"link": {"title": "End", "source": "https://ithomeonline.typeform.com/to/IRAs67"}},
         "Venue": "台大醫院國際會議中心"
       }, {
-        "State date": "06.27 (Web)",
+        "Start date": "06.27 (Web)",
         "End date": "06.28 (Thu)",
         "Name": {"link": {"title": "AWS Summit Taipei", "source": "http://"}},
         "Ticket": {"link": {"title": "", "source": ""}},
         "Call for Speaker": "",
         "Venue": ""
       }, {
-        "State date": "06.28 (Thu)",
+        "Start date": "06.28 (Thu)",
         "End date": "06.29 (Fri)",
         "Name": {"link": {"title": "Agile Summit", "source": "http://summit.ithome.com.tw/agile/"}},
         "Ticket": "",
@@ -98,9 +98,9 @@
 
     {"h2": "July"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "07.08 (Sun)",
+        "Start date": "07.08 (Sun)",
         "End date": "---",
         "Name": {"link": {"title": "LaravelConf Taiwan 2018", "source": "https://laravelconf.tw/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://laravel-dojo.kktix.cc/events/laravelconftw2018"}},
@@ -108,7 +108,7 @@
         "Venue": "張榮發文教基金會 國際會議廳",
         "More": ""
       }, {
-        "State date": "07.14 (Sat)",
+        "Start date": "07.14 (Sat)",
         "End date": "---",
         "Name": {"link": {"title": "FED X DESIGN 2018", "source": "http://2018.fedc.tw/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://f2e.kktix.cc/events/fedc-2018"}},
@@ -116,7 +116,7 @@
         "Venue": "張榮發國際會議中心",
         "More": ""
       }, {
-        "State date": "07.18 (Web)",
+        "Start date": "07.18 (Web)",
         "End date": "07.19 (Thu)",
         "Name": {"link": {"title": "ModernWeb 2018", "source": "http://modernweb.tw/"}},
         "Ticket": "",
@@ -124,7 +124,7 @@
         "Venue": "",
         "More": ""
       }, {
-        "State date": "07.21 (Sat)",
+        "Start date": "07.21 (Sat)",
         "End date": "07.27 (Fri)",
         "Name": {"link": {"title": "DebCamp", "source": "https://debconf18.debconf.org/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://debconf18.debconf.org/register/"}},
@@ -132,7 +132,7 @@
         "Venue": "國立交通大學 電子資訊研究大樓",
         "More": {"link": {"title": "投稿規範", "source": "https://debconf18.debconf.org/cfp/"}}
       }, {
-        "State date": "07.28 (Sat)",
+        "Start date": "07.28 (Sat)",
         "End date": "---",
         "Name": {"link": {"title": "DebConf18", "source": "https://debconf18.debconf.org/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://debconf18.debconf.org/register/"}},
@@ -140,10 +140,10 @@
         "Venue": "國立交通大學 電子資訊研究大樓",
         "More": {"link": {"title": "投稿規範", "source": "https://debconf18.debconf.org/cfp/"}}
       }, {
-        "State date": "07.27 (Fri)",
+        "Start date": "07.27 (Fri)",
         "End date": "07.28 (Sat)",
         "Name": {"link": {"title": "HITCON Community 2018 Conference", "source": "https://hitcon.org/"}},
-        "Ticket": {"link": {"title": "05/05 Register", "source": "https://hitcon.kktix.cc/events/hitcon-cmt-2018"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://hitcon.kktix.cc/events/hitcon-cmt-2018"}},
         "Call for Speaker": {"link": {"title": "Link", "source": "https://cfp2018.hitcon.org/zh/what-is-hitcon"}},
         "Venue": "台北南港展覽館",
         "More": {"link": {"title": "投稿規範", "source": "https://blog.hitcon.org/2018/03/hitcon-2018-cmt-cfp.html"}}
@@ -152,9 +152,9 @@
 
     {"h2": "August"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "08.11 (Sat)",
+        "Start date": "08.11 (Sat)",
         "End date": "08.12 (Sun)",
         "Name": {"link": {"title": "COSCUP 2018", "source": "https://2018.coscup.org/"}},
         "Ticket": "",
@@ -165,9 +165,9 @@
 
     {"h2": "September"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "09.11 (Tue)",
+        "Start date": "09.11 (Tue)",
         "End date": "09.13 (Thu)",
         "Name": {"link": {"title": "DevOpsDays Taipei 2018", "source": "https://devopsdays.tw/"}},
         "Ticket": "",
@@ -178,9 +178,9 @@
 
     {"h2": "October"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "10.05 (Fri)",
+        "Start date": "10.05 (Fri)",
         "End date": "10.07 (Sun)",
         "Name": {"link": {"title": "g0v summit 2018", "source": "http://summit.g0v.tw/2018/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://g0v-summit2018.kktix.cc/events/conf"}},
@@ -191,9 +191,9 @@
 
     {"h2": "November"},
     {"table": {
-      "headers": ["State date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
       "rows": [{
-        "State date": "11.03 (Sat)",
+        "Start date": "11.03 (Sat)",
         "End date": "11.04 (Sun)",
         "Name": {"link": {"title": "MOPCON 2018", "source": "https://mopcon.org/2018/"}},
         "Ticket": "",
