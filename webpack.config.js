@@ -54,5 +54,14 @@ if (NODE_ENV === 'development') {
     inline: true,
     open: false,
   };
+} else {
+  config['devServer'] = {
+    contentBase: path.join(__dirname, "docs"),
+    port: 8000,
+    compress: true,
+    hot: true,
+    inline: true,
+    open: false,
+  };
 }
 module.exports = config;

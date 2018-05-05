@@ -7,7 +7,8 @@
     "build": "node build.js",
     "copy": "cp ./node_modules/tui-calendar/dist/tui-calendar.css ./src/tui-calendar.css",
     "dev": "npm run copy && NODE_ENV=development webpack-dev-server --config ./webpack.config.js",
-    "prod": "NODE_ENV=production webpack"
+    "prod": "NODE_ENV=production webpack",
+    "prod-serv": "NODE_ENV=production webpack-dev-server --config ./webpack.config.js"
   },
   "repository": {
     "type": "git",

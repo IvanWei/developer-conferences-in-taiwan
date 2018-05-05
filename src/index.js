@@ -46,19 +46,21 @@ $('div.btn-change-view').on('click', (e) => {
 });
 
 $('#previous-view').on('click', (e) => {
-  const currentDate = new Date($('#current-date').text());
+  let currentDate = new Date($('#current-date').text());
+  currentDate.setMonth(currentDate.getMonth() - 1);
   const year = currentDate.getFullYear();
   const month = currentDate.getMonth() + 1;
 
   calendar.prev();
-  $('#current-date').text(`${year}-${month-1}`);
+  $('#current-date').text(`${year}-${month}`);
 });
 
 $('#next-view').on('click', (e) => {
-  const currentDate = new Date($('#current-date').text());
+  let currentDate = new Date($('#current-date').text());
+  currentDate.setMonth(currentDate.getMonth() + 1);
   const year = currentDate.getFullYear();
   const month = currentDate.getMonth() + 1;
 
   calendar.next();
-  $('#current-date').text(`${year}-${month+1}`);
+  $('#current-date').text(`${year}-${month}`);
 });
