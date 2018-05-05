@@ -13,7 +13,7 @@ let config = {
     app: ['./src'],
   },
   output: {
-    path: path.resolve(__dirname, './dist'),
+    path: path.resolve(__dirname, './docs'),
     publicPath: '/',
   },
   plugins: [
