@@ -1,6 +1,6 @@
 {
   "name": "developer-conferences-in-taiwan",
-  "version": "18.5.5",
+  "version": "18.5.9",
   "description": "developer conferences in taiwan",
   "main": "app.js",
   "scripts": {

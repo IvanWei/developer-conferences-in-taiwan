@@ -25,9 +25,10 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Register Now](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) |  | 中央研究院人文社會科學館 | 
- | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) |  | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 | 
- | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei](http://) | []() |  |  | 
- | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) |  | [Link](https://ithomeonline.typeform.com/to/lVAogM) |  | 
+ | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | [Register Now](http://summit.ithome.com.tw/kubernetes/#ticket) | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 | 
+ | 06.20 (Wed) | 06.23 (Sat) | 傳言有 S 牌 APP Conf |  |  |  | 
+ | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei](https://aws.amazon.com/tw/summits/) | []() |  |  | 
+ | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | [Register Now](http://summit.ithome.com.tw/agile/#ticket) | [Link](https://ithomeonline.typeform.com/to/lVAogM) |  | 
 
 ## July
 
@@ -79,6 +80,7 @@
  |  | JCConf Taiwan | [Link](http://jcconf.tw/) | [Link](https://www.facebook.com/groups/185338705012/) | 
  |  | JSDC Taiwan | [Link](http://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
  | ✔ | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
+ | ✔ | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
  | ✔ | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
  |  | 台灣資料科學年會 | [Link](http://datasci.tw/?conf=DS) | [Link](https://www.facebook.com/twdsconf) | 
  |  | 台灣人工智慧年會 | [Link](http://datasci.tw/?conf=AI) | [Link](https://www.facebook.com/twaiconf/) | 

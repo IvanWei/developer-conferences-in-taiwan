@@ -9,6 +9,11 @@ html(lang='zh-tw')
 
   body
     h1 #{htmlWebpackPlugin.options.title}
+    a(href="https://github.com/IvanWei/developer-conferences-in-taiwan")
+      img(style="position: absolute;top: 0;right: 0;border: 0;z-index: 1;", src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png", alt="Fork me on GitHub")
+
+
+
     - const today = new Date();
     - const formatDate = today.getFullYear() + '-' + (today.getMonth() +1);
     span#current-date #{formatDate}
@@ -27,3 +32,7 @@ html(lang='zh-tw')
       span.text(style="margin-right: 5px;") Next month
       i.fas.fa-angle-right
     #calendar
+
+    footer
+      | Copyright&copy;2018
+      a(href="https://blog.ivanwei.co" style="margin-left: 10px;") Ivan Wei
