@@ -59,6 +59,16 @@
         "Venue": "華南銀行國際會議中心",
         "Coupon 1": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/DevOpsTaiwan/permalink/1656928304394209/"}},
         "Coupon 2": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/laravel.tw/permalink/1671089109626798/"}}
+      }, {
+        "Start date": "05.29 (Tue)",
+        "End date": "05.30 (Wed)",
+        "Name": {"link": {"title": "GPU Technology Conference", "source": "https://www.nvidia.com/zh-tw/gtc/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://www.nvidia.com/zh-tw/gtc/register/"}},
+        "Workshop": {"link": {"title": "Register Now", "source": "https://www.nvidia.com/zh-tw/gtc/sessions/training/"}},
+        "Call for Speaker": {"link": {"title": "End", "source": "https://www.nvidia.com/zh-tw/gtc/present/talks/"}},
+        "Venue": "",
+        "Coupon 1": "",
+        "Coupon 2": ""
       }]
     }},
 
