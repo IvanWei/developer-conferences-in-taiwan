@@ -88,7 +88,7 @@
         "Name": {"link": {"title": "Kubernetes Summit", "source": "http://summit.ithome.com.tw/kubernetes/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "http://summit.ithome.com.tw/kubernetes/#ticket"}},
         "Call for Speaker": {"link": {"title": "End", "source": "https://ithomeonline.typeform.com/to/IRAs67"}},
-        "Venue": "台大醫院國際會議中心"
+        "Venue": "台大醫院國際會議中心 4 樓"
       }, {
         "Start date": "06.20 (Wed)",
         "End date": "06.23 (Sat)",
@@ -109,7 +109,7 @@
         "Name": {"link": {"title": "Agile Summit", "source": "http://summit.ithome.com.tw/agile/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "http://summit.ithome.com.tw/agile/#ticket"}},
         "Call for Speaker": {"link": {"title": "Link", "source": "https://ithomeonline.typeform.com/to/lVAogM"}},
-        "Venue": ""
+        "Venue": "富邦國際會議中心 B2"
       }]
     }},
 
