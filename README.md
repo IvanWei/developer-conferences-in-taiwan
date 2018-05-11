@@ -79,7 +79,7 @@
  | ✔ | TDOHacker - TDOH | [TDOHacker](http://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  | ✔ | TDOHacker - TDOH | [THOH Conf](http://tdoh-conf.online/) |  | 
  |  | JCConf Taiwan | [Link](http://jcconf.tw/) | [Link](https://www.facebook.com/groups/185338705012/) | 
- |  | JSDC Taiwan | [Link](http://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
+ |  | [JSDC Taiwan (籌備中)](https://goo.gl/sqf8u8) | [Link](http://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
  | ✔ | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
  | ✔ | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
  | ✔ | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
