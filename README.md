@@ -33,14 +33,15 @@
 
 ## July
 
- | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
- | --- | --- | --- | --- | --- | --- | 
- | 07.08 (Sun) | --- | [LaravelConf Taiwan 2018](https://laravelconf.tw/) | [Register Now](https://laravel-dojo.kktix.cc/events/laravelconftw2018) | [Link](https://medium.com/laraveldojo/laravelconf-taiwan-2018-call-for-presentations-b212cc7b249b) | 張榮發文教基金會 國際會議廳 | 
- | 07.14 (Sat) | --- | [FED X DESIGN 2018](http://2018.fedc.tw/) | [Register Now](https://f2e.kktix.cc/events/fedc-2018) | [End](https://www.facebook.com/groups/f2e.tw/permalink/1552232571480769/) | 張榮發國際會議中心 | 
- | 07.18 (Web) | 07.19 (Thu) | [ModernWeb 2018](http://modernweb.tw/) |  | [Link](https://modernweb.tw/cfp/) |  | 
- | 07.21 (Sat) | 07.27 (Fri) | [DebCamp](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | 
- | 07.28 (Sat) | --- | [DebConf18](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | 
- | 07.27 (Fri) | 07.28 (Sat) | [HITCON Community 2018 Conference](https://hitcon.org/) | [Register Now](https://hitcon.kktix.cc/events/hitcon-cmt-2018) | [Link](https://cfp2018.hitcon.org/zh/what-is-hitcon) | 台北南港展覽館 | 
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | More | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 07.06 (Fri) | 07.07 (Sat) | Connect With AI 年度最強人工智慧論壇 | [Register Now](https://techorange.kktix.cc/events/connect-with-ai) |  | 三創數位生活園區 12 樓 |  | 
+ | 07.08 (Sun) | --- | [LaravelConf Taiwan 2018](https://laravelconf.tw/) | [Register Now](https://laravel-dojo.kktix.cc/events/laravelconftw2018) | [Link](https://medium.com/laraveldojo/laravelconf-taiwan-2018-call-for-presentations-b212cc7b249b) | 張榮發文教基金會 國際會議廳 |  | 
+ | 07.14 (Sat) | --- | [FED X DESIGN 2018](http://2018.fedc.tw/) | [Register Now](https://f2e.kktix.cc/events/fedc-2018) | [End](https://www.facebook.com/groups/f2e.tw/permalink/1552232571480769/) | 張榮發國際會議中心 |  | 
+ | 07.18 (Web) | 07.19 (Thu) | [ModernWeb 2018](http://modernweb.tw/) |  | [Link](https://modernweb.tw/cfp/) |  |  | 
+ | 07.21 (Sat) | 07.27 (Fri) | [DebCamp](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | [投稿規範](https://debconf18.debconf.org/cfp/) | 
+ | 07.28 (Sat) | --- | [DebConf18](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | [投稿規範](https://debconf18.debconf.org/cfp/) | 
+ | 07.27 (Fri) | 07.28 (Sat) | [HITCON Community 2018 Conference](https://hitcon.org/) | [Register Now](https://hitcon.kktix.cc/events/hitcon-cmt-2018) | [Link](https://cfp2018.hitcon.org/zh/what-is-hitcon) | 台北南港展覽館 | [投稿規範](https://blog.hitcon.org/2018/03/hitcon-2018-cmt-cfp.html) | 
 
 ## August
 

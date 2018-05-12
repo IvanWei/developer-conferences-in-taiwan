@@ -115,8 +115,16 @@
 
     {"h2": "July"},
     {"table": {
-      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue"],
+      "headers": ["Start date", "End date", "Name", "Ticket", "Call for Speaker", "Venue", "More"],
       "rows": [{
+        "Start date": "07.06 (Fri)",
+        "End date": "07.07 (Sat)",
+        "Name": "Connect With AI 年度最強人工智慧論壇",
+        "Ticket": {"link": {"title": "Register Now", "source": "https://techorange.kktix.cc/events/connect-with-ai"}},
+        "Call for Speaker": "",
+        "Venue": "三創數位生活園區 12 樓",
+        "More": ""
+      }, {
         "Start date": "07.08 (Sun)",
         "End date": "---",
         "Name": {"link": {"title": "LaravelConf Taiwan 2018", "source": "https://laravelconf.tw/"}},
