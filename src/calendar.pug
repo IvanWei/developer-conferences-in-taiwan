@@ -4,6 +4,7 @@ html(lang='zh-tw')
     title #{htmlWebpackPlugin.options.title}
     meta(http-equiv="content-type" content="text/html; charset=utf-8")
     script(src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous")
+    script(src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js")
     link(rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.12/css/all.css" integrity="sha384-G0fIWCsCzJIMAVNQPfjH08cyYaUtMwjJwqiRKxxE/rx96Uroj1BtIQ6MLJuheaO9" crossorigin="anonymous")
     link(rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css")
 
@@ -17,8 +18,6 @@ html(lang='zh-tw')
     - const today = new Date();
     - const formatDate = today.getFullYear() + '-' + (today.getMonth() +1);
     span#current-date #{formatDate}
-    .btn-change-view.btn.btn-default(data-change-view="today")
-      span.text(style="margin-left: 5px;") Today
     .btn-change-view.btn.btn-default(data-change-view="day")
       span.text(style="margin-left: 5px;") Day
     .btn-change-view.btn.btn-default(data-change-view="week")
@@ -28,6 +27,8 @@ html(lang='zh-tw')
     #previous-view.btn.btn-default
       i.fas.fa-angle-left
       span.text(style="margin-left: 5px;") Previous month
+    .btn-change-view.btn.btn-default(data-change-view="today")
+      span.text(style="margin-left: 5px;") Today
     #next-view.btn.btn-default
       span.text(style="margin-right: 5px;") Next month
       i.fas.fa-angle-right
