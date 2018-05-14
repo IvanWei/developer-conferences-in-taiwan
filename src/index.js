@@ -25,7 +25,7 @@ confs.forEach((conf, index) => {
     CalendarList.push({
       id: taskId,
       calendarId,
-      title: row.Name.link.title,
+      title: row.Name.link.title || row.Name,
       category: 'time',
       start: new Date('2018.' + row['Start date']).toUTCString(),
       end: new Date('2018.' + (row['End date'] === '---'?row['Start date']:row['End date'])).toUTCString(),
