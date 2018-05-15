@@ -43,7 +43,7 @@
         "Start date": "05.16 (Web)",
         "End date": "---",
         "Name": {"link": {"title": "iThome Cloud Summit 2018", "source": "https://cloudsummit.ithome.com.tw/"}},
-        "Ticket": {"link": {"title": "Register Now", "source": "https://cloudsummit.ithome.com.tw/signup.html"}},
+        "Ticket": {"link": {"title": "Sell out", "source": "https://cloudsummit.ithome.com.tw/signup.html"}},
         "Workshop": "",
         "Call for Speaker": "",
         "Venue": "台北國際會議中心 (TICC)",
@@ -100,9 +100,9 @@
         "Start date": "06.27 (Web)",
         "End date": "06.28 (Thu)",
         "Name": {"link": {"title": "AWS Summit Taipei", "source": "https://aws.amazon.com/tw/summits/"}},
-        "Ticket": {"link": {"title": "", "source": ""}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://pages.awscloud.com/aws-summit-tpe-2018-registration.html"}},
         "Call for Speaker": "",
-        "Venue": ""
+        "Venue": "台北國際會議中心"
       }, {
         "Start date": "06.28 (Thu)",
         "End date": "06.29 (Fri)",
