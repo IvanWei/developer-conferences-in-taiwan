@@ -19,7 +19,7 @@
  | 05.04 (Thu) | 05.06 (Sat) | [MIX 2018 創新設計年會](http://mixconf.tw/) | [Sell out](https://userxper.kktix.cc/events/mix-2018) | [Sell out](https://userxper.kktix.cc/events/mix-2018-workshop) |  | 三創生活園區 12F |  |  | 
  | 05.16 (Web) | --- | [iThome Cloud Summit 2018](https://cloudsummit.ithome.com.tw/) | [Sell out](https://cloudsummit.ithome.com.tw/signup.html) |  |  | 台北國際會議中心 (TICC) |  |  | 
  | 05.28 (Mon) | 05.30 (Wed) | [DevDays Asia 2018 亞太技術年會](https://www.microsoft.com/taiwan/events/2018devdays/) | [Register Now](https://www.accupass.com/event/1802230727421714084630) |  |  | 華南銀行國際會議中心 | [Link](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1656928304394209/) | [Link](https://www.facebook.com/groups/laravel.tw/permalink/1671089109626798/) | 
- | 05.29 (Tue) | 05.30 (Wed) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [Register Now](https://www.nvidia.com/zh-tw/gtc/register/) | [Register Now](https://www.nvidia.com/zh-tw/gtc/sessions/training/) | [End](https://www.nvidia.com/zh-tw/gtc/present/talks/) | 台北萬豪酒店 |  |  | 
+ | 05.29 (Tue) | 05.30 (Wed) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [Sell out](https://www.nvidia.com/zh-tw/gtc/register/) | [Register Now](https://www.nvidia.com/zh-tw/gtc/sessions/training/) | [End](https://www.nvidia.com/zh-tw/gtc/present/talks/) | 台北萬豪酒店 |  |  | 
 
 ## June
 
@@ -66,6 +66,7 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 11.03 (Sat) | 11.04 (Sun) | [MOPCON 2018](https://mopcon.org/2018/) |  |  | 高雄國際會議中心 3F & 4F | 
+ | 11.10 (Sat) | 11.11 (Sun) | 預定 JSDC Taiwan 2018 |  |  |  | 
 
 ---
 
@@ -80,7 +81,7 @@
  | ✔ | TDOHacker - TDOH | [TDOHacker](http://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  | ✔ | TDOHacker - TDOH | [THOH Conf](http://tdoh-conf.online/) |  | 
  |  | JCConf Taiwan | [Link](http://jcconf.tw/) | [Link](https://www.facebook.com/groups/185338705012/) | 
- |  | [JSDC Taiwan (籌備中)](https://goo.gl/sqf8u8) | [Link](http://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
+ |  | JSDC Taiwan | [Link](http://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
  | ✔ | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
  | ✔ | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
  | ✔ | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
