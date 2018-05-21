@@ -63,7 +63,7 @@
         "Start date": "05.29 (Tue)",
         "End date": "05.30 (Wed)",
         "Name": {"link": {"title": "GPU Technology Conference", "source": "https://www.nvidia.com/zh-tw/gtc/"}},
-        "Ticket": {"link": {"title": "Register Now", "source": "https://www.nvidia.com/zh-tw/gtc/register/"}},
+        "Ticket": {"link": {"title": "Sell out", "source": "https://www.nvidia.com/zh-tw/gtc/register/"}},
         "Workshop": {"link": {"title": "Register Now", "source": "https://www.nvidia.com/zh-tw/gtc/sessions/training/"}},
         "Call for Speaker": {"link": {"title": "End", "source": "https://www.nvidia.com/zh-tw/gtc/present/talks/"}},
         "Venue": "台北萬豪酒店",
@@ -224,6 +224,13 @@
         "Ticket": "",
         "Call for Speaker": "",
         "Venue": "高雄國際會議中心 3F & 4F"
+      }, {
+        "Start date": "11.10 (Sat)",
+        "End date": "11.11 (Sun)",
+        "Name": "預定 JSDC Taiwan 2018",
+        "Ticket": "",
+        "Call for Speaker": "",
+        "Venue": ""
       }]
     }}
   ]
