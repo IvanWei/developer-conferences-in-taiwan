@@ -56,6 +56,7 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 09.11 (Tue) | 09.13 (Thu) | [DevOpsDays Taipei 2018](https://devopsdays.tw/) |  | [Link](https://ithomeonline.typeform.com/to/BWVLs2) |  | 
+ | 09.15 (Sat) | --- | [DataCon.TW 2018](https://www.facebook.com/datacon.tw/photos/a.1442499302464434.1073741828.1422516357796062/1735340079847020/?type=3) |  | [Link](https://goo.gl/jzpqne) |  | 
 
 ## October
 
@@ -77,8 +78,8 @@
  | ✔ | AgileCommunity.tw | [Link](http://agilecommunity.tw/) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
  |  | BSDTW | [Link](https://bsdtw.org/) | [Link](https://www.facebook.com/BSDTW/) | 
  | ✔ | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) | 
- |  | DataCon.TW & Taiwan Hadoop User Group |  | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
- |  | DataCon.TW & Taiwan Hadoop User Group |  | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
+ | ✔ | DataCon.TW & Taiwan Hadoop User Group |  | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
+ | ✔ | DataCon.TW & Taiwan Hadoop User Group |  | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
  | ✔ | FED X DESIGN | [Link](http://www.fed.tw/) | [Link](https://www.facebook.com/groups/f2e.tw/) | 
  | ✔ | INFAS 全國中學生資訊年會 | [Link](https://infas.club/) | [Link](https://www.facebook.com/infas.club) | 
  | ✔ | TDOHacker - TDOH | [TDOHacker](http://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
