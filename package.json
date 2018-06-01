@@ -1,6 +1,6 @@
 {
   "name": "developer-conferences-in-taiwan",
-  "version": "18.5.21",
+  "version": "18.6.1",
   "description": "developer conferences in taiwan",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "copy": "cp ./node_modules/tui-calendar/dist/tui-calendar.css ./src/tui-calendar.css",
     "dev": "npm run copy && NODE_ENV=development webpack-dev-server --config ./webpack.config.js",
     "prod": "NODE_ENV=production webpack",
-    "prod-serv": "NODE_ENV=production webpack-dev-server --config ./webpack.config.js"
+    "prod-serv": "NODE_ENV=production webpack-dev-server --config ./webpack.config.js",
+    "build-all": "npm run build && npm run prod"
   },
   "repository": {
     "type": "git",
