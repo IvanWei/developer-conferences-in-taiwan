@@ -18,27 +18,29 @@
  | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
  | 05.04 (Thu) | 05.06 (Sat) | [MIX 2018 創新設計年會](http://mixconf.tw/) | [Sell out](https://userxper.kktix.cc/events/mix-2018) | [Sell out](https://userxper.kktix.cc/events/mix-2018-workshop) |  | 三創生活園區 12F |  |  | 
  | 05.16 (Web) | --- | [iThome Cloud Summit 2018](https://cloudsummit.ithome.com.tw/) | [Sell out](https://cloudsummit.ithome.com.tw/signup.html) |  |  | 台北國際會議中心 (TICC) |  |  | 
- | 05.28 (Mon) | 05.30 (Wed) | [DevDays Asia 2018 亞太技術年會](https://www.microsoft.com/taiwan/events/2018devdays/) | [Register Now](https://www.accupass.com/event/1802230727421714084630) |  |  | 華南銀行國際會議中心 | [Link](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1656928304394209/) | [Link](https://www.facebook.com/groups/laravel.tw/permalink/1671089109626798/) | 
- | 05.29 (Tue) | 05.30 (Wed) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [Sell out](https://www.nvidia.com/zh-tw/gtc/register/) | [Register Now](https://www.nvidia.com/zh-tw/gtc/sessions/training/) | [End](https://www.nvidia.com/zh-tw/gtc/present/talks/) | 台北萬豪酒店 |  |  | 
+ | 05.28 (Mon) | 05.30 (Wed) | [DevDays Asia 2018 亞太技術年會](https://www.microsoft.com/taiwan/events/2018devdays/) | [Sell out](https://www.accupass.com/event/1802230727421714084630) |  |  | 華南銀行國際會議中心 | [Link](https://www.facebook.com/groups/DevOpsTaiwan/permalink/1656928304394209/) | [Link](https://www.facebook.com/groups/laravel.tw/permalink/1671089109626798/) | 
+ | 05.29 (Tue) | 05.30 (Wed) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [Sell out](https://www.nvidia.com/zh-tw/gtc/register/) | [Sell out](https://www.nvidia.com/zh-tw/gtc/sessions/training/) | [End](https://www.nvidia.com/zh-tw/gtc/present/talks/) | 台北萬豪酒店 |  |  | 
+ | 05.31 (Thu) | --- | 智慧科技論壇 | [Sell out](https://events.panmedia.asia/events/e1804251614130074) |  |  | 台大集思會議中心 蘇格拉底廳 |  |  | 
 
 ## June
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Register Now](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) |  | 中央研究院人文社會科學館 | 
+ | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Sell out](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) |  | 中央研究院人文社會科學館 | 
+ | 06.10 (Sun) | --- | [INFAS 全國中學生資訊年會 2018](https://infas.club/2018/) | [Register Now](https://infas.kktix.cc/events/infas2018) | [End](https://infas.club/2018/cfp/) | 交大工程三館 | 
  | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | [Register Now](http://summit.ithome.com.tw/kubernetes/#ticket) | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 4 樓 | 
  | 06.20 (Wed) | 06.23 (Sat) | 傳言有 S 牌 APP Conf |  |  |  | 
  | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei](https://aws.amazon.com/tw/summits/) | [Register Now](https://pages.awscloud.com/aws-summit-tpe-2018-registration.html) |  | 台北國際會議中心 | 
- | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | [Register Now](http://summit.ithome.com.tw/agile/#ticket) | [Link](https://ithomeonline.typeform.com/to/lVAogM) | 富邦國際會議中心 B2 | 
+ | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | [Register Now](http://summit.ithome.com.tw/agile/#ticket) | [End](https://ithomeonline.typeform.com/to/lVAogM) | 富邦國際會議中心 B2 | 
 
 ## July
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | More | 
  | --- | --- | --- | --- | --- | --- | --- | 
- | 07.06 (Fri) | 07.07 (Sat) | Connect With AI 年度最強人工智慧論壇 | [Register Now](https://techorange.kktix.cc/events/connect-with-ai) |  | 三創數位生活園區 12 樓 |  | 
+ | 07.06 (Fri) | 07.07 (Sat) | Connect With AI | [Register Now](https://techorange.kktix.cc/events/connect-with-ai) |  | 三創數位生活園區 12 樓 |  | 
  | 07.08 (Sun) | --- | [LaravelConf Taiwan 2018](https://laravelconf.tw/) | [Register Now](https://laravel-dojo.kktix.cc/events/laravelconftw2018) | [Link](https://medium.com/laraveldojo/laravelconf-taiwan-2018-call-for-presentations-b212cc7b249b) | 張榮發文教基金會 國際會議廳 |  | 
  | 07.14 (Sat) | --- | [FED X DESIGN 2018](http://2018.fedc.tw/) | [Register Now](https://f2e.kktix.cc/events/fedc-2018) | [End](https://www.facebook.com/groups/f2e.tw/permalink/1552232571480769/) | 張榮發國際會議中心 |  | 
- | 07.18 (Web) | 07.19 (Thu) | [ModernWeb 2018](http://modernweb.tw/) |  | [Link](https://modernweb.tw/cfp/) |  |  | 
+ | 07.18 (Web) | 07.19 (Thu) | [ModernWeb 2018](http://modernweb.tw/) | [Register Now](https://modernweb.tw/#ticket) | [End](https://modernweb.tw/cfp/) |  |  | 
  | 07.21 (Sat) | 07.27 (Fri) | [DebCamp](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | [投稿規範](https://debconf18.debconf.org/cfp/) | 
  | 07.28 (Sat) | --- | [DebConf18](https://debconf18.debconf.org/) | [Register Now](https://debconf18.debconf.org/register/) | [Link](https://debconf18.debconf.org/talks/new/) | 國立交通大學 電子資訊研究大樓 | [投稿規範](https://debconf18.debconf.org/cfp/) | 
  | 07.27 (Fri) | 07.28 (Sat) | [HITCON Community 2018 Conference](https://hitcon.org/) | [Register Now](https://hitcon.kktix.cc/events/hitcon-cmt-2018) | [Link](https://cfp2018.hitcon.org/zh/what-is-hitcon) | 台北南港展覽館 | [投稿規範](https://blog.hitcon.org/2018/03/hitcon-2018-cmt-cfp.html) | 
@@ -47,7 +49,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 08.11 (Sat) | 08.12 (Sun) | [COSCUP 2018](https://2018.coscup.org/) |  | [Link](https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform) | 台灣科技大學 | 
+ | 08.11 (Sat) | 08.12 (Sun) | [COSCUP 2018](https://2018.coscup.org/) |  | [End](https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform) | 台灣科技大學 | 
 
 ## September
 
@@ -65,7 +67,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 11.03 (Sat) | 11.04 (Sun) | [MOPCON 2018](https://mopcon.org/2018/) |  |  | 高雄國際會議中心 3F & 4F | 
+ | 11.03 (Sat) | 11.04 (Sun) | [MOPCON 2018](https://mopcon.org/2018/) |  | [Link](https://mopcon.kktix.cc/events/mopcon2018-cfp-1) | 高雄國際會議中心 3F & 4F | 
  | 11.10 (Sat) | 11.11 (Sun) | 預定 JSDC Taiwan 2018 |  |  |  | 
 
 ---
@@ -78,6 +80,7 @@
  |  | DataCon.TW & Taiwan Hadoop User Group |  | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
  |  | DataCon.TW & Taiwan Hadoop User Group |  | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
  | ✔ | FED X DESIGN | [Link](http://www.fed.tw/) | [Link](https://www.facebook.com/groups/f2e.tw/) | 
+ | ✔ | INFAS 全國中學生資訊年會 | [Link](https://infas.club/) | [Link](https://www.facebook.com/infas.club) | 
  | ✔ | TDOHacker - TDOH | [TDOHacker](http://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  | ✔ | TDOHacker - TDOH | [THOH Conf](http://tdoh-conf.online/) |  | 
  |  | JCConf Taiwan | [Link](http://jcconf.tw/) | [Link](https://www.facebook.com/groups/185338705012/) | 
