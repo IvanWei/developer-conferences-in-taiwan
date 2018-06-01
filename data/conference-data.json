@@ -53,7 +53,7 @@
         "Start date": "05.28 (Mon)",
         "End date": "05.30 (Wed)",
         "Name": {"link": {"title": "DevDays Asia 2018 亞太技術年會", "source": "https://www.microsoft.com/taiwan/events/2018devdays/"}},
-        "Ticket": {"link": {"title": "Register Now", "source": "https://www.accupass.com/event/1802230727421714084630"}},
+        "Ticket": {"link": {"title": "Sell out", "source": "https://www.accupass.com/event/1802230727421714084630"}},
         "Workshop": "",
         "Call for Speaker": "",
         "Venue": "華南銀行國際會議中心",
@@ -64,9 +64,19 @@
         "End date": "05.30 (Wed)",
         "Name": {"link": {"title": "GPU Technology Conference", "source": "https://www.nvidia.com/zh-tw/gtc/"}},
         "Ticket": {"link": {"title": "Sell out", "source": "https://www.nvidia.com/zh-tw/gtc/register/"}},
-        "Workshop": {"link": {"title": "Register Now", "source": "https://www.nvidia.com/zh-tw/gtc/sessions/training/"}},
+        "Workshop": {"link": {"title": "Sell out", "source": "https://www.nvidia.com/zh-tw/gtc/sessions/training/"}},
         "Call for Speaker": {"link": {"title": "End", "source": "https://www.nvidia.com/zh-tw/gtc/present/talks/"}},
         "Venue": "台北萬豪酒店",
+        "Coupon 1": "",
+        "Coupon 2": ""
+      }, {
+        "Start date": "05.31 (Thu)",
+        "End date": "---",
+        "Name": "智慧科技論壇",
+        "Ticket": {"link": {"title": "Sell out", "source": "https://events.panmedia.asia/events/e1804251614130074"}},
+        "Workshop": "",
+        "Call for Speaker": "",
+        "Venue": "台大集思會議中心 蘇格拉底廳",
         "Coupon 1": "",
         "Coupon 2": ""
       }]
@@ -79,9 +89,16 @@
         "Start date": "06.01 (Fir)",
         "End date": "06.02 (Sat)",
         "Name": {"link": {"title": "PyCon Taiwan 2018", "source": "https://tw.pycon.org"}},
-        "Ticket": {"link": {"title": "Register Now", "source": "https://tw.pycon.org/2018/zh-hant/registration/ticket-info/"}},
+        "Ticket": {"link": {"title": "Sell out", "source": "https://tw.pycon.org/2018/zh-hant/registration/ticket-info/"}},
         "Call for Speaker": "",
         "Venue": "中央研究院人文社會科學館"
+      }, {
+        "Start date": "06.10 (Sun)",
+        "End date": "---",
+        "Name": {"link": {"title": "INFAS 全國中學生資訊年會 2018", "source": "https://infas.club/2018/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://infas.kktix.cc/events/infas2018"}},
+        "Call for Speaker": {"link": {"title": "End", "source": "https://infas.club/2018/cfp/"}},
+        "Venue": "交大工程三館"
       }, {
         "Start date": "06.14 (Thu)",
         "End date": "---",
@@ -108,7 +125,7 @@
         "End date": "06.29 (Fri)",
         "Name": {"link": {"title": "Agile Summit", "source": "http://summit.ithome.com.tw/agile/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "http://summit.ithome.com.tw/agile/#ticket"}},
-        "Call for Speaker": {"link": {"title": "Link", "source": "https://ithomeonline.typeform.com/to/lVAogM"}},
+        "Call for Speaker": {"link": {"title": "End", "source": "https://ithomeonline.typeform.com/to/lVAogM"}},
         "Venue": "富邦國際會議中心 B2"
       }]
     }},
@@ -119,7 +136,7 @@
       "rows": [{
         "Start date": "07.06 (Fri)",
         "End date": "07.07 (Sat)",
-        "Name": "Connect With AI 年度最強人工智慧論壇",
+        "Name": "Connect With AI",
         "Ticket": {"link": {"title": "Register Now", "source": "https://techorange.kktix.cc/events/connect-with-ai"}},
         "Call for Speaker": "",
         "Venue": "三創數位生活園區 12 樓",
@@ -144,8 +161,8 @@
         "Start date": "07.18 (Web)",
         "End date": "07.19 (Thu)",
         "Name": {"link": {"title": "ModernWeb 2018", "source": "http://modernweb.tw/"}},
-        "Ticket": "",
-        "Call for Speaker": {"link": {"title": "Link", "source": "https://modernweb.tw/cfp/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://modernweb.tw/#ticket"}},
+        "Call for Speaker": {"link": {"title": "End", "source": "https://modernweb.tw/cfp/"}},
         "Venue": "",
         "More": ""
       }, {
@@ -183,7 +200,7 @@
         "End date": "08.12 (Sun)",
         "Name": {"link": {"title": "COSCUP 2018", "source": "https://2018.coscup.org/"}},
         "Ticket": "",
-        "Call for Speaker": {"link": {"title": "Link", "source": "https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform"}},
+        "Call for Speaker": {"link": {"title": "End", "source": "https://docs.google.com/forms/d/e/1FAIpQLSfKnffsc_Ke2ZEP3fInJkAwEzXFUM24HZ7dYYluoGLmHMQjZw/viewform"}},
         "Venue": "台灣科技大學"
       }]
     }},
@@ -222,7 +239,7 @@
         "End date": "11.04 (Sun)",
         "Name": {"link": {"title": "MOPCON 2018", "source": "https://mopcon.org/2018/"}},
         "Ticket": "",
-        "Call for Speaker": "",
+        "Call for Speaker": {"link": {"title": "Link", "source": "https://mopcon.kktix.cc/events/mopcon2018-cfp-1"}},
         "Venue": "高雄國際會議中心 3F & 4F"
       }, {
         "Start date": "11.10 (Sat)",

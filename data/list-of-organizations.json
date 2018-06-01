@@ -34,6 +34,11 @@
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/f2e.tw/"}}
       }, {
         "Announcement": "✔",
+        "Name": "INFAS 全國中學生資訊年會",
+        "Main Website": {"link": {"title": "Link", "source": "https://infas.club/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/infas.club"}}
+      }, {
+        "Announcement": "✔",
         "Name": "TDOHacker - TDOH",
         "Main Website": {"link": {"title": "TDOHacker", "source": "http://tdohacker.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/tdohacker"}}
