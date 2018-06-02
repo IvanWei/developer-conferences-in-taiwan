@@ -1,4 +1,4 @@
-import Calendar from 'tui-calendar';
+import Calendar from '@ivanwei/tui-calendar';
 import './tui-calendar.css';
 import './style.css';
 
@@ -75,7 +75,6 @@ $('#next-view').on('click', (e) => {
 
 calendar.on('clickSchedule', function(event) {
   const schedule = event.schedule;
-  console.log('schedule:: ', schedule)
   const startDate = new Date(schedule.start);
   const endDate = new Date(schedule.end);
 
