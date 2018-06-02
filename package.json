@@ -37,6 +37,6 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "@ivanwei/tui-calendar": "^0.0.1"
+    "@ivanwei/tui-calendar": "^0.0.2"
   }
 }
