@@ -29,7 +29,7 @@
  | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Sell out](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) |  | 中央研究院人文社會科學館 | 
  | 06.10 (Sun) | --- | [INFAS 全國中學生資訊年會 2018](https://infas.club/2018/) | [Register Now](https://infas.kktix.cc/events/infas2018) | [End](https://infas.club/2018/cfp/) | 交大工程三館 | 
  | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | [Register Now](http://summit.ithome.com.tw/kubernetes/#ticket) | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 4 樓 | 
- | 06.20 (Wed) | 06.23 (Sat) | 傳言有 S 牌 APP Conf |  |  |  | 
+ | 06.21 (Thu) | --- | [Slack Dev Meetup](https://www.facebook.com/clementtang/posts/10214918398127186) | [Register Now](https://www.meetup.com/SlackDevs-Taipei/events/250919250/) |  | 松菸 台灣創意設計中心 創意劇場 | 
  | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei](https://aws.amazon.com/tw/summits/) | [Register Now](https://pages.awscloud.com/aws-summit-tpe-2018-registration.html) |  | 台北國際會議中心 | 
  | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | [Register Now](http://summit.ithome.com.tw/agile/#ticket) | [End](https://ithomeonline.typeform.com/to/lVAogM) | 富邦國際會議中心 B2 | 
 
