@@ -107,12 +107,12 @@
         "Call for Speaker": {"link": {"title": "End", "source": "https://ithomeonline.typeform.com/to/IRAs67"}},
         "Venue": "台大醫院國際會議中心 4 樓"
       }, {
-        "Start date": "06.20 (Wed)",
-        "End date": "06.23 (Sat)",
-        "Name": "傳言有 S 牌 APP Conf",
-        "Ticket": "",
+        "Start date": "06.21 (Thu)",
+        "End date": "---",
+        "Name": {"link": {"title": "Slack Dev Meetup", "source": "https://www.facebook.com/clementtang/posts/10214918398127186"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://www.meetup.com/SlackDevs-Taipei/events/250919250/"}},
         "Call for Speaker": "",
-        "Venue": ""
+        "Venue": "松菸 台灣創意設計中心 創意劇場"
       }, {
         "Start date": "06.27 (Web)",
         "End date": "06.28 (Thu)",
