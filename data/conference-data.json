@@ -93,6 +93,13 @@
         "Call for Speaker": "",
         "Venue": "中央研究院人文社會科學館"
       }, {
+        "Start date": "06.06 (Web)",
+        "End date": "06.08 (Fri)",
+        "Name": {"link": {"title": "Infinity Ventures Summit", "source": "https://www.ivs.events/"}},
+        "Ticket": "",
+        "Call for Speaker": "",
+        "Venue": "台北萬豪酒店"
+      }, {
         "Start date": "06.10 (Sun)",
         "End date": "---",
         "Name": {"link": {"title": "INFAS 全國中學生資訊年會 2018", "source": "https://infas.club/2018/"}},
@@ -114,12 +121,33 @@
         "Call for Speaker": "",
         "Venue": "松菸 台灣創意設計中心 創意劇場"
       }, {
+        "Start date": "06.22 (Fri)",
+        "End date": "---",
+        "Name": {"link": {"title": "「智慧製作 數位工廠-啟動工業 4.0」論壇 - 台南場", "source": "https://industry4.ithome.com.tw/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://industry4.ithome.com.tw/tainan.html"}},
+        "Call for Speaker": "",
+        "Venue": "台南大億麗緻酒店 5F 麗緻 B 廳"
+      }, {
+        "Start date": "06.26 (Tue)",
+        "End date": "---",
+        "Name": {"link": {"title": "「智慧製作 數位工廠-啟動工業 4.0」論壇 - 台中場", "source": "https://industry4.ithome.com.tw/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://industry4.ithome.com.tw/taichung.html"}},
+        "Call for Speaker": "",
+        "Venue": "台中永豐棧酒店大墩館 3F 牡丹廳"
+      }, {
         "Start date": "06.27 (Web)",
         "End date": "06.28 (Thu)",
         "Name": {"link": {"title": "AWS Summit Taipei", "source": "https://aws.amazon.com/tw/summits/"}},
         "Ticket": {"link": {"title": "Register Now", "source": "https://pages.awscloud.com/aws-summit-tpe-2018-registration.html"}},
         "Call for Speaker": "",
         "Venue": "台北國際會議中心"
+      }, {
+        "Start date": "06.27 (Web)",
+        "End date": "06.28 (Thu)",
+        "Name": {"link": {"title": "2018 ICSB WORLD CONGRESS 世界中小企業暨創業家年會", "source": "https://w1.careernet.org.tw/icsb/"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://w1.careernet.org.tw/icsb/index.html#prices"}},
+        "Call for Speaker": "",
+        "Venue": "台北文創 Taipei New Horizon 6樓、14樓"
       }, {
         "Start date": "06.28 (Thu)",
         "End date": "06.29 (Fri)",
