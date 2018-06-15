@@ -142,6 +142,14 @@
         "Venue": "三創數位生活園區 12 樓",
         "More": ""
       }, {
+        "Start date": "07.10 (Thu)",
+        "End date": "---",
+        "Name": {"link": {"title": "2018 Media⁺Tech｜媒體科技大會", "source": "https://www.media-tech.com.tw/index.html"}},
+        "Ticket": {"link": {"title": "Register Now", "source": "https://www.media-tech.com.tw/index.html"}},
+        "Call for Speaker": "",
+        "Venue": "TICC 台北國際會議中心",
+        "More": ""
+      }, {
         "Start date": "07.08 (Sun)",
         "End date": "---",
         "Name": {"link": {"title": "LaravelConf Taiwan 2018", "source": "https://laravelconf.tw/"}},
