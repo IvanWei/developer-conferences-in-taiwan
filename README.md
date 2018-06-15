@@ -27,10 +27,14 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 06.01 (Fir) | 06.02 (Sat) | [PyCon Taiwan 2018](https://tw.pycon.org) | [Sell out](https://tw.pycon.org/2018/zh-hant/registration/ticket-info/) |  | 中央研究院人文社會科學館 | 
- | 06.10 (Sun) | --- | [INFAS 全國中學生資訊年會 2018](https://infas.club/2018/) | [Register Now](https://infas.kktix.cc/events/infas2018) | [End](https://infas.club/2018/cfp/) | 交大工程三館 | 
- | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | [Register Now](http://summit.ithome.com.tw/kubernetes/#ticket) | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 4 樓 | 
+ | 06.06 (Web) | 06.08 (Fri) | [Infinity Ventures Summit](https://www.ivs.events/) |  |  | 台北萬豪酒店 | 
+ | 06.10 (Sun) | --- | [INFAS 全國中學生資訊年會 2018](https://infas.club/2018/) | [Sell out](https://infas.kktix.cc/events/infas2018) | [End](https://infas.club/2018/cfp/) | 交大工程三館 | 
+ | 06.14 (Thu) | --- | [Kubernetes Summit](http://summit.ithome.com.tw/kubernetes/) | [Sell out](http://summit.ithome.com.tw/kubernetes/#ticket) | [End](https://ithomeonline.typeform.com/to/IRAs67) | 台大醫院國際會議中心 4 樓 | 
  | 06.21 (Thu) | --- | [Slack Dev Meetup](https://www.facebook.com/clementtang/posts/10214918398127186) | [Register Now](https://www.meetup.com/SlackDevs-Taipei/events/250919250/) |  | 松菸 台灣創意設計中心 創意劇場 | 
+ | 06.22 (Fri) | --- | [「智慧製作 數位工廠-啟動工業 4.0」論壇 - 台南場](https://industry4.ithome.com.tw/) | [Register Now](https://industry4.ithome.com.tw/tainan.html) |  | 台南大億麗緻酒店 5F 麗緻 B 廳 | 
+ | 06.26 (Tue) | --- | [「智慧製作 數位工廠-啟動工業 4.0」論壇 - 台中場](https://industry4.ithome.com.tw/) | [Register Now](https://industry4.ithome.com.tw/taichung.html) |  | 台中永豐棧酒店大墩館 3F 牡丹廳 | 
  | 06.27 (Web) | 06.28 (Thu) | [AWS Summit Taipei](https://aws.amazon.com/tw/summits/) | [Register Now](https://pages.awscloud.com/aws-summit-tpe-2018-registration.html) |  | 台北國際會議中心 | 
+ | 06.27 (Web) | 06.28 (Thu) | [2018 ICSB WORLD CONGRESS 世界中小企業暨創業家年會](https://w1.careernet.org.tw/icsb/) | [Register Now](https://w1.careernet.org.tw/icsb/index.html#prices) |  | 台北文創 Taipei New Horizon 6樓、14樓 | 
  | 06.28 (Thu) | 06.29 (Fri) | [Agile Summit](http://summit.ithome.com.tw/agile/) | [Register Now](http://summit.ithome.com.tw/agile/#ticket) | [End](https://ithomeonline.typeform.com/to/lVAogM) | 富邦國際會議中心 B2 | 
 
 ## July
@@ -38,6 +42,7 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | More | 
  | --- | --- | --- | --- | --- | --- | --- | 
  | 07.06 (Fri) | 07.07 (Sat) | Connect With AI | [Register Now](https://techorange.kktix.cc/events/connect-with-ai) |  | 三創數位生活園區 12 樓 |  | 
+ | 07.10 (Thu) | --- | [2018 Media⁺Tech｜媒體科技大會](https://www.media-tech.com.tw/index.html) | [Register Now](https://www.media-tech.com.tw/index.html) |  | TICC 台北國際會議中心 |  | 
  | 07.08 (Sun) | --- | [LaravelConf Taiwan 2018](https://laravelconf.tw/) | [Register Now](https://laravel-dojo.kktix.cc/events/laravelconftw2018) | [Link](https://medium.com/laraveldojo/laravelconf-taiwan-2018-call-for-presentations-b212cc7b249b) | 張榮發文教基金會 國際會議廳 |  | 
  | 07.14 (Sat) | --- | [FED X DESIGN 2018](http://2018.fedc.tw/) | [Register Now](https://f2e.kktix.cc/events/fedc-2018) | [End](https://www.facebook.com/groups/f2e.tw/permalink/1552232571480769/) | 張榮發國際會議中心 |  | 
  | 07.18 (Web) | 07.19 (Thu) | [ModernWeb 2018](http://modernweb.tw/) | [Register Now](https://modernweb.tw/#ticket) | [End](https://modernweb.tw/cfp/) |  |  | 
@@ -69,7 +74,6 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 11.03 (Sat) | 11.04 (Sun) | [MOPCON 2018](https://mopcon.org/2018/) |  | [Link](https://mopcon.kktix.cc/events/mopcon2018-cfp-1) | 高雄國際會議中心 3F & 4F | 
- | 11.10 (Sat) | 11.11 (Sun) | 預定 JSDC Taiwan 2018 |  |  |  | 
 
 ---
 
