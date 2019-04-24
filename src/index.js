@@ -11,7 +11,7 @@ let calendarId = 0;
 const calendar = new Calendar('#calendar', {
   defaultView: 'month',
   taskView: false,
-  // isReadOnly: true,
+  isReadOnly: true,
 });
 
 confs.forEach((conf, index) => {
@@ -22,16 +22,18 @@ confs.forEach((conf, index) => {
     taskId++;
     calendarId++;
 
-    CalendarList.push({
-      id: taskId,
-      calendarId,
-      title: row.Name.link && row.Name.link.title || row.Name,
-      category: 'time',
-      start: new Date('2018.' + row['Start date']).toUTCString(),
-      end: new Date('2018.' + (row['End date'] === '---'?row['Start date']:row['End date'])).toUTCString(),
-      location: row['Venue'],
-      raw: row.Ticket.link && row.Ticket.link.source || row.Ticket,
-    });
+    if (row['Start date']) {
+      CalendarList.push({
+        id: taskId,
+        calendarId,
+        title: row.Name.link && row.Name.link.title || row.Name,
+        category: 'time',
+        start: new Date(row['Year'] + '.' + row['Start date']).toUTCString(),
+        end: new Date(row['Year'] + '.' + (row['End date'] === '---'?row['Start date']:row['End date'])).toUTCString(),
+        location: row['Venue'],
+        raw: row.Ticket.link && row.Ticket.link.source || row.Ticket,
+      });
+    }
   });
 
 });
