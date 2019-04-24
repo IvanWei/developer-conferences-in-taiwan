@@ -21,11 +21,7 @@ html(lang='zh-tw')
     a(href="https://github.com/IvanWei/developer-conferences-in-taiwan")
       img(style="position: absolute;top: 0;right: 0;border: 0;z-index: 1;", src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png", alt="Fork me on GitHub")
 
-
-
-    - const today = new Date();
-    - const formatDate = today.getFullYear() + '-' + (today.getMonth() +1);
-    span#current-date #{formatDate}
+    span#current-date
     .btn-change-view.btn.btn-default(data-change-view="day")
       span.text(style="margin-left: 5px;") Day
     .btn-change-view.btn.btn-default(data-change-view="week")
@@ -43,5 +39,12 @@ html(lang='zh-tw')
     #calendar
 
     footer
-      | Copyright&copy;2018
+      - const NOW_YEAR = new Date().getFullYear();
+      | Copyright&copy;#{NOW_YEAR}
       a(href="https://blog.ivanwei.co" style="margin-left: 10px;") Ivan Wei
+
+    script.
+      const today = new Date();
+      const formatDate = today.getFullYear() + '-' + (today.getMonth() +1);
+
+      document.getElementById('current-date').textContent = formatDate;
