@@ -123,3 +123,4 @@ $RECYCLE.BIN/
 *.lnk
 
 dist/
+refresh-json.sh
