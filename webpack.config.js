@@ -13,7 +13,7 @@ let config = {
     app: ['./src'],
   },
   output: {
-    path: path.resolve(__dirname, './docs'),
+    path: path.resolve(__dirname, './dist'),
     publicPath: '/',
   },
   plugins: [
@@ -55,8 +55,9 @@ if (NODE_ENV === 'development') {
     open: false,
   };
 } else {
+  config['devtool'] = 'source-map';
   config['devServer'] = {
-    contentBase: path.join(__dirname, "docs"),
+    contentBase: path.join(__dirname, "dist"),
     port: 8000,
     compress: true,
     hot: true,
