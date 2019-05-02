@@ -7,17 +7,17 @@ run-refresh-shell:
 
 	@echo "Commit conference data"
 	git add ./data/conference-data.json
-	git commit -m "Update conference data at $(`date +'%Y-%m-%d %H:%M:%S%z'`)"
+	git commit -m "Update conference data at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
 
 	@echo "Done!!!"
 
-build-conference-page:
-	@echo "Update README.md and Pages"
-	npm run build-all
+build-README-file:
+	@echo "Build README.md"
+	npm run build
 
 deploy:
 	make run-refresh-shell
-	make build-conference-page
+	make build-README-file
 
-	git add .
-	git commit -m "Update README.md and Pages at $(`date +'%Y-%m-%d %H:%M:%S%z'`)"
+	git add README.md
+	git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
