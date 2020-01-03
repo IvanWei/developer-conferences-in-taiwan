@@ -1,23 +1,27 @@
-run-refresh-shell:
-	@echo "Download refresh shell..."
-	curl -O $(SHELL_URL)
+refresh-conference-data:
+  @echo "Download conference data from google sheet..."
+  curl -o "./data/conference-data.json" -L "$(secret.conferenceSourceUrl)"
 
-	@echo "Run refresh shell..."
-	$(SHELL) refresh-json.sh
+  @echo "Update json file of conference data"
+  git add ./data/conference-data.json
+  git commit -m "Update conference data at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
 
-	@echo "Commit conference data"
-	git add ./data/conference-data.json
-	git commit -m "Update conference data at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
+  @echo "Done!!!"
 
-	@echo "Done!!!"
+refresh-README-file:
+  @echo "Update README.md"
+  npm run build
 
-build-README-file:
-	@echo "Build README.md"
-	npm run build
+  git add README.md
+  git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
 
-deploy:
-	make run-refresh-shell
-	make build-README-file
+  @echo "Done!!!"
 
-	git add README.md
-	git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
+deployment:
+  make refresh-conference-data
+  make refresh-README-file
+
+  @echo "Deployment!!!"
+  git push
+
+  @echo "Done!!!"
