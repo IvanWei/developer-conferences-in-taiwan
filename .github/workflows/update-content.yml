@@ -17,12 +17,13 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12
-      - run: yarn install
       - name: Setup ssh-agent
         uses: webfactory/ssh-agent@v0.1.1
           with:
             ssh-private-key: ${{secrets.SSH_PRIVATE_KEY}}
       - name: Refresh Content
-        env:
-          CONFERENCE_SOURCE_URL: ${{secret.conferenceSourceUrl}}
-        run: make deployment
+          env:
+            CONFERENCE_SOURCE_URL: ${{secret.conferenceSourceUrl}}
+          run: |
+            yarn install
+            make deployment
