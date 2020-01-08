@@ -1,6 +1,6 @@
 refresh-conference-data:
   @echo "Download conference data from google sheet..."
-  curl -o "./data/conference-data.json" -L "$(secret.conferenceSourceUrl)"
+  curl -o "./data/conference-data.json" -L "$(CONFERENCE_SOURCE_URL)"
 
   @echo "Update json file of conference data"
   git add ./data/conference-data.json
@@ -17,11 +17,13 @@ refresh-README-file:
 
   @echo "Done!!!"
 
-deployment:
-  make refresh-conference-data
-  make refresh-README-file
-
+manual-deployment:
   @echo "Deployment!!!"
   git push
 
   @echo "Done!!!"
+
+refresh-and-deployment:
+  make refresh-conference-data
+  make refresh-README-file
+  make manual-deployment
