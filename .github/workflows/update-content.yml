@@ -26,6 +26,6 @@ jobs:
           CONFERENCE_SOURCE_URL: ${{secrets.conferenceSourceUrl}}
         run: |
           yarn install
-          git config --global user.email "scorpionseed@gmail.com"
-          git config --global user.name "Ivan Wei(CI)"
+          git config --global user.email "ivanwei_slack@outlook.com"
+          git config --global user.name "WorldEarthBot"
           make refresh-and-deployment
