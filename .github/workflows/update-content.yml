@@ -1,15 +1,14 @@
-name: Update Content
+name: Update README.md
 on:
   push:
-    branches:
-      - master
+    branches: [master]
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
   contents:
-    name: Update Content
     runs-on: ubuntu-latest
+
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
