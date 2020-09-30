@@ -14,7 +14,7 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
       - name: Setup ssh-agent
-        uses: webfactory/ssh-agent@v0.1.1
+        uses: webfactory/ssh-agent@v0.4.0
         with:
           ssh-private-key: ${{secrets.SSH_PRIVATE_KEY}}
       - name: Setup Node.js
@@ -23,7 +23,7 @@ jobs:
           node-version: 12
       - name: Refresh Content
         env:
-          CONFERENCE_SOURCE_URL: ${{secrets.conferenceSourceUrl}}
+          CONFERENCE_SOURCE_URL: ${{secrets.CONFERENCE_SOURCE_URL}}
         run: |
           yarn install
           git config --global user.email "ivanwei_slack@outlook.com"
