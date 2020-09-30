@@ -27,7 +27,7 @@ refresh-README-file:
 
 manual-deployment:
 	@echo "Deployment!!!"
-	git push
+	git push -f
 
 	@echo "Done!!!"
 
