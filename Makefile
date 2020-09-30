@@ -12,7 +12,7 @@ refresh-README-file:
 	@echo "* Update README.md"
 	npm run build
 
-	git add ./README.md
+	git add .
 	git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"
 
 	@echo "* Done!!!"
