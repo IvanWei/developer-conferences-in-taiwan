@@ -13,6 +13,46 @@
  | --- | --- | --- | --- | --- | --- | 
  | 4.20 (Mon) | 4.24 (Fri) | [World Wide Web conference 2020](https://www2020.thewebconf.org/) | --- | --- | 台北國際會議中心 | 
 
+## July
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 7.25 (Sat) | 7.25 (Sat) | [LaravelConf Taiwan 2020](https://laravelconf.tw/) | --- | --- | 公務人力發展中心福華國際文教會館14樓 - 貴賓廳 | 
+
+## August
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 8.11 (Tue) | 8.12 (Web) | [CYBERSEC 2020 臺灣資安大會](https://cyber.ithome.com.tw/) | --- | --- | 南港展覽二館 | 
+ | 8.23 (Sun) | 8.29 (Sat) | [DebConf20](https://debconf20.debconf.org/) | --- | --- | Online | 
+
+## September
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 9.5 (Sat) | 9.6 (Sun) | [PyCon Taiwan 2020](https://tw.pycon.org/2020) | --- | --- | 國立成功大學 國際會議廳 | 
+ | 9.10 (Thu) | 9.10 (Thu) | [DataCon.TW](https://2020.datacon.tw/) | --- | --- | Online | 
+ | 9.26 (Sat) | 9.26 (Sat) | [Kubernetes Summit 2020](https://k8s.ithome.com.tw/) | --- | --- | 臺北文創大樓 | 
+
+## October
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 10.12 (Mon) | 10.16 (Fri) | [Modern Web 2020](https://modernweb.tw/) | [Not Yet Started](https://modernweb.tw/signup) | --- | Online | 
+ | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) | --- | --- | Online | 
+
+## November
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 11.11 (Web) | 11.12 (Thu) | [TWIGF 2020](https://www.igf.org.tw/twigf2020) | [Not Yet Started](https://www.igf.org.tw/twigf2020/2020_signup/) | --- | 中華電信總公司大樓 | 
+
+## UnKnown
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | --- | --- | [Agile Summit 2020](https://summit.ithome.com.tw/agile/) | --- | --- |  | 
+
 ---
 
  | Announcement | Name | Main Website | Facebook | 
