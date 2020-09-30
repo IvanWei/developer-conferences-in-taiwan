@@ -16,15 +16,21 @@ jobs:
         uses: webfactory/ssh-agent@v0.4.0
         with:
           ssh-private-key: ${{secrets.SSH_PRIVATE_KEY}}
+      - name: Setup User Information
+        run: |
+          git config --global user.email "ivanwei_slack@outlook.com"
+          git config --global user.name "WorldEarthBot"
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
           node-version: 12
-      - name: Refresh Content
+      - name: Install Node.js packages
+        run: yarn install
+      - name: Refresh Raw data
         env:
           CONFERENCE_SOURCE_URL: ${{secrets.CONFERENCE_SOURCE_URL}}
-        run: |
-          yarn install
-          git config --global user.email "ivanwei_slack@outlook.com"
-          git config --global user.name "WorldEarthBot"
-          make refresh-and-deployment
+        run: make refresh-conference-data
+      - name: Transfer Data
+        run: make refresh-README-file
+      - name: Deployment
+        run: make manual-deployment
