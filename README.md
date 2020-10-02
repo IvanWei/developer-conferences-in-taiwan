@@ -74,7 +74,7 @@
  |  | INFAS 全國中學生資訊年會 | [Link](https://infas.club/) | [Link](https://www.facebook.com/infas.club) | 
  |  | TDOHacker - TDOH | [TDOHacker](https://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  |  | TDOHacker - TDOH | [THOH Conf](https://tdoh-conf.online/) |  | 
- |  | JCConf Taiwan | [Link](https://jcconf.tw/) | [Link](https://www.facebook.com/groups/185338705012/) | 
+ |  | JCConf Taiwan | [Link](https://jcconf.tw/) | [Link](https://www.facebook.com/jcconf/) | 
  |  | JSDC Taiwan | [Link](https://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
  |  | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
  |  | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
