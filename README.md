@@ -4,7 +4,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 3.23 (Mon) | 3.26 (Thu) | [GPU Technology Conference](https://www.nvidia.com/en-us/gtc/) | [End](https://www.nvidia.com/en-us/gtc/pricing/) | --- | San Jose McEnery Convention Center | 
+ | 3.23 (Mon) | 3.26 (Thu) | [GPU Technology Conference(改期)](https://www.nvidia.com/en-us/gtc/) | [End](https://www.nvidia.com/en-us/gtc/pricing/) | --- | San Jose McEnery Convention Center | 
  | 3.28 (Sat) | 3.28 (Sat) | [SITCON 2020 學生計算機年會](https://sitcon.org/2020) | --- | [Not Yet Started](https://sitcon.org/2020/cfp?popUp=submitInfo) | 中研院人文社會科學館 | 
 
 ## April
@@ -38,8 +38,11 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
+ | 10.5 (Mon) | 10.9 (Fri) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [End](https://reg.rainfocus.com/flow/nvidia/gtcfall20/regtw/login) | --- | Online | 
+ | 10.8 (Thu) | 10.8 (Thu) | [第34屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/34th/index.html) | [Register Now](https://opm.twnic.net.tw/34th/registration.html) | --- | 台大醫院國際會議中心 402 | 
  | 10.12 (Mon) | 10.16 (Fri) | [Modern Web 2020](https://modernweb.tw/) | [Register Now](https://modernweb.tw/signup) | --- | Online | 
  | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) | --- | --- | Online | 
+ | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
  | 10.24 (Sat) | 10.24 (Sat) | [MOPCON 2020](https://mopcon.org/2020/) | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
 
 ## November
@@ -48,6 +51,7 @@
  | --- | --- | --- | --- | --- | --- | 
  | 11.11 (Web) | 11.12 (Thu) | [TWIGF 2020](https://www.igf.org.tw/twigf2020) | [Register Now](https://www.igf.org.tw/twigf2020/2020_signup/) | --- | 中華電信總公司大樓 | 
  | 11.19 (Thu) | 11.19 (Thu) | [JCConf Taiwan 2020](https://jcconf.tw/2020/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2020) | --- | 台大醫院國際會議中心 | 
+ | 11.27 (Fri) | 11.28 (Sat) | [Domain Driven Design Taiwan Conference 2020](https://www.ddd-tw.com/) | [Register Now](https://dddtaiwan.kktix.cc/events/dddtw-conf-2020) | --- | 捷運北投會館 | 
 
 ## December
 
