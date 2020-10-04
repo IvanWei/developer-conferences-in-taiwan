@@ -41,9 +41,9 @@
  | 10.5 (Mon) | 10.9 (Fri) | [GPU Technology Conference](https://www.nvidia.com/zh-tw/gtc/) | [End](https://reg.rainfocus.com/flow/nvidia/gtcfall20/regtw/login) | --- | Online | 
  | 10.8 (Thu) | 10.8 (Thu) | [第34屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/34th/index.html) | [Register Now](https://opm.twnic.net.tw/34th/registration.html) | --- | 台大醫院國際會議中心 402 | 
  | 10.12 (Mon) | 10.16 (Fri) | [Modern Web 2020](https://modernweb.tw/) | [Register Now](https://modernweb.tw/signup) | --- | Online | 
- | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) | --- | --- | Online | 
+ | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) | [Register Now](https://www.accupass.com/event/2009050225034992799020) | --- | Online | 
  | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
- | 10.24 (Sat) | 10.24 (Sat) | [MOPCON 2020](https://mopcon.org/2020/) | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
+ | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
 
 ## November
 
@@ -85,3 +85,4 @@
  |  | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
  |  | 台灣資料科學年會 | [Link](http://datasci.tw/?conf=DS) | [Link](https://www.facebook.com/twdsconf) | 
  |  | 台灣人工智慧年會 | [Link](http://datasci.tw/?conf=AI) | [Link](https://www.facebook.com/twaiconf/) | 
+ |  | Domain Driven Design Taiwan | [Link](https://www.ddd-tw.com/) | [Link](https://www.facebook.com/DDDCommunity.tw/) | 
