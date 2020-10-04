@@ -82,6 +82,11 @@
         "Name": "台灣人工智慧年會",
         "Main Website": {"link": {"title": "Link", "source": "http://datasci.tw/?conf=AI"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twaiconf/"}}
+      }, {
+        "Announcement": "",
+        "Name": "Domain Driven Design Taiwan",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.ddd-tw.com/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/DDDCommunity.tw/"}}
       }]
     }
   }]
