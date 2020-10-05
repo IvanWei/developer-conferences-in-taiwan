@@ -1,9 +1,10 @@
 name: Update README.md
 on:
   push:
-    branches: [master]
+    branches:
+      - master
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0/8 * * *'
 
 jobs:
   contents:
