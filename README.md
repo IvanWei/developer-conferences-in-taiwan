@@ -51,6 +51,7 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 11.11 (Web) | 11.12 (Thu) | [TWIGF 2020](https://www.igf.org.tw/twigf2020) | [Register Now](https://www.igf.org.tw/twigf2020/2020_signup/) | --- | 中華電信總公司大樓 | 
+ | 11.14 (Sat) | 11.14 (Sat) | [Gopher Conference Taiwan 2020](https://gophercon.golang.tw/2020/) | [Register Now](https://golang.kktix.cc/events/gophercontw2020) | --- | 集思台大會議中心 | 
  | 11.19 (Thu) | 11.19 (Thu) | [JCConf Taiwan 2020](https://jcconf.tw/2020/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2020) | --- | 台大醫院國際會議中心 | 
  | 11.27 (Fri) | 11.28 (Sat) | [Domain Driven Design Taiwan Conference 2020](https://www.ddd-tw.com/) | [Register Now](https://dddtaiwan.kktix.cc/events/dddtw-conf-2020) | --- | 捷運北投會館 | 
 
