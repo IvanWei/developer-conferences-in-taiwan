@@ -4,7 +4,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 3.23 (Mon) | 3.26 (Thu) | [GPU Technology Conference(改期)](https://www.nvidia.com/en-us/gtc/) | [End](https://www.nvidia.com/en-us/gtc/pricing/) | --- | San Jose McEnery Convention Center | 
+ | 3.23 (Mon) | 3.26 (Thu) | [GPU Technology Conference(活動延期)](https://www.nvidia.com/en-us/gtc/) | [End](https://www.nvidia.com/en-us/gtc/pricing/) | --- | San Jose McEnery Convention Center | 
  | 3.28 (Sat) | 3.28 (Sat) | [SITCON 2020 學生計算機年會](https://sitcon.org/2020) | --- | [Not Yet Started](https://sitcon.org/2020/cfp?popUp=submitInfo) | 中研院人文社會科學館 | 
 
 ## April
@@ -12,6 +12,12 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 4.20 (Mon) | 4.24 (Fri) | [World Wide Web conference 2020](https://www2020.thewebconf.org/) | --- | --- | 台北國際會議中心 | 
+
+## May
+
+ | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | 
+ | 5.11 (Mon) | 5.12 (Tue) | [Agile Summit 2020(活動延期)](https://summit.ithome.com.tw/agile/) | --- | --- |  | 
 
 ## July
 
@@ -60,12 +66,6 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
-
-## UnKnown
-
- | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
- | --- | --- | --- | --- | --- | --- | 
- | --- | --- | [Agile Summit 2020](https://summit.ithome.com.tw/agile/) | --- | --- |  | 
 
 ---
 
