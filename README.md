@@ -49,7 +49,9 @@
  | 10.12 (Mon) | 10.16 (Fri) | [Modern Web 2020](https://modernweb.tw/) | [Register Now](https://modernweb.tw/signup) | --- | Online | 
  | 10.13 (Tue) | 10.13 (Tue) | [探索智慧載具AI晶片未來發展趨勢論壇](https://seminars.tca.org.tw/D15o00475.aspx) | [Register Now](https://seminars.tca.org.tw/D15o00475.aspx) | --- | 三創生活園區 5f clapper studio | 
  | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) | [Register Now](https://www.accupass.com/event/2009050225034992799020) | --- | Online | 
+ | 10.17 (Sat) | 10.17 (Sat) | [DevFest Taiwan 2020](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taiwan-2020/#/) | [Register Now](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taiwan-2020/#/) | --- | Online | 
  | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
+ | 10.21 (Web) | 10.21 (Web) | [第一屆智慧移動產業論壇 - 騎機新世代 驅動大未來](https://www.smat.org.tw/) | [Register Now](https://www.accupass.com/event/2009170736032119891305) | --- | 台北國際會議中心(TICC) 102會議室 | 
  | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
 
 ## November
