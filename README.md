@@ -67,7 +67,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
- | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
+ | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) | [End](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
 
 ---
 
