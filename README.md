@@ -58,6 +58,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
+ | 11.8 (Sun) | 11.8 (Sun) | [iPlayground 2020](https://iplayground.io/2020/) | [Register Now](https://iplayground.kktix.cc/events/iplayground2020) | --- | 張榮發基金會國際會議中心 | 
  | 11.11 (Web) | 11.12 (Thu) | [TWIGF 2020](https://www.igf.org.tw/twigf2020) | [Register Now](https://www.igf.org.tw/twigf2020/2020_signup/) | --- | 中華電信總公司大樓 | 
  | 11.14 (Sat) | 11.14 (Sat) | [Gopher Conference Taiwan 2020](https://gophercon.golang.tw/2020/) | [Register Now](https://golang.kktix.cc/events/gophercontw2020) | --- | 集思台大會議中心 | 
  | 11.19 (Thu) | 11.19 (Thu) | [JCConf Taiwan 2020](https://jcconf.tw/2020/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2020) | --- | 台大醫院國際會議中心 | 
@@ -78,8 +79,10 @@
  |  | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) | 
  |  | DataCon.TW & Taiwan Hadoop User Group |  | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
  |  | DataCon.TW & Taiwan Hadoop User Group |  | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
+ |  | Domain Driven Design Taiwan | [Link](https://www.ddd-tw.com/) | [Link](https://www.facebook.com/DDDCommunity.tw/) | 
  |  | FED X DESIGN | [Link](https://www.fed.tw/) | [Link](https://www.facebook.com/groups/f2e.tw/) | 
  |  | INFAS 全國中學生資訊年會 | [Link](https://infas.club/) | [Link](https://www.facebook.com/infas.club) | 
+ |  | iPlayground | [Link](https://iplayground.io/) | [Link](https://www.facebook.com/theiPlayground) | 
  |  | TDOHacker - TDOH | [TDOHacker](https://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  |  | TDOHacker - TDOH | [THOH Conf](https://tdoh-conf.online/) |  | 
  |  | JCConf Taiwan | [Link](https://jcconf.tw/) | [Link](https://www.facebook.com/jcconf/) | 
@@ -89,4 +92,3 @@
  |  | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
  |  | 台灣資料科學年會 | [Link](http://datasci.tw/?conf=DS) | [Link](https://www.facebook.com/twdsconf) | 
  |  | 台灣人工智慧年會 | [Link](http://datasci.tw/?conf=AI) | [Link](https://www.facebook.com/twaiconf/) | 
- |  | Domain Driven Design Taiwan | [Link](https://www.ddd-tw.com/) | [Link](https://www.facebook.com/DDDCommunity.tw/) | 
