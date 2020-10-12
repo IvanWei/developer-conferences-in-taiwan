@@ -29,6 +29,11 @@
         "Facebook": {"link": {"title": "Hadoop Taiwan", "source": "https://www.facebook.com/groups/hadoop.tw/"}}
       }, {
         "Announcement": "",
+        "Name": "Domain Driven Design Taiwan",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.ddd-tw.com/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/DDDCommunity.tw/"}}
+      }, {
+        "Announcement": "",
         "Name": "FED X DESIGN",
         "Main Website": {"link": {"title": "Link", "source": "https://www.fed.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/f2e.tw/"}}
@@ -37,6 +42,11 @@
         "Name": "INFAS 全國中學生資訊年會",
         "Main Website": {"link": {"title": "Link", "source": "https://infas.club/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/infas.club"}}
+      }, {
+        "Announcement": "",
+        "Name": "iPlayground",
+        "Main Website": {"link": {"title": "Link", "source": "https://iplayground.io/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/theiPlayground"}}
       }, {
         "Announcement": "",
         "Name": "TDOHacker - TDOH",
@@ -82,11 +92,6 @@
         "Name": "台灣人工智慧年會",
         "Main Website": {"link": {"title": "Link", "source": "http://datasci.tw/?conf=AI"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twaiconf/"}}
-      }, {
-        "Announcement": "",
-        "Name": "Domain Driven Design Taiwan",
-        "Main Website": {"link": {"title": "Link", "source": "https://www.ddd-tw.com/"}},
-        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/DDDCommunity.tw/"}}
       }]
     }
   }]
