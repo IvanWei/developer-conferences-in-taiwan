@@ -23,6 +23,7 @@
 
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
+ | 7.11 (Sat) | 7.11 (Sat) | [台北遊戲開發者論壇](https://2020.tgdf.tw/agenda) | --- | --- | Online | 
  | 7.25 (Sat) | 7.25 (Sat) | [LaravelConf Taiwan 2020](https://laravelconf.tw/) | --- | --- | 公務人力發展中心福華國際文教會館14樓 - 貴賓廳 | 
 
 ## August
