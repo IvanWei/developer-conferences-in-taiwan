@@ -5,7 +5,7 @@
  | Start date | End date | Name | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | 
  | 3.23 (Mon) | 3.26 (Thu) | [GPU Technology Conference(活動延期)](https://www.nvidia.com/en-us/gtc/) | [End](https://www.nvidia.com/en-us/gtc/pricing/) | --- | San Jose McEnery Convention Center | 
- | 3.28 (Sat) | 3.28 (Sat) | [SITCON 2020 學生計算機年會](https://sitcon.org/2020) | --- | [Not Yet Started](https://sitcon.org/2020/cfp?popUp=submitInfo) | 中研院人文社會科學館 | 
+ | 3.28 (Sat) | 3.28 (Sat) | [SITCON 2020 學生計算機年會](https://sitcon.org/2020) | --- | [Link](https://sitcon.org/2020/cfp?popUp=submitInfo) | 中研院人文社會科學館 | 
 
 ## April
 
@@ -55,6 +55,7 @@
  | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
  | 10.21 (Web) | 10.21 (Web) | [第一屆智慧移動產業論壇 - 騎機新世代 驅動大未來](https://www.smat.org.tw/) | [Register Now](https://www.accupass.com/event/2009170736032119891305) | --- | 台北國際會議中心(TICC) 102會議室 | 
  | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
+ | 10.27 (Tue) | 10.28 (Web) | [Firebase Summit](https://firebase.google.com/summit) | --- | --- | Online | 
 
 ## November
 
