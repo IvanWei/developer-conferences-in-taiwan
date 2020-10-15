@@ -49,7 +49,7 @@
  | 10.8 (Thu) | 10.8 (Thu) | [第34屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/34th/index.html) |  | [End](https://opm.twnic.net.tw/34th/registration.html) | --- | 台大醫院國際會議中心 402 | 
  | 10.12 (Mon) | 10.16 (Fri) | [Modern Web 2020](https://modernweb.tw/) |  | [End](https://modernweb.tw/signup) | --- | Online | 
  | 10.13 (Tue) | 10.13 (Tue) | [探索智慧載具AI晶片未來發展趨勢論壇](https://seminars.tca.org.tw/D15o00475.aspx) |  | [End](https://seminars.tca.org.tw/D15o00475.aspx) | --- | 三創生活園區 5f clapper studio | 
- | 10.16 (Fri) | 10.16 (Fri) | [【2020 Digital Taipei 台北國際數位內容交流會】XR跨域創新思維應用論壇](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) |  | [Register Now](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) | --- | 台北數位產業園區A棟一樓 Digi Space共創空間 | 
+ | 10.16 (Fri) | 10.16 (Fri) | [【2020 Digital Taipei 台北國際數位內容交流會】XR跨域創新思維應用論壇](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) |  | [End](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) | --- | 台北數位產業園區A棟一樓 Digi Space共創空間 | 
  | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) |  | [Register Now](https://www.accupass.com/event/2009050225034992799020) | --- | Online | 
  | 10.17 (Sat) | 10.17 (Sat) | [GDG DevFest Taiwan 2020](https://devfest2020.web.app/) |  | [Register Now](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taiwan-2020/#/) | --- | Online | 
  | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) |  | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
