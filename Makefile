@@ -25,11 +25,8 @@ refresh-README-file:
 
 	@echo "Done!!!"
 
-deployment:
-	@echo "README.md, Deployment!!!"
-	git push -f
-
-	@echo "HTML content, Deployment!!!"
+refresh-html-file:
+	@echo "Update html file"
 	npm run update:ghPage
 
 	git add docs
@@ -41,7 +38,15 @@ deployment:
 
 	@echo "Done!!!"
 
+deployment:
+	@echo "README.md and HTML content, Deployment!!!"
+
+	git push -f
+
+	@echo "Done!!!"
+
 refresh-and-deployment:
 	make refresh-conference-data
 	make refresh-README-file
+	make refresh-html-file
 	make readme-deployment
