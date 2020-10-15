@@ -32,7 +32,7 @@ switch (type) {
       </html>
     `).replace(/(\r\n|\n|\r|\ \ )/gm, '');
 
-    fs.writeFile('dist/index.html', html, (err) => {
+    fs.writeFile('docs/index.html', html, (err) => {
       if (err) throw err;
       console.log('gh-page, OK');
     });
