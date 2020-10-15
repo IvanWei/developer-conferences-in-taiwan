@@ -32,6 +32,9 @@ jobs:
           CONFERENCE_SOURCE_URL: ${{secrets.CONFERENCE_SOURCE_URL}}
         run: make refresh-conference-data
       - name: Transfer Data
-        run: make refresh-README-file
+        run: |
+          make refresh-README-file
+      - name: Create html page
+        run: make refresh-HTML-file
       - name: Deployment
         run: make deployment

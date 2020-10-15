@@ -25,7 +25,7 @@ refresh-README-file:
 
 	@echo "Done!!!"
 
-refresh-html-file:
+refresh-HTML-file:
 	@echo "Update html file"
 	npm run update:ghPage
 
@@ -48,5 +48,5 @@ deployment:
 refresh-and-deployment:
 	make refresh-conference-data
 	make refresh-README-file
-	make refresh-html-file
+	make refresh-HTML-file
 	make readme-deployment
