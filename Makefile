@@ -32,6 +32,13 @@ deployment:
 	@echo "HTML content, Deployment!!!"
 	npm run update:ghPage
 
+	git add docs
+	if git commit -m "Update docs folder at `date +%Y-%m-%d-T%H\:%M\:%S%z`"; then \
+		echo "Docs folder changed."; \
+	else \
+		echo "Docs folder doesn't change."; \
+	fi
+
 	@echo "Done!!!"
 
 refresh-and-deployment:
