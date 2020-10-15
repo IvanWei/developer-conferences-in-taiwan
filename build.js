@@ -30,7 +30,7 @@ switch (type) {
         ${converter.makeHtml(json2md(data))}
       </body>
       </html>
-    `);.replace(/(\r\n|\n|\r|\ \ )/gm, '');
+    `).replace(/(\r\n|\n|\r|\ \ )/gm, '');
 
     fs.writeFile('dist/index.html', html, (err) => {
       if (err) throw err;
