@@ -14,7 +14,7 @@ refresh-conference-data:
 
 refresh-README-file:
 	@echo "Update README.md"
-	npm run build
+	npm run update:readme
 
 	git add README.md
 	if git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"; then \
@@ -25,13 +25,16 @@ refresh-README-file:
 
 	@echo "Done!!!"
 
-manual-deployment:
-	@echo "Deployment!!!"
+deployment:
+	@echo "README.md, Deployment!!!"
 	git push -f
+
+	@echo "HTML content, Deployment!!!"
+	npm run update:ghPage
 
 	@echo "Done!!!"
 
 refresh-and-deployment:
 	make refresh-conference-data
 	make refresh-README-file
-	make manual-deployment
+	make readme-deployment

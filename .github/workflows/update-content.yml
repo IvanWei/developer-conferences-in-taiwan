@@ -1,4 +1,4 @@
-name: Update README.md
+name: Update README.md and HTML content
 on:
   push:
     branches:
@@ -34,4 +34,4 @@ jobs:
       - name: Transfer Data
         run: make refresh-README-file
       - name: Deployment
-        run: make manual-deployment
+        run: make deployment

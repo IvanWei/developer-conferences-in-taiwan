@@ -4,7 +4,8 @@
   "description": "developer conferences in taiwan",
   "main": "app.js",
   "scripts": {
-    "build": "node build.js"
+    "update:readme": "node build.js readme",
+    "update:ghPage": "node build.js ghPage"
   },
   "repository": {
     "type": "git",
@@ -21,8 +22,7 @@
   },
   "homepage": "https://github.com/IvanWei/developer-conferences-in-taiwan#readme",
   "devDependencies": {
-    "json2md": "https://github.com/IvanWei/json2md.git"
-  },
-  "dependencies": {
+    "json2md": "https://github.com/IvanWei/json2md.git",
+    "showdown": "^1.9.1"
   }
 }
