@@ -33,19 +33,20 @@ switch (type) {
     const converter = new showdown.Converter({tables: true, extensions: ['targetlink']});
     const html = (`
       <!DOCTYPE HTML>
-      <html lang="zh-hant">
+      <html lang="zh-tw">
       <head>
         <meta charset="utf-8">
         <title>Developer Conferences in Taiwan</title>
         <meta name="description" content="統整開發相關研討會資訊" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        <meta property="og:type" content="article" />
+        <meta property="og:type" content="website" />
         <meta property="og:title" content="Developer Conferences in Taiwan" />
         <meta property="og:description" content="統整開發相關研討會資訊" />
         <meta property="og:url" content="https://dcit.ivanwei.co" />
         <meta property="og:site_name" content="Developer Conferences in Taiwan" />
         <meta property="og:image" content="https://blog.ivanwei.co/images/2018/05/16/DCIT.png" />
+        <meta property="og:locale" content="zh_TW" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="Developer Conferences in Taiwan" />
