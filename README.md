@@ -74,7 +74,7 @@
  | --- | --- | --- | --- | --- | --- | --- | 
  | 12.8 (Tue) | 12.10 (Thu) | [Github Universe 2020 (Americas & Europe)](https://githubuniverse.com/) | ✔ | --- | --- | Online | 
  | 12.9 (Web) | 12.10 (Thu) | [Chrome Dev Summit 2020](https://developer.chrome.com/devsummit/) | ✔ | [Register Now](https://events.withgoogle.com/chrome-dev-summit-2020/registrations/new/details/) | --- | Online | 
- | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [End](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
+ | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
 
 ---
 
