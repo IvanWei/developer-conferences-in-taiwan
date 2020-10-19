@@ -96,6 +96,6 @@
  |  | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
  |  | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
  |  | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
- |  | TGDF 台北遊戲開發者論壇 | [Link](https://tgdf.tw/) | [Link](https://www.facebook.com/TGDF.Official/) | 
- |  | 台灣資料科學年會 | [Link](http://datasci.tw/?conf=DS) | [Link](https://www.facebook.com/twdsconf) | 
- |  | 台灣人工智慧年會 | [Link](http://datasci.tw/?conf=AI) | [Link](https://www.facebook.com/twaiconf/) | 
+ |  | 台北遊戲開發者論壇 | [Link](https://tgdf.tw/) | [Link](https://www.facebook.com/TGDF.Official/) | 
+ |  | 台灣人工智慧學校 | [Link](https://aiacademy.tw/) | [Link](https://www.facebook.com/aiacademy.tw/) | 
+ |  | 台灣資料科學協會 | [Link](http://foundation.datasci.tw/) | [Link](https://www.facebook.com/twdsconf/) | 
