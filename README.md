@@ -56,7 +56,7 @@
  | 10.21 (Web) | 10.21 (Web) | [第一屆智慧移動產業論壇 - 騎機新世代 驅動大未來](https://www.smat.org.tw/) |  | [Register Now](https://www.accupass.com/event/2009170736032119891305) | --- | 台北國際會議中心(TICC) 102會議室 | 
  | 10.21 (Web) | 10.22 (Thu) | [2020 Red Hat Forum 亞太區線上虛擬論壇](https://www.redhat.com/zh-tw/forums/apac) | ✔ | [Register Now](https://onlinexperiences.com/Launch/QReg.htm?ShowUUID=3EB077D8-9014-42D9-9D87-C67FF858A98E&LangLocaleID=2052&GroupID=Chinese(TW)&AffiliateData=7013a000002goBxAAI) | --- | Online | 
  | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) |  | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
- | 10.27 (Tue) | 10.28 (Web) | [Firebase Summit](https://firebase.google.com/summit) | ✔ | --- | --- | Online | 
+ | 10.27 (Tue) | 10.28 (Web) | [Firebase Summit](https://firebase.google.com/summit) | ✔ | [Register Now](https://firebase.google.com/summit/interest) | --- | Online | 
 
 ## November
 
