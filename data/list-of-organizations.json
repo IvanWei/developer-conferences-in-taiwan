@@ -39,6 +39,11 @@
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/f2e.tw/"}}
       }, {
         "Announcement": "",
+        "Name": "Hacks In Taiwan 台灣駭客年會 ( HITCON )",
+        "Main Website": {"link": {"title": "Link", "source": "https://hitcon.org/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/HITCON"}}
+      }, {
+        "Announcement": "",
         "Name": "INFAS 全國中學生資訊年會",
         "Main Website": {"link": {"title": "Link", "source": "https://infas.club/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/infas.club"}}
