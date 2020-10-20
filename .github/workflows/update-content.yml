@@ -5,6 +5,7 @@ on:
       - master
   schedule:
     - cron: '0 0/8 * * *'
+  workflow_dispatch:
 
 jobs:
   contents:
