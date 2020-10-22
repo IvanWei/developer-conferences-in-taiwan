@@ -52,7 +52,7 @@
  | 10.16 (Fri) | 10.16 (Fri) | [【2020 Digital Taipei 台北國際數位內容交流會】XR跨域創新思維應用論壇](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) |  | [End](https://ievents.iii.org.tw/EventS.aspx?t=0&id=1063) | --- | 台北數位產業園區A棟一樓 Digi Space共創空間 | 
  | 10.17 (Sat) | 10.17 (Sat) | [JSDC 2020](https://2020.jsdc.tw/) |  | [End](https://www.accupass.com/event/2009050225034992799020) | --- | Online | 
  | 10.17 (Sat) | 10.17 (Sat) | [GDG DevFest Taiwan 2020](https://devfest2020.web.app/) |  | [End](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taiwan-2020/#/) | --- | Online | 
- | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) |  | [Register Now](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
+ | 10.19 (Mon) | 10.23 (Fri) | [微軟資安高峰會](https://www.microsoft.com/taiwan/about/securityweek/) |  | [End](https://www.microsoft.com/taiwan/about/securityweek) | --- | Online | 
  | 10.21 (Web) | 10.21 (Web) | [第一屆智慧移動產業論壇 - 騎機新世代 驅動大未來](https://www.smat.org.tw/) |  | [End](https://www.accupass.com/event/2009170736032119891305) | --- | 台北國際會議中心(TICC) 102會議室 | 
  | 10.21 (Web) | 10.22 (Thu) | [2020 Red Hat Forum 亞太區線上虛擬論壇](https://www.redhat.com/zh-tw/forums/apac) | ✔ | [End](https://onlinexperiences.com/Launch/QReg.htm?ShowUUID=3EB077D8-9014-42D9-9D87-C67FF858A98E&LangLocaleID=2052&GroupID=Chinese(TW)&AffiliateData=7013a000002goBxAAI) | --- | Online | 
  | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) |  | [Register Now](https://mopcon.org/2020/ticket/) | --- | 高雄國際會議中心 ICCK | 
