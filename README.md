@@ -78,6 +78,20 @@
  | 12.9 (Web) | 12.10 (Thu) | [Chrome Dev Summit 2020](https://developer.chrome.com/devsummit/) | ✔ | [Register Now](https://events.withgoogle.com/chrome-dev-summit-2020/registrations/new/details/) | --- | Online | 
  | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | Online | 
 
+# Developer Conferences in Taiwan 2021
+
+## April
+
+ | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 4.19 (Mon) | 4.24 (Sat) | [The Web Conference 2021](https://www2021.thewebconf.org/) | ✔ | --- | --- | Ljubljana | 
+
+## August
+
+ | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | ✔ | --- | --- | Haifa, Israel (2021 年 4 月做決定) | 
+
 ---
 
 # List of Organizations
