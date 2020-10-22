@@ -67,6 +67,7 @@
  | 11.13 (Fri) | 11.14 (Sat) | [2020 AI Academy 台灣人工智慧年會](https://aiacademy.tw/conf2020/) |  | [Register Now](https://aiacademy.kktix.cc/events/conf2020) | --- | 中央研究院人文社會科學館 | 
  | 11.14 (Sat) | 11.14 (Sat) | [Gopher Conference Taiwan 2020](https://gophercon.golang.tw/2020/) |  | [Register Now](https://golang.kktix.cc/events/gophercontw2020) | --- | 集思台大會議中心 | 
  | 11.19 (Thu) | 11.19 (Thu) | [JCConf Taiwan 2020](https://jcconf.tw/2020/) |  | [Register Now](https://twjug.kktix.cc/events/jcconf-2020) | --- | 台大醫院國際會議中心 | 
+ | 11.25 (Web) | 11.27 (Fri) | [CyberCrimeCon 2020](https://virtual.group-ib.com/) | ✔ | [Register Now](https://virtual.group-ib.com/) | --- | Online | 
  | 11.27 (Fri) | 11.28 (Sat) | [Domain Driven Design Taiwan Conference 2020](https://www.ddd-tw.com/) |  | [Register Now](https://dddtaiwan.kktix.cc/events/dddtw-conf-2020) | --- | 捷運北投會館 | 
 
 ## December
@@ -86,8 +87,8 @@
  |  | AgileCommunity.tw | [Link](https://agilecommunity.tw/) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
  |  | BSDTW | [Link](https://bsdtw.org/) | [Link](https://www.facebook.com/BSDTW/) | 
  |  | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) | 
- |  | DataCon.TW & Taiwan Hadoop User Group |  | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
- |  | DataCon.TW & Taiwan Hadoop User Group |  | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
+ |  | DataCon.TW | [Link](https://datacon.tw/) | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
+ |  | Taiwan Hadoop User Group | [Link](http://www.hadoop.tw/) | [Hadoop Taiwan](https://www.facebook.com/groups/hadoop.tw/) | 
  |  | Domain Driven Design Taiwan | [Link](https://www.ddd-tw.com/) | [Link](https://www.facebook.com/DDDCommunity.tw/) | 
  |  | FED X DESIGN | [Link](https://www.fed.tw/) | [Link](https://www.facebook.com/groups/f2e.tw/) | 
  |  | Hacks In Taiwan 台灣駭客年會 ( HITCON ) | [Link](https://hitcon.org/) | [Link](https://www.facebook.com/HITCON) | 
