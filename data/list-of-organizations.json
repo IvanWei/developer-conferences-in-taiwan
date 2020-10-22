@@ -21,13 +21,13 @@
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/coscup/"}}
       }, {
         "Announcement": "",
-        "Name": "DataCon.TW & Taiwan Hadoop User Group",
-        "Main Website": "",
+        "Name": "DataCon.TW",
+        "Main Website": {"link": {"title": "Link", "source": "https://datacon.tw/"}},
         "Facebook": {"link": {"title": "DataCon.TW", "source": "https://zh-tw.facebook.com/datacon.tw/"}}
       }, {
         "Announcement": "",
-        "Name": "DataCon.TW & Taiwan Hadoop User Group",
-        "Main Website": "",
+        "Name": "Taiwan Hadoop User Group",
+        "Main Website": {"link": {"title": "Link", "source": "http://www.hadoop.tw/"}},
         "Facebook": {"link": {"title": "Hadoop Taiwan", "source": "https://www.facebook.com/groups/hadoop.tw/"}}
       }, {
         "Announcement": "",
