@@ -1,5 +1,7 @@
 {
-  "data": [{
+  "data": [
+    {"h1":"List of Organizations"},
+    {
     "table": {
       "headers": ["Announcement", "Name", "Main Website", "Facebook"],
       "rows": [{
