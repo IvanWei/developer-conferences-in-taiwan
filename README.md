@@ -57,7 +57,7 @@
  | 10.21 (Web) | 10.22 (Thu) | [2020 Red Hat Forum 亞太區線上虛擬論壇](https://www.redhat.com/zh-tw/forums/apac) | ✔ | [End](https://onlinexperiences.com/Launch/QReg.htm?ShowUUID=3EB077D8-9014-42D9-9D87-C67FF858A98E&LangLocaleID=2052&GroupID=Chinese(TW)&AffiliateData=7013a000002goBxAAI) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 10.24 (Sat) | 10.25 (Sun) | [MOPCON 2020](https://mopcon.org/2020/) |  | [End](https://mopcon.org/2020/ticket/) | --- | [高雄國際會議中心 ICCK](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83%20ICCK) | 
  | 10.24 (Sat) | 10.24 (Sat) | [維基數據跨領域論壇](https://www.wikidata.org/wiki/Wikidata:Eighth_Birthday/Taiwan) |  | [End](https://wikidatatw.kktix.cc/events/wikidataforum2020) | --- | [中央研究院 資訊科技創新研究中心](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%20%E8%B3%87%E8%A8%8A%E7%A7%91%E6%8A%80%E5%89%B5%E6%96%B0%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83) | 
- | 10.27 (Tue) | 10.28 (Web) | [Firebase Summit](https://firebase.google.com/summit) | ✔ | [Register Now](https://firebase.google.com/summit/interest) | --- | [Online](https://maps.google.com/?q=Online) | 
+ | 10.27 (Tue) | 10.28 (Web) | [Firebase Summit](https://firebase.google.com/summit) | ✔ | [End](https://firebase.google.com/summit/interest) | --- | [Online](https://maps.google.com/?q=Online) | 
 
 ## November
 
