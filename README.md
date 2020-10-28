@@ -87,6 +87,12 @@
  | --- | --- | --- | --- | --- | --- | --- | 
  | 4.19 (Mon) | 4.24 (Sat) | [The Web Conference 2021](https://www2021.thewebconf.org/) | ✔ | --- | --- | [Ljubljana](https://maps.google.com/?q=Ljubljana) | 
 
+## May
+
+ | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會(暫定)](https://www.facebook.com/SITCONtw/posts/3355593374539418) |  | --- | --- | [](https://maps.google.com/?q=) | 
+
 ## August
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
