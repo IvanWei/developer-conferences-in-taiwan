@@ -86,6 +86,11 @@
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/mopcon/"}}
       }, {
         "Announcement": "",
+        "Name": "PyData Taipei Meetup Group",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/PyData-Taipei-Meetup-Group/"}},
+        "Facebook": ""
+      }, {
+        "Announcement": "",
         "Name": "PyCon Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://tw.pycon.org"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/pycontw/"}}
