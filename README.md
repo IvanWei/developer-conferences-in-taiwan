@@ -124,6 +124,7 @@
  |  | JSDC Taiwan | [Link](https://jsdc.tw/) | [Link](https://www.facebook.com/JSDC.TW/) | 
  |  | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) | 
  |  | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/2018/) | [Link](https://zh-tw.facebook.com/mopcon/) | 
+ |  | PyData Taipei Meetup Group | [Link](https://www.meetup.com/PyData-Taipei-Meetup-Group/) |  | 
  |  | PyCon Taiwan | [Link](https://tw.pycon.org) | [Link](https://zh-tw.facebook.com/pycontw/) | 
  |  | 台北遊戲開發者論壇 | [Link](https://tgdf.tw/) | [Link](https://www.facebook.com/TGDF.Official/) | 
  |  | 台灣人工智慧學校 | [Link](https://aiacademy.tw/) | [Link](https://www.facebook.com/aiacademy.tw/) | 
