@@ -72,6 +72,7 @@
  | 11.25 (Web) | 11.27 (Fri) | [CyberCrimeCon 2020](https://virtual.group-ib.com/) | ✔ | [Register Now](https://virtual.group-ib.com/) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 11.25 (Web) | 11.27 (Fri) | [LINE DEVELOPER DAY 2020](https://linedevday.linecorp.com/2020) | ✔ | [Register Now](https://linedevday.linecorp.com/2020) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 11.27 (Fri) | 11.28 (Sat) | [Domain Driven Design Taiwan Conference 2020](https://www.ddd-tw.com/) |  | [Register Now](https://dddtaiwan.kktix.cc/events/dddtw-conf-2020) | --- | [捷運北投會館](https://maps.google.com/?q=%E6%8D%B7%E9%81%8B%E5%8C%97%E6%8A%95%E6%9C%83%E9%A4%A8) | 
+ | 11.27 (Fri) | 11.29 (Sun) | [PyData Taipei 2020](https://pydata.org/taipei2020/) | ✔ | [Register Now](https://pydatataipei.kktix.cc/events/pydatataipei2020) | --- | [集思交通部國際會議中心2F-4F](https://maps.google.com/?q=%E9%9B%86%E6%80%9D%E4%BA%A4%E9%80%9A%E9%83%A8%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%832F-4F) | 
 
 ## December
 
