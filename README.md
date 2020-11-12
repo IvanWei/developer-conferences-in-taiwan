@@ -81,7 +81,9 @@
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
+ | 12.4 (Fri) | 12.4 (Fri) | [aws DEV DAY Taipei](https://aws.amazon.com/tw/events/taiwan/devday/) |  | [Register Now](https://pages.awscloud.com/2020-DevDay-Taipei-Registration.html) | --- | [TICC 台北國際會議中心](https://maps.google.com/?q=TICC%20%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) | 
  | 12.8 (Tue) | 12.10 (Thu) | [Github Universe 2020 (Americas & Europe)](https://githubuniverse.com/) | ✔ | --- | --- | [Online](https://maps.google.com/?q=Online) | 
+ | 12.9 (Web) | 12.11 (Fri) | [Github Universe 2020 (Asia Pacific)](https://githubuniverse.com/) | ✔ | --- | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.9 (Web) | 12.10 (Thu) | [Chrome Dev Summit 2020](https://developer.chrome.com/devsummit/) | ✔ | [Register Now](https://events.withgoogle.com/chrome-dev-summit-2020/registrations/new/details/) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.11 (Fri) | 12.11 (Fri) | [2020 XFail 失敗者年會](https://tobias.waca.store/page/5174) |  | [Register Now](https://www.accupass.com/event/2010181140239974149320) | --- | [TripMomentVR 時刻旅行樂園](https://maps.google.com/?q=TripMomentVR%20%E6%99%82%E5%88%BB%E6%97%85%E8%A1%8C%E6%A8%82%E5%9C%92) | 
  | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | [Online](https://maps.google.com/?q=Online) | 
