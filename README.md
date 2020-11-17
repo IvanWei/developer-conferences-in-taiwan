@@ -87,6 +87,7 @@
  | 12.9 (Web) | 12.11 (Fri) | [Github Universe 2020 (Asia Pacific)](https://githubuniverse.com/) | ✔ | --- | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.9 (Web) | 12.10 (Thu) | [Chrome Dev Summit 2020](https://developer.chrome.com/devsummit/) | ✔ | [Register Now](https://events.withgoogle.com/chrome-dev-summit-2020/registrations/new/details/) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.11 (Fri) | 12.11 (Fri) | [2020 XFail 失敗者年會](https://tobias.waca.store/page/5174) |  | [Register Now](https://www.accupass.com/event/2010181140239974149320) | --- | [TripMomentVR 時刻旅行樂園](https://maps.google.com/?q=TripMomentVR%20%E6%99%82%E5%88%BB%E6%97%85%E8%A1%8C%E6%A8%82%E5%9C%92) | 
+ | 12.11 (Fri) | 12.11 (Fri) | [2020 FORTINET 數位 X 資安轉型論壇【資安嘉年華】](https://m.fortinet.com.tw/security-carnival-2020/) |  | [Register Now](https://m.fortinet.com.tw/security-carnival-2020/#carnival-2020-registration) | --- | [台北市信義區光復南路133號2樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%85%89%E5%BE%A9%E5%8D%97%E8%B7%AF133%E8%99%9F2%E6%A8%93) | 
  | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.19 (Sat) | 12.20 (Sun) | [.NET Conf 2020 Taiwan](https://dotnetconf2020.study4.tw/) |  | [Register Now](https://study4-tw.kktix.cc/events/dotnetconf2020) | --- | [臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) | 
 
@@ -102,6 +103,7 @@
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
+ | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) |  | --- | [Link](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html#foreword) | [台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) | 
  | 5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會(暫定)](https://www.facebook.com/SITCONtw/posts/3355593374539418) |  | --- | --- | [](https://maps.google.com/?q=) | 
 
 ## August
@@ -116,7 +118,8 @@
 
  | Announcement | Name | Main Website | Facebook | 
  | --- | --- | --- | --- | 
- |  | AgileCommunity.tw | [Link](https://agilecommunity.tw/) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
+ |  | AgileCommunity.tw | [Link](https://aws.amazon.com/events) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
+ |  | AWS Events and Webinars | [Link](https://agilecommunity.tw/) | [Link](https://www.facebook.com/amazonwebservices) | 
  |  | BSDTW | [Link](https://bsdtw.org/) | [Link](https://www.facebook.com/BSDTW/) | 
  |  | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) | 
  |  | DataCon.TW | [Link](https://datacon.tw/) | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
@@ -126,6 +129,8 @@
  |  | Hacks In Taiwan 台灣駭客年會 ( HITCON ) | [Link](https://hitcon.org/) | [Link](https://www.facebook.com/HITCON) | 
  |  | INFAS 全國中學生資訊年會 | [Link](https://infas.club/) | [Link](https://www.facebook.com/infas.club) | 
  |  | iPlayground | [Link](https://iplayground.io/) | [Link](https://www.facebook.com/theiPlayground) | 
+ |  | iThome | [Link](https://www.ithome.com.tw/) | [Link](https://zh-tw.facebook.com/ithomeonline) | 
+ |  | iThome Security | [Link](https://www.ithome.com.tw/) | [Link](https://zh-tw.facebook.com/ithomecyber) | 
  |  | TDOHacker - TDOH | [TDOHacker](https://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) | 
  |  | TDOHacker - TDOH | [THOH Conf](https://tdoh-conf.online/) |  | 
  |  | JCConf Taiwan | [Link](https://jcconf.tw/) | [Link](https://www.facebook.com/jcconf/) | 
