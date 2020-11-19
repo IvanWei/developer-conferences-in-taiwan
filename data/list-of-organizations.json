@@ -124,6 +124,11 @@
         "Name": "台灣資料科學協會",
         "Main Website": {"link": {"title": "Link", "source": "http://foundation.datasci.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twdsconf/"}}
+      }, {
+        "Announcement": "",
+        "Name": "Golang Taipei",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/golang-taipei-meetup"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/269001993248363"}}
       }]
     }
   }]
