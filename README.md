@@ -94,6 +94,7 @@
  | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.18 (Fri) | 12.18 (Fri) | [LINE TAIWAN TECHPULSE 2020](https://techpulse.line.me/) |  | [Register Now](https://techpulse.line.me/message.html) | --- | [南港展覽館二館7樓](https://maps.google.com/?q=%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A87%E6%A8%93) | 
  | 12.19 (Sat) | 12.20 (Sun) | [.NET Conf 2020 Taiwan](https://dotnetconf2020.study4.tw/) |  | [Register Now](https://study4-tw.kktix.cc/events/dotnetconf2020) | --- | [臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) | 
+ | 12.19 (Sat) | 12.19 (Sat) | [DDD China 2020](http://ddd-china.com/) | ✔ | [Register Now](https://app.ma.scrmtech.com/meetings/MeetingPc/Detail?pf_uid=7019_1254&id=26124) | --- | [Online](https://maps.google.com/?q=Online) | 
 
 # Developer Conferences in Taiwan 2021
 
