@@ -91,8 +91,8 @@
  | 12.9 (Web) | 12.10 (Thu) | [Chrome Dev Summit 2020](https://developer.chrome.com/devsummit/) | ✔ | [Register Now](https://events.withgoogle.com/chrome-dev-summit-2020/registrations/new/details/) | --- | [Online](https://maps.google.com/?q=Online) | 
  | 12.11 (Fri) | 12.11 (Fri) | [2020 XFail 失敗者年會](https://tobias.waca.store/page/5174) |  | [Register Now](https://www.accupass.com/event/2010181140239974149320) | --- | [TripMomentVR 時刻旅行樂園](https://maps.google.com/?q=TripMomentVR%20%E6%99%82%E5%88%BB%E6%97%85%E8%A1%8C%E6%A8%82%E5%9C%92) | 
  | 12.11 (Fri) | 12.11 (Fri) | [2020 FORTINET 數位 X 資安轉型論壇【資安嘉年華】](https://m.fortinet.com.tw/security-carnival-2020/) |  | [Register Now](https://m.fortinet.com.tw/security-carnival-2020/#carnival-2020-registration) | --- | [台北市信義區光復南路133號2樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%85%89%E5%BE%A9%E5%8D%97%E8%B7%AF133%E8%99%9F2%E6%A8%93) | 
- | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | [Online](https://maps.google.com/?q=Online) |
- | 12.18 (Fri) | 12.18 (Fri) | [LINE TAIWAN TECHPULSE 2020](https://techpulse.line.me) |  | [Register Now](https://techpulse.line.me) | --- | [南港展覽館二館7樓](https://www.google.com/maps?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E7%B6%93%E8%B2%BF%E4%BA%8C%E8%B7%AF2%E8%99%9F) | 
+ | 12.12 (Sat) | 12.12 (Sat) | [Agile Tour 2020](https://agiletourtaiwan.org/) |  | [Register Now](https://actclubtw.kktix.cc/events/agiletour2020) | --- | [Online](https://maps.google.com/?q=Online) | 
+ | 12.18 (Fri) | 12.18 (Fri) | [LINE TAIWAN TECHPULSE 2020](https://techpulse.line.me/) |  | [Register Now](https://techpulse.line.me/message.html) | --- | [南港展覽館二館7樓](https://maps.google.com/?q=%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A87%E6%A8%93) | 
  | 12.19 (Sat) | 12.20 (Sun) | [.NET Conf 2020 Taiwan](https://dotnetconf2020.study4.tw/) |  | [Register Now](https://study4-tw.kktix.cc/events/dotnetconf2020) | --- | [臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) | 
 
 # Developer Conferences in Taiwan 2021
@@ -146,3 +146,4 @@
  |  | 台北遊戲開發者論壇 | [Link](https://tgdf.tw/) | [Link](https://www.facebook.com/TGDF.Official/) | 
  |  | 台灣人工智慧學校 | [Link](https://aiacademy.tw/) | [Link](https://www.facebook.com/aiacademy.tw/) | 
  |  | 台灣資料科學協會 | [Link](http://foundation.datasci.tw/) | [Link](https://www.facebook.com/twdsconf/) | 
+ |  | Golang Taipei | [Link](https://www.meetup.com/golang-taipei-meetup) | [Link](https://www.facebook.com/groups/269001993248363) | 
