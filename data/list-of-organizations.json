@@ -46,6 +46,11 @@
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/f2e.tw/"}}
       }, {
         "Announcement": "",
+        "Name": "Golang Taipei",
+        "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/golang-taipei-meetup"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/269001993248363"}}
+      }, {
+        "Announcement": "",
         "Name": "Hacks In Taiwan 台灣駭客年會 ( HITCON )",
         "Main Website": {"link": {"title": "Link", "source": "https://hitcon.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/HITCON"}}
@@ -69,6 +74,11 @@
         "Name": "iThome Security",
         "Main Website": {"link": {"title": "Link", "source": "https://www.ithome.com.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/ithomecyber"}}
+      }, {
+        "Announcement": "",
+        "Name": "Jamf Taiwan",
+        "Main Website": {"link": {"title": "Link", "source": "https://twitter.com/JAMFSoftwareTW"}},
+        "Facebook": ""
       }, {
         "Announcement": "",
         "Name": "TDOHacker - TDOH",
@@ -124,11 +134,6 @@
         "Name": "台灣資料科學協會",
         "Main Website": {"link": {"title": "Link", "source": "http://foundation.datasci.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twdsconf/"}}
-      }, {
-        "Announcement": "",
-        "Name": "Golang Taipei",
-        "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/golang-taipei-meetup"}},
-        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/269001993248363"}}
       }]
     }
   }]
