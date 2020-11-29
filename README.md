@@ -109,7 +109,7 @@
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
- | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) |  | --- | [Link](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html#foreword) | [台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) | 
+ | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) |  | --- | [Link](https://forms.gle/Kjg3oUfboctBe28h6) | [台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) | 
  | 5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會(暫定)](https://www.facebook.com/SITCONtw/posts/3355593374539418) |  | --- | --- | [](https://maps.google.com/?q=) | 
 
 ## August
