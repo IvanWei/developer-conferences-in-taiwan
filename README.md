@@ -92,7 +92,7 @@
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
- | 12.3 (Thu) | 12.6 (Sun) | [g0v Summit 2020 台灣零時政府雙年會](https://summit.g0v.tw/2020/) | 🛵 | [Register Now](https://g0v-summit-2020.kktix.cc/events/c0nf) | --- | [台南 (詳細看售票)](https://maps.google.com/?q=%E5%8F%B0%E5%8D%97%20(%E8%A9%B3%E7%B4%B0%E7%9C%8B%E5%94%AE%E7%A5%A8)) | 
+ | 12.3 (Thu) | 12.6 (Sun) | [g0v Summit 2020 台灣零時政府雙年會](https://summit.g0v.tw/2020/) | 🛵 | [End](https://g0v-summit-2020.kktix.cc/events/c0nf) | --- | [台南 (詳細看售票)](https://maps.google.com/?q=%E5%8F%B0%E5%8D%97%20(%E8%A9%B3%E7%B4%B0%E7%9C%8B%E5%94%AE%E7%A5%A8)) | 
  | 12.4 (Fri) | 12.4 (Fri) | [aws DEV DAY Taipei](https://aws.amazon.com/tw/events/taiwan/devday/) | 🛵 | [Register Now](https://pages.awscloud.com/2020-DevDay-Taipei-Registration.html) | --- | [TICC 台北國際會議中心](https://maps.google.com/?q=TICC%20%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) | 
  | 12.5 (Sat) | 12.5 (Sat) | [g0v Summit 2020 辦桌特別場](https://summit.g0v.tw/2020/) | 🛵 | [End](https://g0v-summit-2020.kktix.cc/events/eat-table) | --- | [台南市北區林森路三段 181 號](https://maps.google.com/?q=%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8C%97%E5%8D%80%E6%9E%97%E6%A3%AE%E8%B7%AF%E4%B8%89%E6%AE%B5%20181%20%E8%99%9F) | 
  | 12.8 (Tue) | 12.10 (Thu) | [Github Universe 2020 (Americas & Europe)](https://githubuniverse.com/) | 🛫 | --- | --- | [Online](https://maps.google.com/?q=Online) | 
