@@ -110,6 +110,12 @@
 
 # Developer Conferences in Taiwan 2021
 
+## January
+
+ | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 1.6 (Web) | 1.6 (Web) | [第四屆《Hit AI & Blockchain》人工智慧暨區塊鏈產業高峰會](https://www.accupass.com/event/2010211346019375921300) | 🛵 | [Register Now](https://www.accupass.com/event/2010211346019375921300) | --- | [台北喜來登大飯店B2福廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%96%9C%E4%BE%86%E7%99%BB%E5%A4%A7%E9%A3%AF%E5%BA%97B2%E7%A6%8F%E5%BB%B3) | 
+
 ## April
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
