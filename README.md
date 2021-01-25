@@ -13,6 +13,9 @@
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
  | 1.6 (Web) | 1.6 (Web) | [第四屆《Hit AI & Blockchain》人工智慧暨區塊鏈產業高峰會](https://www.accupass.com/event/2010211346019375921300) | 🛵 | [End](https://www.accupass.com/event/2010211346019375921300) | --- | [台北喜來登大飯店B2福廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%96%9C%E4%BE%86%E7%99%BB%E5%A4%A7%E9%A3%AF%E5%BA%97B2%E7%A6%8F%E5%BB%B3) | 
+ | 1.25 (Mon) | 3.3 (Web) | [[徵稿] [CFP] DevOpsDays Taipei 2021](https://devopsdays.tw/) | 🛵 | --- | [Register Now](https://r.itho.me/cfp-dod) | [台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5) | 
+ | 1.25 (Mon) | 2.10 (Web) | [[徵稿] [CFP] Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | 🛵 | --- | [Register Now](https://r.itho.me/tcescfs) | [](https://maps.google.com/?q=) | 
+ | 1.25 (Mon) | 4.21 (Web) | [[徵稿] [CFP] Agile Summit 2021](https://summit.ithome.com.tw/agile) | 🛵 | --- | [Register Now](https://r.itho.me/cfp-ag) | [](https://maps.google.com/?q=) | 
 
 ## April
 
@@ -25,7 +28,15 @@
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
  | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) | 🛵 | --- | --- | [台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) | 
+ | 5.28 (Fri) | 5.28 (Fri) | [[CFP] DevOpsDays Taipei 2021](https://devopsdays.tw/) | 🛵 | --- | --- | [台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5) | 
  | 5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會(暫定)](https://www.facebook.com/SITCONtw/posts/3355593374539418) | 🛵 | --- | --- | [](https://maps.google.com/?q=) | 
+
+## July
+
+ | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+ | 7.28 (Web) | 7.28 (Web) | [[CFP] Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | 🛵 | --- | --- | [](https://maps.google.com/?q=) | 
+ | 7.30 (Fri) | 7.30 (Fri) | [[CFP] Agile Summit 2021](https://summit.ithome.com.tw/agile) | 🛵 | --- | --- | [](https://maps.google.com/?q=) | 
 
 ## August
 
