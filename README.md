@@ -39,8 +39,8 @@
 
  | Announcement | Name | Main Website | Facebook | 
  | --- | --- | --- | --- | 
- |  | AgileCommunity.tw | [Link](https://aws.amazon.com/events) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
- |  | AWS Events and Webinars | [Link](https://agilecommunity.tw/) | [Link](https://www.facebook.com/amazonwebservices) | 
+ |  | AgileCommunity.tw | [Link](https://agilecommunity.tw/) | [Link](https://www.facebook.com/AgileCommunity.tw/) | 
+ |  | AWS Events and Webinars | [Link](https://aws.amazon.com/events) | [Link](https://www.facebook.com/amazonwebservices) | 
  |  | BSDTW | [Link](https://bsdtw.org/) | [Link](https://www.facebook.com/BSDTW/) | 
  |  | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) | 
  |  | DataCon.TW | [Link](https://datacon.tw/) | [DataCon.TW](https://zh-tw.facebook.com/datacon.tw/) | 
