@@ -7,12 +7,12 @@
       "rows": [{
         "Announcement": "",
         "Name": "AgileCommunity.tw",
-        "Main Website": {"link": {"title": "Link", "source": "https://aws.amazon.com/events"}},
+        "Main Website": {"link": {"title": "Link", "source": "https://agilecommunity.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/AgileCommunity.tw/"}}
       }, {
         "Announcement": "",
         "Name": "AWS Events and Webinars",
-        "Main Website": {"link": {"title": "Link", "source": "https://agilecommunity.tw/"}},
+        "Main Website": {"link": {"title": "Link", "source": "https://aws.amazon.com/events"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/amazonwebservices"}}
       }, {
         "Announcement": "",
