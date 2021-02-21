@@ -5,7 +5,6 @@
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
  | 1.15 (Fri) | 2.22 (Mon) | [[徵稿] SITCON 2021 學生計算機年會](https://sitcon.org/2021) | 🛵 | --- | [Register Now](https://sitcon.org/2021/cfp) | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) | 
- | 1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | 🛵 | --- | [Register Now](https://r.itho.me/cfp-ag) | [🛵 ](https://maps.google.com/?q=) | 
 
 ## April
 
