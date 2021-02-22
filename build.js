@@ -43,12 +43,14 @@ switch (type) {
     const coverImgOfHtml = 'https://blog.ivanwei.co/images/2018/05/16/DCIT.png';
     const converter = new showdown.Converter({tables: true, extensions: ['targetlink']});
 
-    const conferenceHtml = (`
+    const conferenceHtml = (content) => (`
       <!DOCTYPE HTML>
       <html lang="zh-tw">
       <head>
         <meta charset="utf-8">
         <title>${titleOfHtml}</title>
+        <link rel="icon" type="image/svg+xml" href="https://dcit-calendar.ivanwei.co/favicon.svg">
+        <link rel="alternate icon" href="https://dcit-calendar.ivanwei.co/favicon.ico">
         <meta name="description" content="${descriptionOfHtml}" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -76,69 +78,49 @@ switch (type) {
           #conference, #organization {
             cursor: pointer;
           }
-          .conference, .organization {
-            display: none;
-          }
-          #conference:checked ~ .conference {
-            display: block;
-          }
           #organization:checked ~ .organization {
             display: block;
           }
           .btn {
-            width: 130px;
+            text-decoration: none;
+
+            height: 22px;
+            line-height: 22px;
             display: inline-block;
             cursor: pointer;
             padding: 5px;
             text-align: center;
             color: white;
             border-radius: 4px;
-            text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+            text-shadow: 0 1px 1px rgb(0 0 0 / 20%);
           }
-          .btn:last-of-type {
-            margin-left: 5px;
+          .btn:not(:last-of-type) {
+            margin-right: 10px;
           }
         </style>
       </head>
       <body>
-        <label for="conference" class="btn" style="background: rgb(28, 184, 65);">查詢今年活動</label>
-        <input type="radio" name="tabset" id="conference" aria-controls="conference" checked>
-        <label for="organization" class="btn" style="background: rgb(66, 184, 221);">查看活動籌備單位</label>
-        <input type="radio" name="tabset" id="organization" aria-controls="organization">
-        <a class="btn" style="background: rgb(223, 117, 20);text-decoration: none;" target="_blank" href="https://github.com/IvanWei/developer-conferences-in-taiwan/blob/master/data/list-of-organizations.json">新增活動籌備單位</a>
-
-        <!--<div class="pure-menu custom-restricted-width">
-          <ul class="pure-menu-list">
-            <li class="pure-menu-item pure-menu-has-children">
-              <a href="#" id="menuLink1" class="pure-menu-link">More</a>
-              <ul class="pure-menu-children">
-                <li class="pure-menu-item">
-                  <a class="pure-menu-link" href="/index.html">查詢今年活動</a>
-                </li>
-                <li class="pure-menu-item">
-                  <a class="pure-menu-link" href="/organization.html">查看活動籌備單位</a>
-                </li>
-                <li class="pure-menu-item">
-
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </div>--!>
+        <nav>
+          <a class='btn' style='background: rgb(28, 184, 65);' href='/' rel='ugc'>查詢今年活動 (總表)</a>
+          <a class='btn' style='background: #8058a5;' target="_blank" href='https://dcit-calendar.ivanwei.co' rel='ugc'>查詢今年活動 (行事曆版)</a>
+          <a class='btn' style='background: rgb(66, 184, 221);' href='/organization' rel='ugc'>查看活動籌備單位</a>
+          <a class='btn' style='background: rgb(223, 117, 20);' href='https://github.com/IvanWei/developer-conferences-in-taiwan/blob/master/data/list-of-organizations.json' target="_blank" rel="ugc nofollow">新增活動籌備單位</a>
+        </nav>
 
         <div class="conference">
-          ${converter.makeHtml(json2md(conferenceData))}
-        </div>
-        <div class="organization">
-          ${converter.makeHtml(json2md(organizationData))}
+          ${content}
         </div>
       </body>
       </html>
     `).replace(/(\r\n|\n|\r|\ \ )/gm, '');
 
-    fs.writeFile('docs/index.html', conferenceHtml, (err) => {
+    fs.writeFile('docs/index.html', conferenceHtml(converter.makeHtml(json2md(conferenceData))), (err) => {
       if (err) throw err;
       console.log('index.html, OK');
+    });
+    fs.writeFile('docs/organization.html', conferenceHtml(converter.makeHtml(json2md(organizationData))), (err) => {
+      if (err) throw err;
+      console.log('organization.html, OK');
     });
 
     break;
