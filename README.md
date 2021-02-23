@@ -13,6 +13,7 @@
 
  | Start date | End date | Name | Oversea | Ticket | Call for Speaker | Venue | 
  | --- | --- | --- | --- | --- | --- | --- | 
+ | 4.14 (Web) | 4.14 (Web) | [2021 FinTech金融科技應用高峰會](https://edm.bnext.com.tw/fintech-summit2021/) | 🛵 | [Register Now](https://eventgo.bnextmedia.com.tw/event/view/233) | --- | [🛵 台大集思會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%9B%86%E6%80%9D%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) | 
  | 4.19 (Mon) | 4.24 (Sat) | [The Web Conference 2021](https://www2021.thewebconf.org/) | 🛫 | --- | --- | [🛫 Ljubljana](https://maps.google.com/?q=Ljubljana) | 
 
 ## May
