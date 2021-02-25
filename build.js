@@ -51,6 +51,18 @@ switch (type) {
     const coverImgOfHtml = 'https://blog.ivanwei.co/images/2018/05/16/DCIT.png';
     const converter = new showdown.Converter({tables: true, extensions: ['targetlink']});
 
+    function fixJson2Md (content) {
+      return content.replace(/\n\ /g, ' ').replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
+        const month = substr.match(/\d{1,2}/);
+          if (month) {
+            return `| ${month}`;
+          } else {
+            return `)\n |`;
+          }
+
+        });
+    }
+
     const conferenceHtml = (content) => (`
       <!DOCTYPE HTML>
       <html lang="zh-tw">
@@ -122,11 +134,11 @@ switch (type) {
       </html>
     `).replace(/(\r\n|\n|\r|\ \ )/gm, '');
 
-    fs.writeFile('docs/index.html', conferenceHtml(converter.makeHtml(json2md(conferenceData))), (err) => {
+    fs.writeFile('docs/index.html', conferenceHtml(converter.makeHtml(fixJson2Md(json2md(conferenceData)))), (err) => {
       if (err) throw err;
       console.log('index.html, OK');
     });
-    fs.writeFile('docs/organization.html', conferenceHtml(converter.makeHtml(json2md(organizationData))), (err) => {
+    fs.writeFile('docs/organization.html', conferenceHtml(converter.makeHtml(fixJson2Md(json2md(organizationData)))), (err) => {
       if (err) throw err;
       console.log('organization.html, OK');
     });
