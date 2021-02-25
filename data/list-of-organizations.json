@@ -3,139 +3,112 @@
     {"h1":"List of Organizations"},
     {
     "table": {
-      "headers": ["Announcement", "Name", "Main Website", "Facebook"],
+      "headers": ["Name", "Main Website", "Facebook"],
       "rows": [{
-        "Announcement": "",
         "Name": "AgileCommunity.tw",
         "Main Website": {"link": {"title": "Link", "source": "https://agilecommunity.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/AgileCommunity.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "AWS Events and Webinars",
         "Main Website": {"link": {"title": "Link", "source": "https://aws.amazon.com/events"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/amazonwebservices"}}
       }, {
-        "Announcement": "",
         "Name": "BSDTW",
         "Main Website": {"link": {"title": "Link", "source": "https://bsdtw.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/BSDTW/"}}
       }, {
-        "Announcement": "",
         "Name": "COSCUP",
         "Main Website": {"link": {"title": "Link", "source": "https://coscup.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/coscup/"}}
       }, {
-        "Announcement": "",
         "Name": "DataCon.TW",
         "Main Website": {"link": {"title": "Link", "source": "https://datacon.tw/"}},
         "Facebook": {"link": {"title": "DataCon.TW", "source": "https://zh-tw.facebook.com/datacon.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "Taiwan Hadoop User Group",
         "Main Website": {"link": {"title": "Link", "source": "http://www.hadoop.tw/"}},
         "Facebook": {"link": {"title": "Hadoop Taiwan", "source": "https://www.facebook.com/groups/hadoop.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "Domain Driven Design Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://www.ddd-tw.com/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/DDDCommunity.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "FED X DESIGN",
         "Main Website": {"link": {"title": "Link", "source": "https://www.fed.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/f2e.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "Golang Taipei",
         "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/golang-taipei-meetup"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/groups/269001993248363"}}
       }, {
-        "Announcement": "",
         "Name": "Hacks In Taiwan 台灣駭客年會 ( HITCON )",
         "Main Website": {"link": {"title": "Link", "source": "https://hitcon.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/HITCON"}}
       }, {
-        "Announcement": "",
         "Name": "INFAS 全國中學生資訊年會",
         "Main Website": {"link": {"title": "Link", "source": "https://infas.club/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/infas.club"}}
       }, {
-        "Announcement": "",
         "Name": "iPlayground",
         "Main Website": {"link": {"title": "Link", "source": "https://iplayground.io/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/theiPlayground"}}
       }, {
-        "Announcement": "",
         "Name": "iThome",
         "Main Website": {"link": {"title": "Link", "source": "https://www.ithome.com.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/ithomeonline"}}
       }, {
-        "Announcement": "",
         "Name": "iThome Security",
         "Main Website": {"link": {"title": "Link", "source": "https://www.ithome.com.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/ithomecyber"}}
       }, {
-        "Announcement": "",
         "Name": "Jamf Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://twitter.com/JAMFSoftwareTW"}},
         "Facebook": ""
       }, {
-        "Announcement": "",
         "Name": "JCConf Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://jcconf.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/jcconf/"}}
       }, {
-        "Announcement": "",
         "Name": "JSDC Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://jsdc.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/JSDC.TW/"}}
       }, {
-        "Announcement": "",
         "Name": "LaravelConf Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://laravelconf.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/laravelconftw/"}}
       }, {
-        "Announcement": "",
         "Name": "Mobile Open Platform Conference (a.k.a MOPCON)",
         "Main Website": {"link": {"title": "Link", "source": "https://mopcon.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/mopcon/"}}
       }, {
-        "Announcement": "",
         "Name": "PyData Taipei Meetup Group",
         "Main Website": {"link": {"title": "Link", "source": "https://www.meetup.com/PyData-Taipei-Meetup-Group/"}},
         "Facebook": ""
       }, {
-        "Announcement": "",
         "Name": "PyCon Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://tw.pycon.org"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/pycontw/"}}
       }, {
-        "Announcement": "",
         "Name": "SITCON 學生計算機年會",
         "Main Website": {"link": {"title": "Link", "source": "https://sitcon.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://sitcon.org/fb"}}
       }, {
-        "Announcement": "",
         "Name": "TDOHacker - TDOH",
         "Main Website": {"link": {"title": "TDOHacker", "source": "https://tdohacker.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/tdohacker"}}
       }, {
-        "Announcement": "",
         "Name": "TDOHacker - TDOH",
         "Main Website": {"link": {"title": "THOH Conf", "source": "https://tdoh-conf.online/"}},
         "Facebook": ""
       }, {
-        "Announcement": "",
         "Name": "台北遊戲開發者論壇",
         "Main Website": {"link": {"title": "Link", "source": "https://tgdf.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/TGDF.Official/"}}
       }, {
-        "Announcement": "",
         "Name": "台灣人工智慧學校",
         "Main Website": {"link": {"title": "Link", "source": "https://aiacademy.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/aiacademy.tw/"}}
       }, {
-        "Announcement": "",
         "Name": "台灣資料科學協會",
         "Main Website": {"link": {"title": "Link", "source": "http://foundation.datasci.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/twdsconf/"}}
