@@ -142,9 +142,9 @@ http-server@^0.12.3:
     union "~0.5.0"
 
 indento@^1.1.7:
-  version "1.1.12"
-  resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.12.tgz#e95942e88e528655df33f129b6826019a1a221fd"
-  integrity sha512-hWlFlRL6dd06MU5SsOZZ6kzO7t/7ZjcxWh1Yf/MjGtyKQMC8SPS5GbZ2XqMBGaGn+HM2QQawYxSLtS7Zv0w0BQ==
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/indento/-/indento-1.1.13.tgz#751331b327c04740eeb7be40c5606e6e255c9e36"
+  integrity sha512-YZWk3mreBEM7sBPddsiQnW9Z8SGg/gNpFfscJq00HCDS7pxcQWWWMSVKJU7YkTRyDu1Zv2s8zaK8gQWKmCXHlg==
 
 is-fullwidth-code-point@^2.0.0:
   version "2.0.0"
@@ -152,8 +152,8 @@ is-fullwidth-code-point@^2.0.0:
   integrity sha1-o7MKXE8ZkYMWeqq5O+764937ZU8=
 
 "json2md@https://github.com/IvanWei/json2md.git":
-  version "1.6.1"
-  resolved "https://github.com/IvanWei/json2md.git#37273a3fc8ba0c20a1e332d99856846769e3d5c6"
+  version "1.9.2"
+  resolved "https://github.com/IvanWei/json2md.git#084c67c63f04a0b82bb8872ee491baefafeecdae"
   dependencies:
     indento "^1.1.7"
 
