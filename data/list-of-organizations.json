@@ -81,16 +81,6 @@
         "Facebook": ""
       }, {
         "Announcement": "",
-        "Name": "TDOHacker - TDOH",
-        "Main Website": {"link": {"title": "TDOHacker", "source": "https://tdohacker.org/"}},
-        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/tdohacker"}}
-      }, {
-        "Announcement": "",
-        "Name": "TDOHacker - TDOH",
-        "Main Website": {"link": {"title": "THOH Conf", "source": "https://tdoh-conf.online/"}},
-        "Facebook": ""
-      }, {
-        "Announcement": "",
         "Name": "JCConf Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://jcconf.tw/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/jcconf/"}}
@@ -107,7 +97,7 @@
       }, {
         "Announcement": "",
         "Name": "Mobile Open Platform Conference (a.k.a MOPCON)",
-        "Main Website": {"link": {"title": "Link", "source": "https://mopcon.org/2018/"}},
+        "Main Website": {"link": {"title": "Link", "source": "https://mopcon.org/"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/mopcon/"}}
       }, {
         "Announcement": "",
@@ -119,6 +109,21 @@
         "Name": "PyCon Taiwan",
         "Main Website": {"link": {"title": "Link", "source": "https://tw.pycon.org"}},
         "Facebook": {"link": {"title": "Link", "source": "https://zh-tw.facebook.com/pycontw/"}}
+      }, {
+        "Announcement": "",
+        "Name": "SITCON 學生計算機年會",
+        "Main Website": {"link": {"title": "Link", "source": "https://sitcon.org/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://sitcon.org/fb"}}
+      }, {
+        "Announcement": "",
+        "Name": "TDOHacker - TDOH",
+        "Main Website": {"link": {"title": "TDOHacker", "source": "https://tdohacker.org/"}},
+        "Facebook": {"link": {"title": "Link", "source": "https://www.facebook.com/tdohacker"}}
+      }, {
+        "Announcement": "",
+        "Name": "TDOHacker - TDOH",
+        "Main Website": {"link": {"title": "THOH Conf", "source": "https://tdoh-conf.online/"}},
+        "Facebook": ""
       }, {
         "Announcement": "",
         "Name": "台北遊戲開發者論壇",
