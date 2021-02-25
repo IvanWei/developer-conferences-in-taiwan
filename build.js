@@ -31,7 +31,10 @@ switch (type) {
   case 'readme':
     const reamdeMeData = Array.prototype.concat.call(conferenceData, [{"hr": ""}], organizationData);
 
-    fs.writeFile('README.md', json2md(reamdeMeData), (err) => {
+    fs.writeFile('README.md', json2md(reamdeMeData).replace(/\n\ /g, ' ').replace(/\n\d{1,2}/g, (substr) => {
+      const month = substr.match(/\d{1,2}/);
+      return `| ${month}`;
+    }), (err) => {
       if (err) throw err;
       console.log('README.md, OK');
     });
