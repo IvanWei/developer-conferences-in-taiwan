@@ -28,7 +28,10 @@ jobs:
       - name: Refresh Raw data
         env:
           CONFERENCE_SOURCE_URL: ${{secrets.CONFERENCE_SOURCE_URL}}
-        run: make refresh-conference-data
+          ORGANIZATION_SOURCE_URL: ${{secrets.ORGANIZATION_SOURCE_URL}}
+        run: |
+          make refresh-conference-data
+          make refresh-organization-data
       - name: Transfer Data
         run: |
           make refresh-README-file
