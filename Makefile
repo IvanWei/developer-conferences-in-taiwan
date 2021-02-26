@@ -14,7 +14,7 @@ refresh-conference-data:
 
 refresh-organization-data:
 	@echo "Download organization data from google sheet..."
-	curl -o "./data/organization-data.json" -L "$(ORGANIZATION_SOURCE_URL)"
+	curl -o "./data/list-of-organization.json" -L "$(ORGANIZATION_SOURCE_URL)"
 
 	@echo "Update json file of organization data"
 	git add ./data/list-of-organization.json
