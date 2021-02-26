@@ -12,6 +12,20 @@ refresh-conference-data:
 
 	@echo "Done!!!"
 
+refresh-organization-data:
+	@echo "Download organization data from google sheet..."
+	curl -o "./data/organization-data.json" -L "$(ORGANIZATION_SOURCE_URL)"
+
+	@echo "Update json file of organization data"
+	git add ./data/list-of-organization.json
+	if git commit -m "Update organization data at `date +%Y-%m-%d-T%H\:%M\:%S%z`"; then \
+		echo "Update json file"; \
+	else \
+		echo "No new data"; \
+	fi
+
+	@echo "Done!!!"
+
 refresh-README-file:
 	@echo "Update README.md"
 	npm run update:readme
@@ -47,6 +61,7 @@ deployment:
 
 refresh-and-deployment:
 	make refresh-conference-data
+	make refresh-organization-data
 	make refresh-README-file
 	make refresh-HTML-file
 	make readme-deployment
