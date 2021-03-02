@@ -11,7 +11,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.2 (Tue) | 3.4 (Thu) | [Microsoft Ignite](https://myignite.microsoft.com/home) | [Register Now](https://register.ignite.microsoft.com/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+| 3.2 (Tue) | 3.4 (Thu) | [Microsoft Ignite](https://myignite.microsoft.com/home) | [End](https://register.ignite.microsoft.com/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |3.10 (Web) | 3.10 (Web) | [HITCON FreeTalk 2021](https://www.facebook.com/HITCON/photos/a.782773775087280/4001371716560787/?type=3&theater) | [Register Now](https://hitcon.kktix.cc/events/hitconfreetalk-2021-1) | --- | [🛵 中國文化大學推廣部 B1 國際會議廳](https://maps.google.com/?q=%E4%B8%AD%E5%9C%8B%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%B8%E6%8E%A8%E5%BB%A3%E9%83%A8%20B1%20%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%BB%B3)
  |3.12 (Fri) | 3.12 (Fri) | [【Super 8 X 方形糖創意數位】Martech 趨勢座談會](https://www.accupass.com/event/2102230418408935716580) | [Register Now](https://www.accupass.com/event/2102230418408935716580) | --- | [🛵 台灣台北市105復興北路99號2樓207室](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E5%B8%82105%E5%BE%A9%E8%88%88%E5%8C%97%E8%B7%AF99%E8%99%9F2%E6%A8%93207%E5%AE%A4) |
 
