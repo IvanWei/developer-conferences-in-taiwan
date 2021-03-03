@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 1.25 (Mon) | 3.3 (Web) | [[徵稿] DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | [Register Now](https://r.itho.me/cfp-dod) | [🛵 台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)
+| 1.25 (Mon) | 3.3 (Web) | [[徵稿] DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | [End](https://r.itho.me/cfp-dod) | [🛵 台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)
  |1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | [Register Now](https://r.itho.me/cfp-ag) | [🛵 ](https://maps.google.com/?q=) |
 
 ## March
