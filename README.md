@@ -12,6 +12,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 3.2 (Tue) | 3.4 (Thu) | [Microsoft Ignite](https://myignite.microsoft.com/home) | [End](https://register.ignite.microsoft.com/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |3.9 (Tue) | 3.9 (Tue) | [第二十屆 亞太資訊安全論壇暨展會](https://secutechinfosecurity.tw.messefrankfurt.com/taipei/zh-tw/programme-events/march_event_2021.html) | [Register Now](https://forms.gle/SaDdjrGSms696FQ27) | --- | [🛵 臺北文創6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B56%E6%A8%93)
  |3.10 (Web) | 3.10 (Web) | [HITCON FreeTalk 2021](https://www.facebook.com/HITCON/photos/a.782773775087280/4001371716560787/?type=3&theater) | [Register Now](https://hitcon.kktix.cc/events/hitconfreetalk-2021-1) | --- | [🛵 中國文化大學推廣部 B1 國際會議廳](https://maps.google.com/?q=%E4%B8%AD%E5%9C%8B%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%B8%E6%8E%A8%E5%BB%A3%E9%83%A8%20B1%20%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%BB%B3)
  |3.12 (Fri) | 3.12 (Fri) | [【Super 8 X 方形糖創意數位】Martech 趨勢座談會](https://www.accupass.com/event/2102230418408935716580) | [Register Now](https://www.accupass.com/event/2102230418408935716580) | --- | [🛵 台灣台北市105復興北路99號2樓207室](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E5%B8%82105%E5%BE%A9%E8%88%88%E5%8C%97%E8%B7%AF99%E8%99%9F2%E6%A8%93207%E5%AE%A4) |
 
@@ -29,6 +30,12 @@
 | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) | --- | --- | [🛵 台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8)
  |5.28 (Fri) | 5.28 (Fri) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)
  |5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) |
+
+## June
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 6.10 (Thu) | 6.10 (Thu) | [2021「製造業」資安論壇](https://secutechinfosecurity.tw.messefrankfurt.com/taipei/zh-tw/programme-events/info_security_event.html) | --- | --- | [🛵 新竹(地點待定)](https://maps.google.com/?q=%E6%96%B0%E7%AB%B9(%E5%9C%B0%E9%BB%9E%E5%BE%85%E5%AE%9A)) |
 
 ## July
 
