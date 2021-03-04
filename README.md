@@ -41,7 +41,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.28 (Web) | 7.28 (Web) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=)
+| 7.28 (Web) | 7.28 (Web) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ## August
