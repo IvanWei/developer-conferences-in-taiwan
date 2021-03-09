@@ -7,6 +7,13 @@
 | 1.25 (Mon) | 3.3 (Web) | [[徵稿] DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | [End](https://r.itho.me/cfp-dod) | [🛵 台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)
  |1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | [Register Now](https://r.itho.me/cfp-ag) | [🛵 ](https://maps.google.com/?q=) |
 
+## February
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 2.22 (Mon) | 6.16 (Web) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/BGdVPSZj3PYkRve28) | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+ |2.22 (Mon) | 6.16 (Web) | [[徵稿] Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | [Register Now](https://forms.gle/ojru9WALyZuuSoVh8) | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
+
 ## March
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
@@ -52,7 +59,14 @@
 | 8.14 (Sat) | 8.18 (Web) | [KDD 2021](https://www.kdd.org/kdd2021/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
  |8.15 (Sun) | 8.21 (Sat) | [DebCamp](https://debconf21.debconf.org/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
  |8.20 (Fri) | 8.22 (Sun) | [PyCon Taiwan 2021](https://tw.pycon.org/) | --- | --- | [🛵 ](https://maps.google.com/?q=)
- |8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | --- | --- | [🛫 Haifa, Israel (2021 年 4 月做決定)](https://maps.google.com/?q=Haifa,%20Israel%20(2021%20%E5%B9%B4%204%20%E6%9C%88%E5%81%9A%E6%B1%BA%E5%AE%9A)) |
+ |8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | --- | --- | [🛫 Haifa, Israel (2021 年 4 月做決定)](https://maps.google.com/?q=Haifa,%20Israel%20(2021%20%E5%B9%B4%204%20%E6%9C%88%E5%81%9A%E6%B1%BA%E5%AE%9A))
+ |8.24 (Tue) | 8.25 (Web) | [ModernWeb 2021](https://modernweb.tw/) | --- | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+
+## September
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 9.17 (Fri) | 9.17 (Fri) | [Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ---
 
