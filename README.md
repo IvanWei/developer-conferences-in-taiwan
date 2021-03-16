@@ -22,7 +22,8 @@
  |3.2 (Tue) | 3.4 (Thu) | [Microsoft Ignite](https://myignite.microsoft.com/home) | [End](https://register.ignite.microsoft.com/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |3.9 (Tue) | 3.9 (Tue) | [第二十屆 亞太資訊安全論壇暨展會](https://secutechinfosecurity.tw.messefrankfurt.com/taipei/zh-tw/programme-events/march_event_2021.html) | [End](https://forms.gle/SaDdjrGSms696FQ27) | --- | [🛵 臺北文創6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B56%E6%A8%93)
  |3.10 (Web) | 3.10 (Web) | [HITCON FreeTalk 2021](https://www.facebook.com/HITCON/photos/a.782773775087280/4001371716560787/?type=3&theater) | [End](https://hitcon.kktix.cc/events/hitconfreetalk-2021-1) | --- | [🛵 中國文化大學推廣部 B1 國際會議廳](https://maps.google.com/?q=%E4%B8%AD%E5%9C%8B%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%B8%E6%8E%A8%E5%BB%A3%E9%83%A8%20B1%20%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E5%BB%B3)
- |3.12 (Fri) | 3.12 (Fri) | [【Super 8 X 方形糖創意數位】Martech 趨勢座談會](https://www.accupass.com/event/2102230418408935716580) | [End](https://www.accupass.com/event/2102230418408935716580) | --- | [🛵 台灣台北市105復興北路99號2樓207室](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E5%B8%82105%E5%BE%A9%E8%88%88%E5%8C%97%E8%B7%AF99%E8%99%9F2%E6%A8%93207%E5%AE%A4) |
+ |3.12 (Fri) | 3.12 (Fri) | [【Super 8 X 方形糖創意數位】Martech 趨勢座談會](https://www.accupass.com/event/2102230418408935716580) | [End](https://www.accupass.com/event/2102230418408935716580) | --- | [🛵 台灣台北市105復興北路99號2樓207室](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%8F%B0%E5%8C%97%E5%B8%82105%E5%BE%A9%E8%88%88%E5%8C%97%E8%B7%AF99%E8%99%9F2%E6%A8%93207%E5%AE%A4)
+ |3.16 (Tue) | 4.30 (Fri) | [[徵稿] 2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | [Register Now](https://2021.tgdf.tw/) | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## April
 
@@ -49,8 +50,10 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.28 (Web) | 7.28 (Web) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 7.10 (Sat) | 7.11 (Sun) | [2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
+ |7.28 (Web) | 7.28 (Web) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+ |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 ](https://maps.google.com/?q=)
+ |7.31 (Sat) | 8.1 (Sun) | [COSCUP 2021](https://coscup.medium.com/coscup-%E6%90%B6%E5%85%88%E5%A0%B1-2021-%E9%96%8B%E8%B7%91%E5%9B%89-cb6c12fb097) | --- | --- | [🛵 臺灣科技大學 (視疫情調整)](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%20(%E8%A6%96%E7%96%AB%E6%83%85%E8%AA%BF%E6%95%B4)) |
 
 ## August
 
