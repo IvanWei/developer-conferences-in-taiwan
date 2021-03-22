@@ -29,7 +29,9 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.14 (Web) | 4.14 (Web) | [2021 FinTech金融科技應用高峰會](https://edm.bnext.com.tw/fintech-summit2021/) | [Register Now](https://eventgo.bnextmedia.com.tw/event/view/233) | --- | [🛵 台大集思會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%9B%86%E6%80%9D%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+| 4.12 (Mon) | 4.12 (Mon) | [GTC 2021 (KEYNOTE)](https://www.nvidia.com/en-us/gtc/) | [Register Now](https://gtc21.event.nvidia.com/register) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |4.12 (Mon) | 4.16 (Fri) | [GTC 2021 (CONFERENCE & TRAINING)](https://www.nvidia.com/en-us/gtc/) | [Register Now](https://gtc21.event.nvidia.com/register) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |4.14 (Web) | 4.14 (Web) | [2021 FinTech金融科技應用高峰會](https://edm.bnext.com.tw/fintech-summit2021/) | [Register Now](https://eventgo.bnextmedia.com.tw/event/view/233) | --- | [🛵 台大集思會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%9B%86%E6%80%9D%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |4.19 (Mon) | 4.23 (Fri) | [The Web Conference 2021](https://www2021.thewebconf.org/) | [Register Now](https://www2021.thewebconf.org/attendees/) | --- | [🛫 Ljubljana, Slovenia](https://maps.google.com/?q=Ljubljana,%20Slovenia) |
 
 ## May
