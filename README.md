@@ -39,6 +39,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.4 (Tue) | 5.6 (Thu) | [2021 臺灣資安大會](https://event.ithome.com.tw/live/cfs_cybersec2021/index.html) | --- | --- | [🛵 台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8)
+ |5.27 (Thu) | 5.27 (Thu) | [DockerCon Live 2021](https://www.docker.com/dockercon-live/2021/) | [Register Now](https://www.docker.com/dockercon-live/2021/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |5.28 (Fri) | 5.28 (Fri) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 台北文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)
  |5.29 (Sat) | 5.29 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) |
 
