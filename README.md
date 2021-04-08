@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | [Register Now](https://r.itho.me/cfp-ag) | [🛵 ](https://maps.google.com/?q=) |
+| 1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | [Register Now](https://r.itho.me/cfp-ag) | [🛵 台北市信義區菸廠路88號6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8F%B8%E5%BB%A0%E8%B7%AF88%E8%99%9F6%E6%A8%93) |
 
 ## February
 
@@ -44,7 +44,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 6.10 (Thu) | 6.10 (Thu) | [2021「製造業」資安論壇](https://secutechinfosecurity.tw.messefrankfurt.com/taipei/zh-tw/programme-events/info_security_event.html) | --- | --- | [🛵 新竹(地點待定)](https://maps.google.com/?q=%E6%96%B0%E7%AB%B9(%E5%9C%B0%E9%BB%9E%E5%BE%85%E5%AE%9A)) |
+| 6.10 (Thu) | 6.10 (Thu) | [2021「製造業」資安論壇](https://secutechinfosecurity.tw.messefrankfurt.com/taipei/zh-tw/programme-events/info_security_event.html) | --- | --- | [🛵 新竹豐邑喜來登大飯店](https://maps.google.com/?q=%E6%96%B0%E7%AB%B9%E8%B1%90%E9%82%91%E5%96%9C%E4%BE%86%E7%99%BB%E5%A4%A7%E9%A3%AF%E5%BA%97) |
 
 ## July
 
@@ -52,7 +52,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 7.10 (Sat) | 7.11 (Sun) | [2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |7.28 (Web) | 7.28 (Web) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 ](https://maps.google.com/?q=)
+ |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 台北市信義區菸廠路88號6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8F%B8%E5%BB%A0%E8%B7%AF88%E8%99%9F6%E6%A8%93)
  |7.31 (Sat) | 8.1 (Sun) | [COSCUP 2021](https://coscup.medium.com/coscup-%E6%90%B6%E5%85%88%E5%A0%B1-2021-%E9%96%8B%E8%B7%91%E5%9B%89-cb6c12fb097) | --- | --- | [🛵 臺灣科技大學 (視疫情調整)](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%20(%E8%A6%96%E7%96%AB%E6%83%85%E8%AA%BF%E6%95%B4)) |
 
 ## August
