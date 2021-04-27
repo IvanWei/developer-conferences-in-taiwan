@@ -17,7 +17,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.1 (Mon) | 4.27 (Tue) | [[徵稿] PyCon Taiwan 2021](https://tw.pycon.org/) | --- | [Register Now](https://tw.pycon.org/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=)
+| 3.1 (Mon) | 4.27 (Tue) | [[徵稿] PyCon Taiwan 2021](https://tw.pycon.org/) | --- | [End](https://tw.pycon.org/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=)
  |3.16 (Tue) | 4.30 (Fri) | [[徵稿] 2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | [Register Now](https://2021.tgdf.tw/) | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## April
