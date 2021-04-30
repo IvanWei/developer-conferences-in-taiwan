@@ -1,35 +1,11 @@
 # Developer Conferences in Taiwan 2021
 
-## January
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 1.25 (Mon) | 4.21 (Web) | [[徵稿] Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | [End](https://r.itho.me/cfp-ag) | [🛵 台北市信義區菸廠路88號6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8F%B8%E5%BB%A0%E8%B7%AF88%E8%99%9F6%E6%A8%93) |
-
 ## February
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 2.22 (Mon) | 6.16 (Web) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/BGdVPSZj3PYkRve28) | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |2.22 (Mon) | 6.16 (Web) | [[徵稿] Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | [Register Now](https://forms.gle/ojru9WALyZuuSoVh8) | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
-
-## March
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.1 (Mon) | 4.27 (Tue) | [[徵稿] PyCon Taiwan 2021](https://tw.pycon.org/) | --- | [End](https://tw.pycon.org/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=)
- |3.16 (Tue) | 4.30 (Fri) | [[徵稿] 2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | [Register Now](https://2021.tgdf.tw/) | [🛵 Online](https://maps.google.com/?q=Online) |
-
-## April
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.12 (Mon) | 4.12 (Mon) | [GTC 2021 (KEYNOTE)](https://www.nvidia.com/en-us/gtc/) | [End](https://gtc21.event.nvidia.com/register) | --- | [🛫 Online](https://maps.google.com/?q=Online)
- |4.12 (Mon) | 4.16 (Fri) | [GTC 2021 (CONFERENCE & TRAINING)](https://www.nvidia.com/en-us/gtc/) | [End](https://gtc21.event.nvidia.com/register) | --- | [🛫 Online](https://maps.google.com/?q=Online)
- |4.14 (Web) | 4.14 (Web) | [2021 FinTech金融科技應用高峰會](https://edm.bnext.com.tw/fintech-summit2021/) | [End](https://eventgo.bnextmedia.com.tw/event/view/233) | --- | [🛵 台大集思會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%9B%86%E6%80%9D%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |4.18 (Sun) | 4.18 (Sun) | [WiDS Taipei 2021](https://www.accupass.com/event/2103041156311863988298) | [End](https://www.accupass.com/event/2103041156311863988298) | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |4.19 (Mon) | 4.23 (Fri) | [The Web Conference 2021](https://www2021.thewebconf.org/) | [End](https://www2021.thewebconf.org/attendees/) | --- | [🛫 Ljubljana, Slovenia](https://maps.google.com/?q=Ljubljana,%20Slovenia)
- |4.22 (Thu) | 4.22 (Thu) | [MarTech Asia 2021](https://martechasia.awoo.ai/martech-asia-2021/) | [End](https://martechasia.awoo.ai/martech-asia-2021/#2) | --- | [🛵 台北國際會議中心 201 全室](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83%20201%20%E5%85%A8%E5%AE%A4) |
 
 ## May
 
