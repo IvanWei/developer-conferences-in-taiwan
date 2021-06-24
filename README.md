@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 2.22 (Mon) | 6.16 (Web) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [End](https://forms.gle/BGdVPSZj3PYkRve28) | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |2.22 (Mon) | 6.16 (Web) | [[徵稿] Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | [End](https://forms.gle/ojru9WALyZuuSoVh8) | [🛵 Online (原 臺北文創)](https://maps.google.com/?q=Online%20(%E5%8E%9F%20%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5)) |
+ |2.22 (Mon) | 6.16 (Web) | [[徵稿] Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | [End](https://forms.gle/ojru9WALyZuuSoVh8) | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ## July
 
@@ -29,19 +29,19 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.4 (Sat) | 9.4 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2)
- |9.24 (Fri) | 9.24 (Fri) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 Online (原 臺北國際會議中心)](https://maps.google.com/?q=Online%20(%E5%8E%9F%20%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)) |
+ |9.24 (Fri) | 9.24 (Fri) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## November
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 Online (原 台北文創)](https://maps.google.com/?q=Online%20(%E5%8E%9F%20%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5)) |
+| 11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ## December
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.22 (Web) | 12.22 (Web) | [Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | --- | [🛵 Online (原 臺北文創)](https://maps.google.com/?q=Online%20(%E5%8E%9F%20%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5)) |
+| 12.22 (Web) | 12.22 (Web) | [Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ---
 
