@@ -1,12 +1,5 @@
 # Developer Conferences in Taiwan 2021
 
-## February
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 2.22 (Mon) | 6.16 (Web) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [End](https://forms.gle/BGdVPSZj3PYkRve28) | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |2.22 (Mon) | 6.16 (Web) | [[徵稿] Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | [End](https://forms.gle/ojru9WALyZuuSoVh8) | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
-
 ## July
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
