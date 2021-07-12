@@ -6,6 +6,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 7.8 (Thu) | 8.19 (Thu) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [Register Now](https://modernweb.tw/cfs/) | [🛵 ](https://maps.google.com/?q=)
  |7.10 (Sat) | 7.11 (Sun) | [2021 Taipei Game Developers Forum](https://2021.tgdf.tw/) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
+ |7.12 (Mon) | 7.14 (Web) | [[徵稿] UbuCon Asia 2021](https://2021.ubucon.asia/) | --- | [Register Now](https://2021.ubucon.asia/sponsors/become-a-sponsor/) | [🛫 Online](https://maps.google.com/?q=Online)
  |7.30 (Fri) | 7.30 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 台北市信義區菸廠路88號6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8F%B8%E5%BB%A0%E8%B7%AF88%E8%99%9F6%E6%A8%93)
  |7.31 (Sat) | 8.1 (Sun) | [COSCUP 2021](https://coscup.medium.com/coscup-%E6%90%B6%E5%85%88%E5%A0%B1-2021-%E9%96%8B%E8%B7%91%E5%9B%89-cb6c12fb097) | --- | --- | [🛵 臺灣科技大學 (視疫情調整)](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%20(%E8%A6%96%E7%96%AB%E6%83%85%E8%AA%BF%E6%95%B4)) |
 
@@ -22,7 +23,8 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.4 (Sat) | 9.4 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2)
- |9.24 (Fri) | 9.24 (Fri) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+ |9.24 (Fri) | 9.24 (Fri) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+ |9.25 (Sat) | 9.26 (Sun) | [UbuCon Asia 2021](https://2021.ubucon.asia/) | --- | --- | [🛫 Online](https://maps.google.com/?q=Online) |
 
 ## October
 
