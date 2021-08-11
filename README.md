@@ -13,7 +13,8 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 8.15 (Sun) | 8.21 (Sat) | [DebCamp](https://debconf21.debconf.org/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
  |8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | --- | --- | [🛫 Haifa, Israel (2021 年 4 月做決定)](https://maps.google.com/?q=Haifa,%20Israel%20(2021%20%E5%B9%B4%204%20%E6%9C%88%E5%81%9A%E6%B1%BA%E5%AE%9A))
- |8.24 (Tue) | 8.25 (Web) | [ModernWeb 2021](https://modernweb.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+ |8.24 (Tue) | 8.25 (Web) | [ModernWeb 2021](https://modernweb.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=)
+ |8.26 (Thu) | 8.26 (Thu) | [2021國泰金控技術年會](https://edm.bnext.com.tw/2021cathaycon/) | [Register Now](https://www.accupass.com/event/2107221002434542934180) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## September
 
