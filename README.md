@@ -11,7 +11,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.11 (Web) | 8.13 (Fri) | [DevDays Asia 亞太技術年會](https://event.ithome.com.tw/live/devdays/index.html) | [---](https://app.micepad.co/pages/#/register/devdays) | --- | [🛵 Online](https://maps.google.com/?q=Online)
+| 8.11 (Web) | 8.13 (Fri) | [DevDays Asia 亞太技術年會](https://event.ithome.com.tw/live/devdays/index.html) | [End](https://app.micepad.co/pages/#/register/devdays) | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |8.15 (Sun) | 8.21 (Sat) | [DebCamp](https://debconf21.debconf.org/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
  |8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | --- | --- | [🛫 Haifa, Israel (2021 年 4 月做決定)](https://maps.google.com/?q=Haifa,%20Israel%20(2021%20%E5%B9%B4%204%20%E6%9C%88%E5%81%9A%E6%B1%BA%E5%AE%9A))
  |8.24 (Tue) | 8.25 (Web) | [ModernWeb 2021](https://modernweb.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=)
