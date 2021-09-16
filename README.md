@@ -1,29 +1,11 @@
 # Developer Conferences in Taiwan 2021
 
-## July
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.8 (Thu) | 8.19 (Thu) | [[徵稿] ModernWeb 2021](https://modernweb.tw/) | --- | [Register Now](https://modernweb.tw/cfs/) | [🛵 ](https://maps.google.com/?q=)
- |7.31 (Sat) | 8.1 (Sun) | [COSCUP 2021](https://coscup.medium.com/coscup-%E6%90%B6%E5%85%88%E5%A0%B1-2021-%E9%96%8B%E8%B7%91%E5%9B%89-cb6c12fb097) | --- | --- | [🛵 臺灣科技大學 (視疫情調整)](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8%20(%E8%A6%96%E7%96%AB%E6%83%85%E8%AA%BF%E6%95%B4)) |
-
-## August
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.11 (Web) | 8.13 (Fri) | [DevDays Asia 亞太技術年會](https://event.ithome.com.tw/live/devdays/index.html) | [End](https://app.micepad.co/pages/#/register/devdays) | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |8.15 (Sun) | 8.21 (Sat) | [DebCamp](https://debconf21.debconf.org/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
- |8.22 (Sun) | 8.29 (Sun) | [DebConf21](https://debconf21.debconf.org/) | --- | --- | [🛫 Haifa, Israel (2021 年 4 月做決定)](https://maps.google.com/?q=Haifa,%20Israel%20(2021%20%E5%B9%B4%204%20%E6%9C%88%E5%81%9A%E6%B1%BA%E5%AE%9A))
- |8.24 (Tue) | 8.25 (Web) | [ModernWeb 2021](https://modernweb.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=)
- |8.25 (Web) | 8.25 (Web) | [2021智動化線上研討會](https://webinar.trendforce.com/AutomationWebinar2021-ch/index.html) | [Register Now](https://webinar.trendforce.com/AutomationWebinar2021-ch/form) | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |8.26 (Thu) | 8.26 (Thu) | [2021國泰金控技術年會](https://edm.bnext.com.tw/2021cathaycon/) | [Register Now](https://www.accupass.com/event/2107221002434542934180) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
-
 ## September
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.4 (Sat) | 9.4 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 臺灣大學社會科學院](https://maps.google.com/?q=%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2)
- |9.24 (Fri) | 9.24 (Fri) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+| 9.4 (Sat) | 9.4 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
+ |9.6 (Mon) | 9.17 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |9.25 (Sat) | 9.26 (Sun) | [UbuCon Asia 2021](https://2021.ubucon.asia/) | --- | --- | [🛫 Online](https://maps.google.com/?q=Online) |
 
 ## October
@@ -31,14 +13,16 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.2 (Sat) | 10.3 (Sun) | [PyCon Taiwan 10th Anniversary](https://tw.pycon.org/2021/zh-hant) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |10.16 (Sat) | 10.17 (Sun) | Laravel x Vue Conf | --- | --- | [🛵 ](https://maps.google.com/?q=)
- |10.30 (Sat) | 10.30 (Sat) | JSDC | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+ |10.16 (Sat) | 10.17 (Sun) | [Laravel x Vue Conf](https://laravelconf.tw/) | [Register Now](https://events.laravel-dojo.com/events/32-%7Blaravel-x-vue%7Dconf-taiwan-2021) | --- | [🛵 Online](https://maps.google.com/?q=Online)
+ |10.27 (Web) | 10.28 (Thu) | [稀土开发者大会 2021](https://conf.juejin.cn/xdc2021) | [Register Now](https://www.bagevent.com/event/7481268#website_moduleId_940560) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |10.30 (Sat) | 10.30 (Sat) | [JSDC Taiwan](https://zh-tw.facebook.com/JSDC.TW/posts/3704177376354415) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## November
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
+| 11.16 (Tue) | 11.16 (Tue) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+ |11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ## December
 
