@@ -13,6 +13,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.2 (Sat) | 10.3 (Sun) | [PyCon Taiwan 10th Anniversary](https://tw.pycon.org/2021/zh-hant) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
+ |10.6 (Web) | 10.8 (Fri) | [2021 台灣人工智慧年會暨 AI 技術應用論壇](https://conf2021.aiacademy.tw/) | [---](https://www.accupass.com/event/2109010214061184443969) | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |10.16 (Sat) | 10.17 (Sun) | [Laravel x Vue Conf](https://laravelconf.tw/) | [Register Now](https://events.laravel-dojo.com/events/32-%7Blaravel-x-vue%7Dconf-taiwan-2021) | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |10.27 (Web) | 10.28 (Thu) | [稀土开发者大会 2021](https://conf.juejin.cn/xdc2021) | [Register Now](https://www.bagevent.com/event/7481268#website_moduleId_940560) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |10.30 (Sat) | 10.30 (Sat) | [JSDC Taiwan](https://zh-tw.facebook.com/JSDC.TW/posts/3704177376354415) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online) |
