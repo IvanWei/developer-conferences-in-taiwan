@@ -1,13 +1,5 @@
 # Developer Conferences in Taiwan 2021
 
-## September
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.4 (Sat) | 9.4 (Sat) | [SITCON 2021 學生計算機年會](https://sitcon.org/2021) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |9.6 (Mon) | 9.17 (Fri) | [Agile Summit 2021](https://summit.ithome.com.tw/agile) | --- | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |9.25 (Sat) | 9.26 (Sun) | [UbuCon Asia 2021](https://2021.ubucon.asia/) | --- | --- | [🛫 Online](https://maps.google.com/?q=Online) |
-
 ## October
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
