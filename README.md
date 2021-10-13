@@ -24,6 +24,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 12.8 (Web) | 12.8 (Web) | [ArgoCon 2021](https://argoproj.github.io/argocon21/) | [---](https://www.eventbrite.com/e/argocon-tickets-162063240515) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |12.17 (Fri) | 12.18 (Sat) | [.NET Conf 2021 Taiwan (ENTERPRISE DAY)](https://dotnetconf.study4.tw/) | [Register Now](https://www.accupass.com/event/2110091457438095218440) | --- | [🛵 臺北文創大樓 6樓 (也有線上)](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%E6%A8%93%20(%E4%B9%9F%E6%9C%89%E7%B7%9A%E4%B8%8A))
  |12.22 (Web) | 12.22 (Web) | [Kubernetes Summit 2021](https://k8s.ithome.com.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ---
