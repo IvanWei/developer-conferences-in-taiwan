@@ -9,14 +9,14 @@
  |10.16 (Sat) | 10.17 (Sun) | [Laravel x Vue Conf](https://laravelconf.tw/) | [Register Now](https://events.laravel-dojo.com/events/32-%7Blaravel-x-vue%7Dconf-taiwan-2021) | --- | [🛵 Online](https://maps.google.com/?q=Online)
  |10.27 (Web) | 10.28 (Thu) | [稀土开发者大会 2021](https://conf.juejin.cn/xdc2021) | [Register Now](https://www.bagevent.com/event/7481268#website_moduleId_940560) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |10.27 (Web) | 10.28 (Thu) | [GitHub Universe](https://githubuniverse.com/) | --- | --- | [🛫 Online](https://maps.google.com/?q=Online)
- |10.30 (Sat) | 10.30 (Sat) | [JSDC Taiwan](https://zh-tw.facebook.com/JSDC.TW/posts/3704177376354415) | [---](https://www.accupass.com/event/2109210508051383682446) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
+ |10.30 (Sat) | 10.30 (Sat) | [JSDC Taiwan](https://2021.jsdc.tw/) | [Register Now](https://www.accupass.com/event/2109210508051383682446) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## November
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 11.3 (Web) | 11.3 (Web) | [2021國際資安大會 \| InfoSec Taiwan 2021](https://2021.infosec.org.tw/index.html) | [Register Now](https://event.twcsa.org/site/schedule) | --- | [🛵 臺北文創大樓 6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%E6%A8%93)
- |11.16 (Tue) | 11.16 (Tue) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | --- | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+ |11.16 (Tue) | 11.16 (Tue) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
 ## December
