@@ -16,7 +16,9 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 11.3 (Web) | 11.3 (Web) | [2021國際資安大會 \| InfoSec Taiwan 2021](https://2021.infosec.org.tw/index.html) | [Register Now](https://event.twcsa.org/site/schedule) | --- | [🛵 臺北文創大樓 6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%E6%A8%93)
+| 11.2 (Tue) | 11.4 (Thu) | [Microsoft Ignite](https://myignite.microsoft.com/home) | [Register Now](https://register.ignite.microsoft.com/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |11.3 (Web) | 11.3 (Web) | [2021國際資安大會 \| InfoSec Taiwan 2021](https://2021.infosec.org.tw/index.html) | [Register Now](https://event.twcsa.org/site/schedule) | --- | [🛵 臺北文創大樓 6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%E6%A8%93)
+ |11.3 (Web) | 11.4 (Thu) | [LINE DEVELOPER DAY 2021](https://linedevday.linecorp.com/2021) | [Register Now](https://linedevday.linecorp.com/2021) | --- | [🛫 Online](https://maps.google.com/?q=Online)
  |11.16 (Tue) | 11.16 (Tue) | [Taiwan Cloud Edge Summit 2021](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |11.24 (Web) | 11.24 (Web) | [DevOpsDays Taipei 2021](https://devopsdays.tw/) | --- | --- | [🛵 臺北文創](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5) |
 
