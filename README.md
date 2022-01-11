@@ -1,10 +1,16 @@
 # Developer Conferences in Taiwan 2022
 
+## January
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 1.19 (Web) | 1.20 (Thu) | [LINE TAIWAN TECHPULSE 2022](https://techpulse.line.me/) | [Register Now](https://lin.ee/6aYfYgs/yltz/TP/WS) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
+
 ## March
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://foundation.mozilla.org/en/blog/save-the-date-mozfest-2022/) | --- | --- | [🛫 Online](https://maps.google.com/?q=Online) |
+| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://www.mozillafestival.org/en/) | [Register Now](https://www.mozillafestival.org/en/tickets/#/) | --- | [🛫 Online](https://maps.google.com/?q=Online) |
 
 ---
 
