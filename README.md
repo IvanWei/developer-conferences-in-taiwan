@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 1.19 (Web) | 1.20 (Thu) | [LINE TAIWAN TECHPULSE 2022](https://techpulse.line.me/) | [Register Now](https://lin.ee/6aYfYgs/yltz/TP/WS) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
+| 1.19 (Web) | 1.20 (Thu) | [LINE TAIWAN TECHPULSE 2022](https://techpulse.line.me/) | [End](https://lin.ee/6aYfYgs/yltz/TP/WS) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
 
 ## March
 
