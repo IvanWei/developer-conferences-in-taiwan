@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://www.mozillafestival.org/en/) | [Register Now](https://www.mozillafestival.org/en/tickets/#/) | --- | [🛫 Online](https://maps.google.com/?q=Online) |
+| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://www.mozillafestival.org/en/) | [End](https://www.mozillafestival.org/en/tickets/#/) | --- | [🛫 Online](https://maps.google.com/?q=Online) |
 
 ---
 
