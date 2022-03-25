@@ -4,7 +4,8 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://www.mozillafestival.org/en/) | [End](https://www.mozillafestival.org/en/tickets/#/) | --- | [🛫 Online](https://maps.google.com/?q=Online) |
+| 3.7 (Mon) | 3.11 (Fri) | [Mozilla Festival 2022](https://www.mozillafestival.org/en/) | [End](https://www.mozillafestival.org/en/tickets/#/) | --- | [🛫 Online](https://maps.google.com/?q=Online)
+ |3.31 (Thu) | 3.31 (Thu) | [AIHPCcon 台灣 AI 超算年會](https://tws.twcc.ai/) | [Register Now](https://www.accupass.com/event/2203170953411448624705) | --- | [🛵 台灣新北市淡水區中正東路二段177號](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E6%96%B0%E5%8C%97%E5%B8%82%E6%B7%A1%E6%B0%B4%E5%8D%80%E4%B8%AD%E6%AD%A3%E6%9D%B1%E8%B7%AF%E4%BA%8C%E6%AE%B5177%E8%99%9F) |
 
 ## May
 
