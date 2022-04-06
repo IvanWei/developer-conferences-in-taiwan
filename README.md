@@ -1,10 +1,22 @@
 # Developer Conferences in Taiwan 2022
 
+## March
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 3.1 (Tue) | 4.15 (Fri) | [[徵稿] PyCon APAC](https://tw.pycon.org/) | --- | [Register Now](https://tw.pycon.org/2022/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=) |
+
 ## May
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.17 (Tue) | 5.19 (Thu) | [2022 臺灣資安大會](https://cyber.ithome.com.tw/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2022) | --- | [🛵 台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
+| 5.17 (Tue) | 5.19 (Thu) | [CYBERSEC 2022 臺灣資安大會](https://cyber.ithome.com.tw/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2022) | --- | [🛵 台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
+
+## September
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 9.3 (Sat) | 9.4 (Sun) | [PyCon APAC](https://tw.pycon.org/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ---
 
