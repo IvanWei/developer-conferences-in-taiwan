@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.1 (Tue) | 4.15 (Fri) | [[徵稿] PyCon APAC](https://tw.pycon.org/) | --- | [Register Now](https://tw.pycon.org/2022/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=) |
+| 3.1 (Tue) | 4.15 (Fri) | [[徵稿] PyCon APAC](https://tw.pycon.org/) | --- | [End](https://tw.pycon.org/2022/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=) |
 
 ## May
 
