@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.11 (Web) | 5.12 (Thu) | [Config (Figma’s annual conference)](https://config.figma.com/events/figma-config-2022/home) | [Register Now](https://config.figma.com/events/figma-config-2022/registration_form) | --- | [🛫 Online from SAN FRANCISCO](https://maps.google.com/?q=Online%20from%20SAN%20FRANCISCO)
+| 5.11 (Web) | 5.12 (Thu) | [Config (Figma’s annual conference)](https://config.figma.com/events/figma-config-2022/home) | [End](https://config.figma.com/events/figma-config-2022/registration_form) | --- | [🛫 Online from SAN FRANCISCO](https://maps.google.com/?q=Online%20from%20SAN%20FRANCISCO)
  |5.17 (Tue) | 5.19 (Thu) | [CYBERSEC 2022 臺灣資安大會](https://cyber.ithome.com.tw/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2022) | --- | [🛵 台北南港展覽館 2 館](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
 
 ## September
