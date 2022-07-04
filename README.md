@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.1 (Fri) | 7.4 (Mon) | [[徵稿] DevOpsDays Taipei 2022](https://devopsdays.tw/) | --- | [Register Now](https://devopsdays.tw/2022/CFP/) | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F)
+| 7.1 (Fri) | 7.4 (Mon) | [[徵稿] DevOpsDays Taipei 2022](https://devopsdays.tw/) | --- | [End](https://devopsdays.tw/2022/CFP/) | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F)
  |7.1 (Fri) | 7.18 (Mon) | [[徵稿] Kubernetes Summit 2022](https://k8s.ithome.com.tw/) | --- | [Register Now](https://k8s.ithome.com.tw/CFP) | [🛵 台北文創大樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93)
  |7.17 (Sun) | 7.24 (Sun) | [DebConf 22](https://debconf22.debconf.org/) | --- | --- | [🛫 Prizren, Kosovo](https://maps.google.com/?q=Prizren,%20Kosovo)
  |7.30 (Sat) | 7.31 (Sun) | [COSCUP 2022](https://coscup.org/2022/zh-TW//) | --- | --- | [🛵 國立臺灣科技大學](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
