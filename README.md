@@ -38,6 +38,12 @@
  |10.15 (Sat) | 10.16 (Sun) | [MOPCON 2022](https://mopcon.org/) | --- | --- | [🛵 高雄國際會議中心](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |10.18 (Tue) | 10.19 (Web) | [Kubernetes Summit 2022](https://k8s.ithome.com.tw/) | --- | --- | [🛵 台北文創大樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93) |
 
+## November
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 11.4 (Fri) | 11.6 (Sun) | [RSG Taipei 2022](https://rsg.taipei/) | [Register Now](https://www.accupass.com/event/2205141040222121159517) | --- | [🛵 Online](https://maps.google.com/?q=Online) |
+
 ## December
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
