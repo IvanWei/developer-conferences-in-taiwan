@@ -6,7 +6,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 8.24 (Web) | 8.24 (Web) | [2022 數位政府高峰會](https://egov.ithome.com.tw/) | [Register Now](https://event.ithome.com.tw/live/egov2022/index.html) | --- | [🛵 台北富邦國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |8.30 (Tue) | 8.31 (Web) | [ArchSummit 全球架構師峰會 上海站](https://archsummit.infoq.cn/2022/shanghai/schedule) | --- | --- | [🛫 上海 宝华万豪酒店](https://maps.google.com/?q=%E4%B8%8A%E6%B5%B7%20%E5%AE%9D%E5%8D%8E%E4%B8%87%E8%B1%AA%E9%85%92%E5%BA%97)
- |8.31 (Web) | 8.31 (Web) | [Agile Summit 2022](https://agile.ithome.com.tw/) | [Register Now](https://agile.ithome.com.tw/#linkTicket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
+ |8.31 (Web) | 8.31 (Web) | [Agile Summit 2022](https://agile.ithome.com.tw/) | [End](https://agile.ithome.com.tw/#linkTicket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
 
 ## September
 
@@ -22,7 +22,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 10.7 (Fri) | 10.7 (Fri) | [JCConf Taiwan 2022](https://jcconf.tw/) | [Register Now](https://pretalx.com/jcconf-2022/cfp) | --- | [🛵 台大醫院國際會議](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0)
+| 10.7 (Fri) | 10.7 (Fri) | [JCConf Taiwan 2022](https://jcconf.tw/) | [End](https://pretalx.com/jcconf-2022/cfp) | --- | [🛵 台大醫院國際會議](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0)
  |10.15 (Sat) | 10.16 (Sun) | [MOPCON 2022](https://mopcon.org/) | --- | --- | [🛵 高雄國際會議中心](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |10.18 (Tue) | 10.19 (Web) | [Kubernetes Summit 2022](https://k8s.ithome.com.tw/) | --- | --- | [🛵 台北文創大樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93) |
 
