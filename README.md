@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 11.4 (Fri) | 11.6 (Sun) | [RSG Taipei 2022](https://rsg.taipei/) | [End](https://www.accupass.com/event/2205141040222121159517) | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |11.22 (Tue) | 11.23 (Web) | [TPDC'22](https://tpdc.info/) | [Register Now](https://www.accupass.com/eflow/ticket/2207290739041256983216) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
+ |11.22 (Tue) | 11.23 (Web) | [TPDC'22](https://tpdc.info/) | [End](https://www.accupass.com/eflow/ticket/2207290739041256983216) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
 
 ## December
 
