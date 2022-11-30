@@ -1,17 +1,10 @@
 # Developer Conferences in Taiwan 2022
 
-## November
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 11.4 (Fri) | 11.6 (Sun) | [RSG Taipei 2022](https://rsg.taipei/) | [End](https://www.accupass.com/event/2205141040222121159517) | --- | [🛵 Online](https://maps.google.com/?q=Online)
- |11.22 (Tue) | 11.23 (Web) | [TPDC'22](https://tpdc.info/) | [End](https://www.accupass.com/eflow/ticket/2207290739041256983216) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
-
 ## December
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.1 (Thu) | 12.1 (Thu) | [第38屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/38th/) | [Register Now](https://opm.twnic.tw/38th/registration.html) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
+| 12.1 (Thu) | 12.1 (Thu) | [第38屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/38th/) | [End](https://opm.twnic.tw/38th/registration.html) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |12.3 (Sat) | 12.4 (Sun) | [ArchSummit 全球架構師峰會 北京站](https://archsummit.infoq.cn/2022/beijing) | --- | --- | [🛫 北京 富力万丽酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%20%E5%AF%8C%E5%8A%9B%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97)
  |12.15 (Thu) | 12.16 (Fri) | [2022 NFT Taipei Conference 國際論壇 (記得搜尋折扣碼)](https://www.nft-taipei.com/) | [Register Now](https://www.accupass.com/event/2211060922121075071251) | --- | [🛵 三創生活園區](https://maps.google.com/?q=%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80) |
 
