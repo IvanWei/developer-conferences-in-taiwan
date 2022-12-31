@@ -1,12 +1,18 @@
 # Developer Conferences in Taiwan 2022
 
-## December
+## November
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.1 (Thu) | 12.1 (Thu) | [第38屆TWNIC IP政策資源管理會議](https://opm.twnic.net.tw/38th/) | [End](https://opm.twnic.tw/38th/registration.html) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
- |12.3 (Sat) | 12.4 (Sun) | [ArchSummit 全球架構師峰會 北京站](https://archsummit.infoq.cn/2022/beijing) | --- | --- | [🛫 北京 富力万丽酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%20%E5%AF%8C%E5%8A%9B%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97)
- |12.15 (Thu) | 12.16 (Fri) | [2022 NFT Taipei Conference 國際論壇 (記得搜尋折扣碼)](https://www.nft-taipei.com/) | [End](https://www.accupass.com/event/2211060922121075071251) | --- | [🛵 三創生活園區](https://maps.google.com/?q=%E4%B8%89%E5%89%B5%E7%94%9F%E6%B4%BB%E5%9C%92%E5%8D%80) |
+| 11.23 (Web) | 1.10 (Tue) | [[徵稿] CYBERSEC 2023 臺灣資安大會](https://cyber.ithome.com.tw/) | --- | [Register Now](https://cyber.ithome.com.tw/2023/CFS/) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+
+# Developer Conferences in Taiwan 2023
+
+## May
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 5.9 (Tue) | 5.11 (Thu) | [CYBERSEC 2023 臺灣資安大會](https://cyber.ithome.com.tw/) | --- | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 
 ---
 
