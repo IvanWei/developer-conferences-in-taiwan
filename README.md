@@ -1,11 +1,3 @@
-# Developer Conferences in Taiwan 2022
-
-## November
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 11.23 (Web) | 1.10 (Tue) | [[徵稿] CYBERSEC 2023 臺灣資安大會](https://cyber.ithome.com.tw/) | --- | [End](https://cyber.ithome.com.tw/2023/CFS/) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-
 # Developer Conferences in Taiwan 2023
 
 ## May
