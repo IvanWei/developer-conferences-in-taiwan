@@ -1,10 +1,44 @@
 # Developer Conferences in Taiwan 2023
 
+## March
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 3.30 (Thu) | 4.2 (Sun) | [AsiaBSDCon 2023](https://2023.asiabsdcon.org/index.html.en) | --- | --- | [🛫 Tokyo University of Science, Tokyo, Japan](https://maps.google.com/?q=Tokyo%20University%20of%20Science,%20Tokyo,%20Japan) |
+
+## April
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 4.25 (Tue) | 4.29 (Sat) | [[徵稿] 香港開源年會 HKOSCon 2023](https://info.hkoscon.org/zh/) | --- | [Register Now](https://blog.coscup.org/2023/04/hkoscon-2023coscup-call-for-speakers-at.html) | [🛫 ](https://maps.google.com/?q=) |
+
 ## May
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.9 (Tue) | 5.11 (Thu) | [CYBERSEC 2023 臺灣資安大會](https://cyber.ithome.com.tw/) | --- | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 5.9 (Tue) | 5.11 (Thu) | [CYBERSEC 2023 臺灣資安大會](https://cyber.ithome.com.tw/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2023) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+
+## June
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 6.8 (Thu) | 6.10 (Sat) | [香港開源年會 HKOSCon 2023](https://info.hkoscon.org/zh/) | --- | --- | [🛫 ](https://maps.google.com/?q=)
+ |6.16 (Fri) | 6.16 (Fri) | [2023 Agile Summit敏捷高峰會](https://agile.ithome.com.tw/) | [Register Now](https://agile.ithome.com.tw/2023/ticket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
+
+## July
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8)
+ |7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87)
+ |7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+
+## September
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 9.2 (Sat) | 9.3 (Sun) | [PyCon TW 2023](https://tw.pycon.org/2023) | [Register Now](https://tw.pycon.org/2023/zh-hant/registration/tickets) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8)
+ |9.15 (Fri) | 9.16 (Sat) | [2023台灣人工智慧年會](https://www.facebook.com/events/3458055794476369/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ---
 
