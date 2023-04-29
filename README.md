@@ -10,7 +10,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.25 (Tue) | 4.29 (Sat) | [[徵稿] 香港開源年會 HKOSCon 2023](https://info.hkoscon.org/zh/) | --- | [Register Now](https://blog.coscup.org/2023/04/hkoscon-2023coscup-call-for-speakers-at.html) | [🛫 ](https://maps.google.com/?q=) |
+| 4.25 (Tue) | 4.29 (Sat) | [[徵稿] 香港開源年會 HKOSCon 2023](https://info.hkoscon.org/zh/) | --- | [End](https://blog.coscup.org/2023/04/hkoscon-2023coscup-call-for-speakers-at.html) | [🛫 ](https://maps.google.com/?q=) |
 
 ## May
 
