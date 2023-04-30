@@ -1,17 +1,5 @@
 # Developer Conferences in Taiwan 2023
 
-## March
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.30 (Thu) | 4.2 (Sun) | [AsiaBSDCon 2023](https://2023.asiabsdcon.org/index.html.en) | --- | --- | [🛫 Tokyo University of Science, Tokyo, Japan](https://maps.google.com/?q=Tokyo%20University%20of%20Science,%20Tokyo,%20Japan) |
-
-## April
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.25 (Tue) | 4.29 (Sat) | [[徵稿] 香港開源年會 HKOSCon 2023](https://info.hkoscon.org/zh/) | --- | [End](https://blog.coscup.org/2023/04/hkoscon-2023coscup-call-for-speakers-at.html) | [🛫 ](https://maps.google.com/?q=) |
-
 ## May
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
