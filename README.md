@@ -29,6 +29,12 @@
  |7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87)
  |7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
+## August
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+
 ## September
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
