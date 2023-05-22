@@ -13,7 +13,7 @@
  |5.19 (Fri) | 7.2 (Sun) | [[徵稿] JCConf Taiwan 2023](https://jcconf.tw/) | --- | [Register Now](https://pretalx.com/jcconf-2023/cfp) | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83)
  |5.22 (Mon) | 5.22 (Mon) | [第4屆合作交流論壇 ICANN-APAC TWNIC Engagement Forum暨第39屆TWNIC IP政策資源管理會議](https://forum.twnic.tw/2023/agenda01.htm#ag) | [---](https://twnic-forum.tw/register1.php?c=TWNIC) | --- | [🛵 IEAT 會議中心3樓第1會議室](https://maps.google.com/?q=IEAT%20%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%833%E6%A8%93%E7%AC%AC1%E6%9C%83%E8%AD%B0%E5%AE%A4)
  |5.23 (Tue) | 5.24 (Web) | [第4屆合作交流論壇 ICANN-APAC TWNIC Engagement Forum暨第39屆TWNIC IP政策資源管理會議](https://forum.twnic.tw/2023/agenda02.htm#ag) | [---](https://twnic-forum.tw/register1.php?c=TWNIC) | --- | [🛵 台北晶華酒店 3F宴會廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%97%203F%E5%AE%B4%E6%9C%83%E5%BB%B3)
- |5.23 (Tue) | 5.25 (Thu) | [[實體] Microsoft Build 2023](https://build.microsoft.com/) | [Register Now](https://register.build.microsoft.com/) | --- | [🛫 Online & Seattle](https://maps.google.com/?q=Online%20&%20Seattle) |
+ |5.23 (Tue) | 5.25 (Thu) | [[實體] Microsoft Build 2023](https://build.microsoft.com/) | [End](https://register.build.microsoft.com/) | --- | [🛫 Online & Seattle](https://maps.google.com/?q=Online%20&%20Seattle) |
 
 ## June
 
