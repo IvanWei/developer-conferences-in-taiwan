@@ -38,7 +38,7 @@ jobs:
       - name: Transfer Data
         run: |
           make refresh-README-file
-      - name: Create html page
-        run: make refresh-HTML-file
+      # - name: Create html page
+      #   run: make refresh-HTML-file
       - name: Deployment
         run: make deployment
