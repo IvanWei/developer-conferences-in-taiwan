@@ -27,14 +27,14 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8)
- |7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87)
- |7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+ |7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 NOT SURE](https://maps.google.com/?q=NOT%20SURE)
+ |7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87) |
 
 ## August
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 NOT SURE](https://maps.google.com/?q=NOT%20SURE) |
 
 ## September
 
