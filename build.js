@@ -5,7 +5,7 @@ const [type] = process.argv.slice(2);
 
 const json2md = require('json2md');
 const conferenceData = require("./data/conference-data.json").data;
-const organizationData = require("./data/list-of-organizations.json").data;
+const organizationData = require("./data/list-of-organization.json").data;
 
 showdown.extension('targetlink', function() {
   return [
