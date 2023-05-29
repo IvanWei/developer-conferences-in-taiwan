@@ -5,7 +5,7 @@ const [type] = process.argv.slice(2);
 
 const json2md = require('json2md');
 const conferenceData = require("./data/conference-data.json").data;
-const organizationData = require("./data/list-of-organizations.json").data;
+const organizationData = require("./data/list-of-organization.json").data;
 
 showdown.extension('targetlink', function() {
   return [
@@ -29,9 +29,17 @@ showdown.extension('targetlink', function() {
 
 switch (type) {
   case 'readme':
-    const reamdeMeData = Array.prototype.concat.call(conferenceData, [{"hr": ""}], organizationData);
+    const NOTES = [
+      {"hr": ""},
+      { h2: 'More' },
+      { ul: [
+        {link: { title: 'Project\'s wiki', source: 'https://github.com/IvanWei/developer-conferences-in-taiwan/wiki' }},
+        {link: { title: 'DCIT calendar (Web)', source: 'https://dcit.ivanwei.co/' }},
+      ]},
+    ];
+    const reamdeMeData = Array.prototype.concat.call(conferenceData, [{"hr": ""}], organizationData, NOTES);
 
-    fs.writeFile('README.md', json2md(reamdeMeData).replace(/\n\ /g, ' ').replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
+    fs.writeFile('README.md', json2md(reamdeMeData).replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
       const month = substr.match(/\d{1,2}/);
       if (month) {
         return `| ${month}`;
