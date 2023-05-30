@@ -14,6 +14,7 @@
 | 5.22 (Mon) | 5.22 (Mon) | [第4屆合作交流論壇 ICANN-APAC TWNIC Engagement Forum暨第39屆TWNIC IP政策資源管理會議](https://forum.twnic.tw/2023/agenda01.htm#ag) | [---](https://twnic-forum.tw/register1.php?c=TWNIC) | --- | [🛵 IEAT 會議中心3樓第1會議室](https://maps.google.com/?q=IEAT%20%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%833%E6%A8%93%E7%AC%AC1%E6%9C%83%E8%AD%B0%E5%AE%A4) |
 | 5.23 (Tue) | 5.24 (Web) | [第4屆合作交流論壇 ICANN-APAC TWNIC Engagement Forum暨第39屆TWNIC IP政策資源管理會議](https://forum.twnic.tw/2023/agenda02.htm#ag) | [---](https://twnic-forum.tw/register1.php?c=TWNIC) | --- | [🛵 台北晶華酒店 3F宴會廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%97%203F%E5%AE%B4%E6%9C%83%E5%BB%B3) |
 | 5.23 (Tue) | 5.25 (Thu) | [[實體] Microsoft Build 2023](https://build.microsoft.com/) | [End](https://register.build.microsoft.com/) | --- | [🛫 Online & Seattle](https://maps.google.com/?q=Online%20&%20Seattle) |
+| 5.29 (Mon) | 8.14 (Mon) | [[徵稿] ModernWeb 2023](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/h6MdWCKNneqCx44K7) | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
 
 ## June
 
@@ -27,14 +28,14 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-| 7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 NOT SURE](https://maps.google.com/?q=NOT%20SURE) |
 | 7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87) |
+| 7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ## August
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 NOT SURE](https://maps.google.com/?q=NOT%20SURE) |
+| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ## September
 
@@ -50,6 +51,12 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.6 (Fri) | 10.6 (Fri) | [JCConf Taiwan 2023](https://jcconf.tw/) | --- | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 10.25 (Web) | 10.26 (Thu) | [Kubernetes Summit 2023](https://k8s.ithome.com.tw/) | --- | --- | [🛵 臺北文創大樓 & 松山文創園區多功能展演廳](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%20&%20%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%B1%95%E6%BC%94%E5%BB%B3) |
+
+## November
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 11.8 (Web) | 11.9 (Thu) | [ModernWeb 2023](https://modernweb.tw/) | --- | --- | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
 
 ---
 
