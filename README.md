@@ -28,7 +28,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 張榮發國際會議中心](https://maps.google.com/?q=%E5%BC%B5%E6%A6%AE%E7%99%BC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## September
 
