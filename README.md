@@ -23,18 +23,24 @@
 | 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 | 7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87) |
 | 7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 7.21 (Fri) | 7.22 (Sat) | [[會議] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [Register Now](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
+| 7.23 (Sun) | 7.24 (Mon) | [[培訓] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [Register Now](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
 
 ## August
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 8.2 (Web) | 8.3 (Thu) | [2023 AWS 台灣雲端高峰會](https://aws.amazon.com/tw/events/taiwan/aws-summit-2023/) | [Register Now](https://pages.awscloud.com/tw-summit-2023_Registration.html) | --- | [🛵 台北南港展覽館二館 4 樓 & 7 樓 / 線上直播](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8%204%20%E6%A8%93%20&%207%20%E6%A8%93%20/%20%E7%B7%9A%E4%B8%8A%E7%9B%B4%E6%92%AD) |
 | 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://www.facebook.com/WebConfTaiwan/posts/pfbid0szEJsHWpKjq5BUAk2FamN8k2E7ZFFeHGVoJWBfba5RziZqVVnJY98SJ8ScQAnyR2l) | --- | --- | [🛵 張榮發國際會議中心](https://maps.google.com/?q=%E5%BC%B5%E6%A6%AE%E7%99%BC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 8.18 (Fri) | 8.18 (Fri) | [[工作坊] {Laravel x Vue}Conf Taiwan 2023](https://laravelconf.tw/) | [Register Now](https://events.laravel-dojo.com/events/44) | --- | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
+| 8.19 (Sat) | 8.19 (Sat) | [[會議] {Laravel x Vue}Conf Taiwan 2023](https://laravelconf.tw/) | [Register Now](https://events.laravel-dojo.com/events/44) | --- | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
 
 ## September
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.2 (Sat) | 9.3 (Sun) | [PyCon TW 2023](https://tw.pycon.org/2023) | [Register Now](https://tw.pycon.org/2023/zh-hant/registration/tickets) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 9.3 (Sun) | 9.5 (Tue) | [QCon北京 全球軟件開發大會](https://qcon.infoq.cn/202309/beijing) | [Register Now](https://qcon.infoq.cn/202309/beijing/apply) | --- | [🛫 北京富力万丽酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%E5%AF%8C%E5%8A%9B%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97) |
 | 9.15 (Fri) | 9.16 (Sat) | [2023台灣人工智慧年會](https://www.facebook.com/events/3458055794476369/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 9.25 (Mon) | 9.26 (Tue) | [DevOpsDays Taipei 2023](https://devopsdays.tw) | --- | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
 
@@ -75,14 +81,12 @@
 | LaravelConf Taiwan | [Link](https://laravelconf.tw/) | [Link](https://zh-tw.facebook.com/laravelconftw/) |
 | Mobile Open Platform Conference (a.k.a MOPCON) | [Link](https://mopcon.org/) | [Link](https://zh-tw.facebook.com/mopcon/) |
 | PyCon Taiwan | [Link](https://tw.pycon.org/) | [Link](https://zh-tw.facebook.com/pycontw/) |
-| PyData Taipei Meetup Group | [Link](https://www.meetup.com/PyData-Taipei-Meetup-Group/) | [Link]() |
 | SITCON 學生計算機年會 | [Link](https://sitcon.org/) | [Link](https://sitcon.org/fb) |
-| Taiwan Hadoop User Group | [Link](http://www.hadoop.tw/) | [Link](https://www.facebook.com/groups/hadoop.tw/) |
-| TDOHacker | [Link](https://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) |
-| THOH Conf | [Link](https://tdoh-conf.online/) | [Link]() |
+| TDOHacker | [Link](http://tdohacker.org/) | [Link](https://www.facebook.com/tdohacker) |
 | Taiwanese in Data Science / Women in Data Science Taipei | [Link](https://www.widstaipei.org/) | [Link](https://www.facebook.com/TWiDataScience/) |
 | Regional Scrum Gathering TAIPEI | [Link](https://rsg.taipei/) | [Link](https://www.facebook.com/rsgtaipei) |
 | Hong Kong Open Source Conference 香港開源年會 | [Link](https://hkoscon.org/) | [Link](https://www.facebook.com/hkoscon/) |
+| 极客邦科技 InfoQ.cn | [Link](https://www.infoq.cn/) | [Link](https://weibo.com/p/1006061746173800/hom) |
 
 ---
 
