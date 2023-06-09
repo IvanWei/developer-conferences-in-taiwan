@@ -23,8 +23,8 @@
 | 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [Register Now](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 | 7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87) |
 | 7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
-| 7.21 (Fri) | 7.22 (Sat) | [[會議] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [Register Now](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
-| 7.23 (Sun) | 7.24 (Mon) | [[培訓] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [Register Now](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
+| 7.21 (Fri) | 7.22 (Sat) | [[會議] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [End](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
+| 7.23 (Sun) | 7.24 (Mon) | [[培訓] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [End](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
 
 ## August
 
