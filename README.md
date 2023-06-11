@@ -19,7 +19,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 6.8 (Thu) | 6.10 (Sat) | [香港開源年會 HKOSCon 2023](https://hkoscon.org/2023/) | [Register Now](https://www.eventbrite.hk/e/hkoscon-2023-tickets-627039641447) | --- | [🛫 Grand Hall A, 能源大樓二座 13 科技大道西 Hong Kong, NT Hong Kong](https://maps.google.com/?q=Grand%20Hall%20A,%20%E8%83%BD%E6%BA%90%E5%A4%A7%E6%A8%93%E4%BA%8C%E5%BA%A7%2013%20%E7%A7%91%E6%8A%80%E5%A4%A7%E9%81%93%E8%A5%BF%20Hong%20Kong,%20NT%20Hong%20Kong) |
+| 6.8 (Thu) | 6.10 (Sat) | [香港開源年會 HKOSCon 2023](https://hkoscon.org/2023/) | [End](https://www.eventbrite.hk/e/hkoscon-2023-tickets-627039641447) | --- | [🛫 Grand Hall A, 能源大樓二座 13 科技大道西 Hong Kong, NT Hong Kong](https://maps.google.com/?q=Grand%20Hall%20A,%20%E8%83%BD%E6%BA%90%E5%A4%A7%E6%A8%93%E4%BA%8C%E5%BA%A7%2013%20%E7%A7%91%E6%8A%80%E5%A4%A7%E9%81%93%E8%A5%BF%20Hong%20Kong,%20NT%20Hong%20Kong) |
 | 6.16 (Fri) | 6.16 (Fri) | [2023 Agile Summit敏捷高峰會](https://agile.ithome.com.tw/) | [End](https://agile.ithome.com.tw/2023/ticket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
 
 ## July
