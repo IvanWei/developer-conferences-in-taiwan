@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.15 (Sat) | 6.19 (Mon) | [[徵稿] HITCON CMT 2023 台灣駭客年會](https://hitcon.org/2023/CMT/) | --- | [Register Now](https://cfp2023.hitcon.org/) | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 4.15 (Sat) | 6.19 (Mon) | [[徵稿] HITCON CMT 2023 台灣駭客年會](https://hitcon.org/2023/CMT/) | --- | [End](https://cfp2023.hitcon.org/) | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ## May
 
