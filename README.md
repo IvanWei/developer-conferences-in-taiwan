@@ -11,7 +11,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.5 (Fri) | 7.3 (Mon) | [[徵稿] DevOpsDays Taipei 2023](https://devopsdays.tw) | --- | [Register Now](https://devopsdays.tw/CFP) | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
-| 5.5 (Fri) | 6.21 (Web) | [[徵稿] Kubernetes Summit 2023](https://k8s.ithome.com.tw/) | --- | [Register Now](https://forms.gle/pfGpv876VcKMuPTd8) | [🛵 臺北文創大樓 & 松山文創園區多功能展演廳](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%20&%20%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%B1%95%E6%BC%94%E5%BB%B3) |
+| 5.5 (Fri) | 6.21 (Web) | [[徵稿] Kubernetes Summit 2023](https://k8s.ithome.com.tw/) | --- | [End](https://forms.gle/pfGpv876VcKMuPTd8) | [🛵 臺北文創大樓 & 松山文創園區多功能展演廳](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%20&%20%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%B1%95%E6%BC%94%E5%BB%B3) |
 | 5.19 (Fri) | 7.2 (Sun) | [[徵稿] JCConf Taiwan 2023](https://jcconf.tw/) | --- | [Register Now](https://pretalx.com/jcconf-2023/cfp) | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 5.29 (Mon) | 8.14 (Mon) | [[徵稿] ModernWeb 2023](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/h6MdWCKNneqCx44K7) | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
 
