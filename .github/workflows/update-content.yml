@@ -11,8 +11,6 @@ jobs:
   contents:
     runs-on: ubuntu-latest
 
-    permissions: write-all
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -39,7 +37,7 @@ jobs:
           make refresh-organization-data
       - name: Transfer Data
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           make refresh-README-file
       # - name: Create html page

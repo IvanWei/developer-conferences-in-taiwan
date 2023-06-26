@@ -33,7 +33,7 @@ refresh-README-file:
 	git add README.md
 	if git commit -m "Update README.md at `date +%Y-%m-%d-T%H\:%M\:%S%z`"; then \
 		echo "README.md changed."; \
-		curl -L -XPOST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer $(GITHUB_TOKEN)" -H "X-GitHub-Api-Version: 2022-11-28" -d '{"ref":"master"}' "https://api.github.com/repos/ivanwei/dcit-web-calendar/actions/workflows/5829439/dispatches"; \
+		curl -L -XPOST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer $(GH_PAT)" -H "X-GitHub-Api-Version: 2022-11-28" -d '{"ref":"master"}' "https://api.github.com/repos/ivanwei/dcit-web-calendar/actions/workflows/5829439/dispatches"; \
 	else \
 		echo "README.md doesn't change."; \
 	fi
