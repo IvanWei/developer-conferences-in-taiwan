@@ -11,8 +11,7 @@ jobs:
   contents:
     runs-on: ubuntu-latest
 
-    permissions:
-      actions: read
+    permissions: write-all
 
     steps:
       - name: Checkout code
