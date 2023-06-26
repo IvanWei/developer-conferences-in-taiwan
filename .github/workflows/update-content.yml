@@ -36,6 +36,8 @@ jobs:
           make refresh-conference-data
           make refresh-organization-data
       - name: Transfer Data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           make refresh-README-file
       # - name: Create html page
