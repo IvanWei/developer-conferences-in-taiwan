@@ -4,26 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.5 (Fri) | 7.3 (Mon) | [[徵稿] DevOpsDays Taipei 2023](https://devopsdays.tw) | --- | [End](https://devopsdays.tw/CFP) | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
-| 5.19 (Fri) | 7.2 (Sun) | [[徵稿] JCConf Taiwan 2023](https://jcconf.tw/) | --- | [End](https://pretalx.com/jcconf-2023/cfp) | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 5.29 (Mon) | 8.14 (Mon) | [[徵稿] ModernWeb 2023](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/h6MdWCKNneqCx44K7) | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
-
-## June
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 6.30 (Fri) | 7.1 (Sat) | [稀土开发者大会2023](https://conf.juejin.cn/xdc2023) | [End](https://juejin.cn/login?to=https%3A%2F%2Fconf.juejin.cn%2Fxdc2023%2F%3Futm_source%3Djjwebdhl&callback=toBuy) | --- | [🛵 北京 新云南皇冠假日酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%20%E6%96%B0%E4%BA%91%E5%8D%97%E7%9A%87%E5%86%A0%E5%81%87%E6%97%A5%E9%85%92%E5%BA%97) |
-
-## July
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.19 (Web) | 7.19 (Web) | [2023 iThome 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [End](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-| 7.19 (Web) | 7.23 (Sun) | [[實體] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | [End](https://tgdf.kktix.cc/events/2023tgdf) | --- | [🛵 劍潭青年活動中心 群英堂 ](https://maps.google.com/?q=%E5%8A%8D%E6%BD%AD%E9%9D%92%E5%B9%B4%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%20%E7%BE%A4%E8%8B%B1%E5%A0%82%20) |
-| 7.19 (Web) | 7.23 (Sun) | [[線上] 2023 TGDF台北遊戲開發者論壇](https://2023.tgdf.tw/) | [End](https://tgdf.kktix.cc/events/2023tgdf) | --- | [🛵 Twitch 線上論壇](https://maps.google.com/?q=Twitch%20%E7%B7%9A%E4%B8%8A%E8%AB%96%E5%A3%87) |
-| 7.21 (Fri) | 7.22 (Sat) | [[會議] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [End](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
-| 7.23 (Sun) | 7.24 (Mon) | [[培訓] ArchSummit深圳2023 全球架構師峰會](https://archsummit.infoq.cn/2023/shenzhen) | [Register Now](https://archsummit.infoq.cn/2023/shenzhen/apply) | --- | [🛫 深圳博林天瑞喜来登酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E5%8D%9A%E6%9E%97%E5%A4%A9%E7%91%9E%E5%96%9C%E6%9D%A5%E7%99%BB%E9%85%92%E5%BA%97) |
-| 7.29 (Sat) | 7.30 (Sun) | [COSCUP 開源人年會 2023](https://coscup.org/2023/) | --- | --- | [🛵 台灣科技大學](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
 
 ## August
 
