@@ -6,6 +6,12 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.29 (Mon) | 8.14 (Mon) | [[徵稿] ModernWeb 2023](https://modernweb.tw/) | --- | [Register Now](https://forms.gle/h6MdWCKNneqCx44K7) | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
 
+## July
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 7.10 (Mon) | 8.12 (Sat) | [[徵稿] MOPCON 2023](https://mopcon.org/) | --- | [Register Now](https://mopcon.kktix.cc/events/mopcon2023-cfp) | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
+
 ## August
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
@@ -22,7 +28,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.2 (Sat) | 9.3 (Sun) | [PyCon TW 2023](https://tw.pycon.org/2023) | [Register Now](https://tw.pycon.org/2023/zh-hant/registration/tickets) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 9.3 (Sun) | 9.5 (Tue) | [QCon北京 全球軟件開發大會](https://qcon.infoq.cn/202309/beijing) | [End](https://qcon.infoq.cn/202309/beijing/apply) | --- | [🛫 北京富力万丽酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%E5%AF%8C%E5%8A%9B%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97) |
-| 9.15 (Fri) | 9.16 (Sat) | [2023台灣人工智慧年會](https://www.facebook.com/events/3458055794476369/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 9.15 (Fri) | 9.16 (Sat) | [2023台灣人工智慧年會](https://conf2023.aiacademy.tw/) | [Register Now](https://aia.oen.tw/events/2Ss1L4cOR7LdAZKvrrRWycdvLKS) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 9.25 (Mon) | 9.26 (Tue) | [DevOpsDays Taipei 2023](https://devopsdays.tw) | [Register Now](https://devopsdays.tw/2023/#ticket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
 
 ## October
@@ -38,6 +44,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 11.3 (Fri) | 11.5 (Sun) | [RSG TAIPEI 2023](https://rsg.taipei/) | --- | --- | [🛵 松山文創園區](https://maps.google.com/?q=%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80) |
 | 11.8 (Web) | 11.9 (Thu) | [ModernWeb 2023](https://modernweb.tw/) | --- | --- | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
+| 11.11 (Sat) | 11.12 (Sun) | [MOPCON 2023](https://mopcon.org/) | --- | --- | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
 
 ---
 
