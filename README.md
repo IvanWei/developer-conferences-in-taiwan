@@ -10,7 +10,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.10 (Mon) | 8.12 (Sat) | [[徵稿] MOPCON 2023](https://mopcon.org/) | --- | [Register Now](https://mopcon.kktix.cc/events/mopcon2023-cfp) | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
+| 7.10 (Mon) | 8.12 (Sat) | [[徵稿] MOPCON 2023](https://mopcon.org/) | --- | [End](https://mopcon.kktix.cc/events/mopcon2023-cfp) | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
 
 ## August
 
