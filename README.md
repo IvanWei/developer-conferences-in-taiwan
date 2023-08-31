@@ -1,27 +1,5 @@
 # Developer Conferences in Taiwan 2023
 
-## May
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.29 (Mon) | 8.14 (Mon) | [[徵稿] ModernWeb 2023](https://modernweb.tw/) | --- | [End](https://forms.gle/h6MdWCKNneqCx44K7) | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
-
-## July
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 7.10 (Mon) | 8.12 (Sat) | [[徵稿] MOPCON 2023](https://mopcon.org/) | --- | [End](https://mopcon.kktix.cc/events/mopcon2023-cfp) | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
-
-## August
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.2 (Web) | 8.3 (Thu) | [2023 AWS 台灣雲端高峰會](https://aws.amazon.com/tw/events/taiwan/aws-summit-2023/) | [End](https://pages.awscloud.com/tw-summit-2023_Registration.html) | --- | [🛵 台北南港展覽館二館 4 樓 & 7 樓 / 線上直播](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8%204%20%E6%A8%93%20&%207%20%E6%A8%93%20/%20%E7%B7%9A%E4%B8%8A%E7%9B%B4%E6%92%AD) |
-| 8.11 (Fri) | 8.12 (Sat) | [WebConf Taiwan 2023](https://webconf.tw/) | [End](https://www.accupass.com/event/2306070448221749426689) | --- | [🛵 張榮發國際會議中心](https://maps.google.com/?q=%E5%BC%B5%E6%A6%AE%E7%99%BC%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 8.18 (Fri) | 8.18 (Fri) | [[工作坊] {Laravel x Vue}Conf Taiwan 2023](https://laravelconf.tw/) | [End](https://events.laravel-dojo.com/events/44) | --- | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
-| 8.18 (Fri) | 8.19 (Sat) | [HITCON CMT 2023 台灣駭客年會](https://hitcon.org/2023/CMT/) | [End](https://hitcon.kktix.cc/events/hitcon-cmt-2023) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
-| 8.19 (Sat) | 8.19 (Sat) | [[會議] {Laravel x Vue}Conf Taiwan 2023](https://laravelconf.tw/) | [End](https://events.laravel-dojo.com/events/44) | --- | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
-
 ## September
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
