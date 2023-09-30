@@ -1,15 +1,5 @@
 # Developer Conferences in Taiwan 2023
 
-## September
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.2 (Sat) | 9.3 (Sun) | [PyCon TW 2023](https://tw.pycon.org/2023) | [End](https://tw.pycon.org/2023/zh-hant/registration/tickets) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
-| 9.3 (Sun) | 9.5 (Tue) | [QCon北京 全球軟件開發大會](https://qcon.infoq.cn/202309/beijing) | [End](https://qcon.infoq.cn/202309/beijing/apply) | --- | [🛫 北京富力万丽酒店](https://maps.google.com/?q=%E5%8C%97%E4%BA%AC%E5%AF%8C%E5%8A%9B%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97) |
-| 9.15 (Fri) | 9.16 (Sat) | [2023台灣人工智慧年會](https://conf2023.aiacademy.tw/) | [End](https://aia.oen.tw/events/2Ss1L4cOR7LdAZKvrrRWycdvLKS) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
-| 9.20 (Web) | 9.20 (Web) | [2023 國泰金控技術年會－混血共融新智慧](https://eventgo.bnextmedia.com.tw/event/detail/e98959u64ad1837d335e) | [End](https://eventgo.bnextmedia.com.tw/event/view/e98959u64ad1837d335e) | --- | [🛵 臺北市信義區市府路45號4樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%B8%82%E5%BA%9C%E8%B7%AF45%E8%99%9F4%E6%A8%93) |
-| 9.25 (Mon) | 9.26 (Tue) | [DevOpsDays Taipei 2023](https://devopsdays.tw) | [End](https://devopsdays.tw/2023/#ticket) | --- | [🛵 台北文創 6 F](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%206%20F) |
-
 ## October
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
