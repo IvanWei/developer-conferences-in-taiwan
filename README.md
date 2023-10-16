@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.6 (Fri) | 10.6 (Fri) | [JCConf Taiwan 2023](https://jcconf.tw/) | [End](https://twjug.kktix.cc/events/jcconf-2023) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 10.17 (Tue) | 10.17 (Tue) | [Google Cloud Summit Taipei](https://cloudonair.withgoogle.com/events/summit-taipei-2023) | [Register Now](https://cloudonair.withgoogle.com/events/summit-taipei-2023) | --- | [🛵 台北萬豪酒店 5F 萬豪廳 ＆ 宜華廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97%205F%20%E8%90%AC%E8%B1%AA%E5%BB%B3%20%EF%BC%86%20%E5%AE%9C%E8%8F%AF%E5%BB%B3) |
+| 10.17 (Tue) | 10.17 (Tue) | [Google Cloud Summit Taipei](https://cloudonair.withgoogle.com/events/summit-taipei-2023) | [End](https://cloudonair.withgoogle.com/events/summit-taipei-2023) | --- | [🛵 台北萬豪酒店 5F 萬豪廳 ＆ 宜華廳](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97%205F%20%E8%90%AC%E8%B1%AA%E5%BB%B3%20%EF%BC%86%20%E5%AE%9C%E8%8F%AF%E5%BB%B3) |
 | 10.25 (Web) | 10.26 (Thu) | [Kubernetes Summit 2023](https://k8s.ithome.com.tw/) | [End](https://k8s.ithome.com.tw/2023/ticket) | --- | [🛵 臺北文創大樓 & 松山文創園區多功能展演廳](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%20&%20%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%B1%95%E6%BC%94%E5%BB%B3) |
 
 ## November
