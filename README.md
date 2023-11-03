@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 11.3 (Fri) | 11.5 (Sun) | [RSG TAIPEI 2023](https://rsg.taipei/) | [End](https://actclubtw.kktix.cc/events/rsgtpe2023) | --- | [🛵 松山文創園區](https://maps.google.com/?q=%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80) |
-| 11.8 (Web) | 11.9 (Thu) | [ModernWeb 2023](https://modernweb.tw/) | [Register Now](https://modernweb.tw/2023/ticket) | --- | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
+| 11.8 (Web) | 11.9 (Thu) | [ModernWeb 2023](https://modernweb.tw/) | [End](https://modernweb.tw/2023/ticket) | --- | [🛵 瓶蓋工廠台北製造所](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E6%89%80) |
 | 11.11 (Sat) | 11.12 (Sun) | [MOPCON 2023](https://mopcon.org/) | --- | --- | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
 
 ---
