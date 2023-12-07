@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.9 (Sat) | 12.10 (Sun) | [.NET Conf 2023 Taiwan](https://dotnetconf.study4.tw/) | [Register Now](https://study4-tw.kktix.cc/events/dotnetconf2023) | --- | [🛵 台灣大學社會科學院](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) |
+| 12.9 (Sat) | 12.10 (Sun) | [.NET Conf 2023 Taiwan](https://dotnetconf.study4.tw/) | [End](https://study4-tw.kktix.cc/events/dotnetconf2023) | --- | [🛵 台灣大學社會科學院](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) |
 | 12.15 (Fri) | 12.16 (Sat) | [RubyConf Taiwan 2023](https://2023.rubyconf.tw/) | [Register Now](https://rubytaiwan.kktix.cc/events/rubyconftw2023) | --- | [🛵 國立臺北教育大學活動中心4樓](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%834%E6%A8%93) |
 
 ---
