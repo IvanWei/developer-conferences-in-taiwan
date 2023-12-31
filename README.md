@@ -1,11 +1,19 @@
 # Developer Conferences in Taiwan 2023
 
+## November
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 11.15 (Web) | 12.31 (Sun) | [[徵稿] CYBERSEC 2024 臺灣資安大會](https://cybersec.ithome.com.tw) | --- | [Register Now](https://cybersec.ithome.com.tw/2024/CFP/) | [🛵 臺北南港展覽館 2 館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
+
 ## December
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 12.4 (Mon) | 12.31 (Sun) | [[徵稿] GopherDay 2024](https://gopherday.golang.tw/) | --- | [Register Now](https://gopherday.golang.tw/2024/cfp) | [🛵 台北市松山區民生東路四段 133 號 2 樓 A 區](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5%20133%20%E8%99%9F%202%20%E6%A8%93%20A%20%E5%8D%80) |
 | 12.9 (Sat) | 12.10 (Sun) | [.NET Conf 2023 Taiwan](https://dotnetconf.study4.tw/) | [End](https://study4-tw.kktix.cc/events/dotnetconf2023) | --- | [🛵 台灣大學社會科學院](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%AD%B8%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%99%A2) |
 | 12.15 (Fri) | 12.16 (Sat) | [RubyConf Taiwan 2023](https://2023.rubyconf.tw/) | [End](https://rubytaiwan.kktix.cc/events/rubyconftw2023) | --- | [🛵 國立臺北教育大學活動中心4樓](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E5%8C%97%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%B8%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%834%E6%A8%93) |
+| 12.31 (Sun) | 12.31 (Sun) | [[徵稿] Generative AI Conference 2024](https://2024.gaiconf.com/) | --- | [Register Now](https://airtable.com/appIx2kiHdKIKyvmX/pagVtiXZRBgyRMsqz/form) | [🛵 福華國際文教會館](https://maps.google.com/?q=%E7%A6%8F%E8%8F%AF%E5%9C%8B%E9%9A%9B%E6%96%87%E6%95%99%E6%9C%83%E9%A4%A8) |
 
 ---
 
