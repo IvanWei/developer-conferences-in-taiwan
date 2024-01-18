@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.31 (Sun) | 1.18 (Thu) | [[徵稿] SRE CONFERENCE](https://sre.ithome.com.tw/2024/CFP/) | --- | [Register Now](https://forms.gle/Phnj8BLFBYzR3AeS7) | [🛵 富邦國際會議中心](https://maps.google.com/?q=%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 12.31 (Sun) | 1.18 (Thu) | [[徵稿] SRE CONFERENCE](https://sre.ithome.com.tw/2024/CFP/) | --- | [End](https://forms.gle/Phnj8BLFBYzR3AeS7) | [🛵 富邦國際會議中心](https://maps.google.com/?q=%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 12.31 (Sun) | 3.10 (Sun) | [[徵稿] g0v Summit 2024](https://summit2024.g0v.tw/) | --- | [Register Now](https://summit2024.g0v.tw/brd/2024/) | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
 
 # Developer Conferences in Taiwan 2024
