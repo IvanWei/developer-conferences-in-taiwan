@@ -4,16 +4,9 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.31 (Sun) | 1.18 (Thu) | [[徵稿] SRE CONFERENCE](https://sre.ithome.com.tw/2024/CFP/) | --- | [End](https://forms.gle/Phnj8BLFBYzR3AeS7) | [🛵 富邦國際會議中心](https://maps.google.com/?q=%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 12.31 (Sun) | 3.10 (Sun) | [[徵稿] g0v Summit 2024](https://summit2024.g0v.tw/) | --- | [Register Now](https://summit2024.g0v.tw/brd/2024/) | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
 
 # Developer Conferences in Taiwan 2024
-
-## January
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 1.6 (Sat) | 1.6 (Sat) | [g0v 台灣零時政府第陸拾次記得投票黑客松](https://beta.hackfoldr.org/g0v-hackath60n) | [End](https://g0v-jothon.kktix.cc/events/g0v-hackath60n) | --- | [🛵 中央研究院 資訊科學研究所 新館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%20%E8%B3%87%E8%A8%8A%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E6%89%80%20%E6%96%B0%E9%A4%A8) |
 
 ## March
 
