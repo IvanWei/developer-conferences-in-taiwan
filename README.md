@@ -13,7 +13,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 2.23 (Fri) | 4.19 (Fri) | [[徵稿] DevOpsDays Taipei 2024](https://devopsdays.tw/) | --- | [Not Yet Started](https://r.itho.me/DevOpsDays24CFP) | [🛵 ](https://maps.google.com/?q=) |
-| 2.25 (Sun) | 4.8 (Mon) | [徵稿] PyCon Taiwan 2024 | --- | [Not Yet Started](https://tw.pycon.org/2024/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=) |
+| 2.25 (Sun) | 4.8 (Mon) | [[徵稿] PyCon Taiwan 2024](https://tw.pycon.org/2024) | --- | [Not Yet Started](https://tw.pycon.org/2024/zh-hant/speaking/cfp) | [🛵 ](https://maps.google.com/?q=) |
 
 ## March
 
@@ -49,7 +49,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.21 (Sat) | 9.22 (Sun) | PyCon Taiwan 2024 | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 9.21 (Sat) | 9.22 (Sun) | [PyCon Taiwan 2024](https://tw.pycon.org/2024) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ---
 
