@@ -8,12 +8,18 @@
 
 # Developer Conferences in Taiwan 2024
 
+## February
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 2.23 (Fri) | 4.19 (Fri) | [[徵稿] DevOpsDays Taipei 2024](https://devopsdays.tw/2024) | --- | [Not Yet Started](https://r.itho.me/DevOpsDays24CFP) | [🛵 ](https://maps.google.com/?q=) |
+
 ## March
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 3.7 (Thu) | 3.9 (Sat) | [WordCamp Asia 2024](https://asia.wordcamp.org/2024/) | [Register Now](https://asia.wordcamp.org/2024/tickets/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 3.9 (Sat) | 3.9 (Sat) | [SITCON 學生計算機年會 2024](https://sitcon.org/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 3.9 (Sat) | 3.9 (Sat) | [SITCON 學生計算機年會 2024](https://sitcon.org/) | [End](https://sitcon.kktix.cc/events/sitcon2024) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 3.21 (Thu) | 3.24 (Sun) | [AsiaBSDCon 2024](https://2024.asiabsdcon.org/index.html.en) | --- | --- | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
 
 ## April
@@ -30,6 +36,12 @@
 | 5.14 (Tue) | 5.16 (Thu) | [CYBERSEC 2024 臺灣資安大會](https://cybersec.ithome.com.tw) | --- | --- | [🛵 臺北南港展覽館 2 館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
 | 5.25 (Sat) | 5.25 (Sat) | [GopherDay 2024](https://gopherday.golang.tw/) | --- | --- | [🛵 台北市松山區民生東路四段 133 號 2 樓 A 區](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5%20133%20%E8%99%9F%202%20%E6%A8%93%20A%20%E5%8D%80) |
 | 5.25 (Sat) | 5.25 (Sat) | [Generative AI Conference 2024](https://2024.gaiconf.com/) | --- | --- | [🛵 福華國際文教會館](https://maps.google.com/?q=%E7%A6%8F%E8%8F%AF%E5%9C%8B%E9%9A%9B%E6%96%87%E6%95%99%E6%9C%83%E9%A4%A8) |
+
+## July
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 7.10 (Web) | 7.11 (Thu) | [DevOpsDays Taipei 2024](https://devopsdays.tw/2024) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ---
 
