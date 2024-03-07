@@ -19,7 +19,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.7 (Thu) | 3.9 (Sat) | [WordCamp Asia 2024](https://asia.wordcamp.org/2024/) | [Register Now](https://asia.wordcamp.org/2024/tickets/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 3.7 (Thu) | 3.9 (Sat) | [WordCamp Asia 2024](https://asia.wordcamp.org/2024/) | [End](https://asia.wordcamp.org/2024/tickets/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 3.9 (Sat) | 3.9 (Sat) | [SITCON 學生計算機年會 2024](https://sitcon.org/) | [End](https://sitcon.kktix.cc/events/sitcon2024) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 3.21 (Thu) | 3.24 (Sun) | [AsiaBSDCon 2024](https://2024.asiabsdcon.org/index.html.en) | --- | --- | [🛵 台北劍潭青年活動中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8A%8D%E6%BD%AD%E9%9D%92%E5%B9%B4%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83) |
 
