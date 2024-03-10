@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.31 (Sun) | 3.10 (Sun) | [[徵稿] g0v Summit 2024](https://summit2024.g0v.tw/) | --- | [Register Now](https://summit2024.g0v.tw/brd/2024/) | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
+| 12.31 (Sun) | 3.10 (Sun) | [[徵稿] g0v Summit 2024](https://summit2024.g0v.tw/) | --- | [End](https://summit2024.g0v.tw/brd/2024/) | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
 
 # Developer Conferences in Taiwan 2024
 
