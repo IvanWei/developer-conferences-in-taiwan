@@ -11,7 +11,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.26 (Fri) | 4.26 (Fri) | [SRE CONFERENCE](https://sre.ithome.com.tw/2024) | [Register Now](https://sre.ithome.com.tw/2024/#ticket) | --- | [🛵 富邦國際會議中心](https://maps.google.com/?q=%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 4.26 (Fri) | 4.26 (Fri) | [SRE CONFERENCE](https://sre.ithome.com.tw/2024) | [End](https://sre.ithome.com.tw/2024/#ticket) | --- | [🛵 富邦國際會議中心](https://maps.google.com/?q=%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## May
 
