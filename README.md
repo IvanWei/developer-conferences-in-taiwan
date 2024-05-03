@@ -4,6 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 5.3 (Fri) | 5.8 (Web) | [[徵稿] COSCUP 開源人年會 2024](https://coscup.org/2024) | --- | [Register Now](https://blog.coscup.org/2024/03/coscup-2024-coscup-2024-call-for.html) | [🛵 台灣科技大學](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
 | 5.4 (Sat) | 5.5 (Sun) | [g0v Summit 2024](https://summit2024.g0v.tw/) | --- | --- | [🛵 台北](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97) |
 | 5.14 (Tue) | 5.16 (Thu) | [CYBERSEC 2024 臺灣資安大會](https://cybersec.ithome.com.tw) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2024) | --- | [🛵 臺北南港展覽館 2 館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
 | 5.25 (Sat) | 5.25 (Sat) | [GopherDay 2024](https://gopherday.golang.tw/) | --- | --- | [🛵 台北市松山區民生東路四段 133 號 2 樓 A 區](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5%20133%20%E8%99%9F%202%20%E6%A8%93%20A%20%E5%8D%80) |
@@ -13,8 +14,10 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 7.2 (Tue) | 7.2 (Tue) | [COSCUP 開源人年會 2024](https://coscup.org/2024) | --- | --- | [🛵 台灣科技大學](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
 | 7.3 (Web) | 7.3 (Web) | [Cloud Summit 2024](https://event.ithome.com.tw/live/tcescfs24/index.html) | --- | --- | [🛵 臺北南港展覽館二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8) |
-| 7.10 (Web) | 7.11 (Thu) | [DevOpsDays Taipei 2024](https://devopsdays.tw/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 7.6 (Sat) | 7.7 (Sun) | [SITCON Hackathon 2024](https://hackathon.sitcon.org/2024/) | [Register Now](https://sitcon.kktix.cc/events/sitcon-hackathon2024) | --- | [🛵 臺北市政府公務人員訓練處](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%85%AC%E5%8B%99%E4%BA%BA%E5%93%A1%E8%A8%93%E7%B7%B4%E8%99%95) |
+| 7.10 (Web) | 7.11 (Thu) | [DevOpsDays Taipei 2024](https://devopsdays.tw/) | [Register Now](https://devopsdays.tw/2024/tickets) | --- | [🛵 瓶蓋工廠台北製造廠](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E5%BB%A0) |
 
 ## September
 
