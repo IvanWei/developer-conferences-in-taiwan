@@ -5,6 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.3 (Fri) | 5.8 (Web) | [[徵稿] COSCUP 開源人年會 2024](https://coscup.org/2024) | --- | [End](https://blog.coscup.org/2024/03/coscup-2024-coscup-2024-call-for.html) | [🛵 台灣科技大學](https://maps.google.com/?q=%E5%8F%B0%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
+| 5.3 (Fri) | 7.8 (Mon) | [[徵稿] Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | [Register Now](https://forms.gle/SUgPCFuyqCJDsV5h6) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 5.4 (Sat) | 5.5 (Sun) | [g0v Summit 2024](https://summit.g0v.tw/2024/) | [End](https://g0v-summit-2024.kktix.cc/events/c0nference) | --- | [🛵 中央研究院 人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%20%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 | 5.14 (Tue) | 5.16 (Thu) | [CYBERSEC 2024 臺灣資安大會](https://cybersec.ithome.com.tw) | [End](https://signupcybersec.ithome.com.tw/signup/2024) | --- | [🛵 臺北南港展覽館 2 館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%202%20%E9%A4%A8) |
 | 5.25 (Sat) | 5.25 (Sat) | [GopherDay 2024](https://gopherday.golang.tw/) | [Register Now](https://golang.kktix.cc/events/gopherdaytw2024) | --- | [🛵 台北市松山區民生東路四段 133 號 2 樓 A 區](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5%20133%20%E8%99%9F%202%20%E6%A8%93%20A%20%E5%8D%80) |
@@ -24,6 +25,12 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.21 (Sat) | 9.22 (Sun) | [PyCon Taiwan 2024](https://tw.pycon.org/2024) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+
+## October
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 10.23 (Web) | 10.24 (Thu) | [Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
 ---
 
