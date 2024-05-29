@@ -16,6 +16,7 @@
 | 5.23 (Thu) | 6.16 (Sun) | [[徵稿] Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | --- | [Register Now](https://hwdc.ithome.com.tw/2024/CFP/) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 5.25 (Sat) | 5.25 (Sat) | [GopherDay 2024](https://gopherday.golang.tw/) | [End](https://golang.kktix.cc/events/gopherdaytw2024) | --- | [🛵 台北市松山區民生東路四段 133 號 2 樓 A 區](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%B0%91%E7%94%9F%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5%20133%20%E8%99%9F%202%20%E6%A8%93%20A%20%E5%8D%80) |
 | 5.25 (Sat) | 5.25 (Sat) | [Generative AI Conference 2024](https://2024.gaiconf.com/) | [End](https://blindegg.kktix.cc/events/2024gaiconf) | --- | [🛵 福華國際文教會館](https://maps.google.com/?q=%E7%A6%8F%E8%8F%AF%E5%9C%8B%E9%9A%9B%E6%96%87%E6%95%99%E6%9C%83%E9%A4%A8) |
+| 5.29 (Web) | 6.7 (Fri) | [[徵稿] RightsCon 2025](https://www.rightscon.org/) | --- | [Register Now](https://rightscon.secure-platform.com/a/solicitations/50/home) | [🛵 Taipei](https://maps.google.com/?q=Taipei) |
 
 ## June
 
