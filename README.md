@@ -13,7 +13,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 6.13 (Thu) | 6.13 (Thu) | [Google Cloud Summit Taipei 2024](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | [Register Now](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | --- | [🛵 台北南港展覽館二館 7 樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8%207%20%E6%A8%93) |
+| 6.13 (Thu) | 6.13 (Thu) | [Google Cloud Summit Taipei 2024](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | [End](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | --- | [🛵 台北南港展覽館二館 7 樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8%207%20%E6%A8%93) |
 
 ## July
 
