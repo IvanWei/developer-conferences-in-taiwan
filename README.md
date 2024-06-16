@@ -6,7 +6,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.3 (Fri) | 7.8 (Mon) | [[徵稿] Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | [Register Now](https://forms.gle/SUgPCFuyqCJDsV5h6) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 5.15 (Web) | 6.10 (Mon) | [[徵稿] DDD Taiwan Conference 2024](https://conference.ddd-tw.com/) | --- | [End](https://docs.google.com/forms/d/e/1FAIpQLSeGXeoWRErJf-b9qw2ro2xG6qGQE3-HoP5ipDkvyR_9q89-Ow/viewform) | [🛵 ](https://maps.google.com/?q=) |
-| 5.23 (Thu) | 6.16 (Sun) | [[徵稿] Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | --- | [Register Now](https://hwdc.ithome.com.tw/2024/CFP/) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 5.23 (Thu) | 6.16 (Sun) | [[徵稿] Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | --- | [End](https://hwdc.ithome.com.tw/2024/CFP/) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 5.29 (Web) | 6.7 (Fri) | [[徵稿] RightsCon 2025](https://www.rightscon.org/) | --- | [End](https://rightscon.secure-platform.com/a/solicitations/50/home) | [🛵 Taipei](https://maps.google.com/?q=Taipei) |
 
 ## June
