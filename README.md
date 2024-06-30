@@ -5,15 +5,6 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.3 (Fri) | 7.8 (Mon) | [[徵稿] Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | [Register Now](https://forms.gle/SUgPCFuyqCJDsV5h6) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 5.15 (Web) | 6.10 (Mon) | [[徵稿] DDD Taiwan Conference 2024](https://conference.ddd-tw.com/) | --- | [End](https://docs.google.com/forms/d/e/1FAIpQLSeGXeoWRErJf-b9qw2ro2xG6qGQE3-HoP5ipDkvyR_9q89-Ow/viewform) | [🛵 ](https://maps.google.com/?q=) |
-| 5.23 (Thu) | 6.16 (Sun) | [[徵稿] Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | --- | [End](https://hwdc.ithome.com.tw/2024/CFP/) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 5.29 (Web) | 6.7 (Fri) | [[徵稿] RightsCon 2025](https://www.rightscon.org/) | --- | [End](https://rightscon.secure-platform.com/a/solicitations/50/home) | [🛵 Taipei](https://maps.google.com/?q=Taipei) |
-
-## June
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 6.13 (Thu) | 6.13 (Thu) | [Google Cloud Summit Taipei 2024](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | [End](https://cloudonair.withgoogle.com/events/summit-taipei-2024) | --- | [🛵 台北南港展覽館二館 7 樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8%207%20%E6%A8%93) |
 
 ## July
 
@@ -23,7 +14,7 @@
 | 7.3 (Web) | 7.3 (Web) | [Cloud Summit 2024](https://event.ithome.com.tw/live/tcescfs24/index.html) | --- | --- | [🛵 臺北南港展覽館二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E9%A4%A8%E4%BA%8C%E9%A4%A8) |
 | 7.6 (Sat) | 7.7 (Sun) | [SITCON Hackathon 2024](https://hackathon.sitcon.org/2024/) | [End](https://sitcon.kktix.cc/events/sitcon-hackathon2024) | --- | [🛵 臺北市政府公務人員訓練處](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C%E5%85%AC%E5%8B%99%E4%BA%BA%E5%93%A1%E8%A8%93%E7%B7%B4%E8%99%95) |
 | 7.10 (Web) | 7.11 (Thu) | [台北遊戲開發者論壇 2024 (TGDF 2024)](https://2024.tgdf.tw/) | [End](https://tgdf.kktix.cc/events/2024tgdf) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 7.10 (Web) | 7.11 (Thu) | [DevOpsDays Taipei 2024](https://devopsdays.tw/) | [Register Now](https://devopsdays.tw/2024/tickets) | --- | [🛵 瓶蓋工廠台北製造廠](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E5%BB%A0) |
+| 7.10 (Web) | 7.11 (Thu) | [DevOpsDays Taipei 2024](https://devopsdays.tw/) | [End](https://devopsdays.tw/2024/tickets) | --- | [🛵 瓶蓋工廠台北製造廠](https://maps.google.com/?q=%E7%93%B6%E8%93%8B%E5%B7%A5%E5%BB%A0%E5%8F%B0%E5%8C%97%E8%A3%BD%E9%80%A0%E5%BB%A0) |
 
 ## August
 
