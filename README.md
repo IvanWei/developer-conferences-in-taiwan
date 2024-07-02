@@ -20,16 +20,16 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.23 (Fri) | 8.24 (Sat) | [HITCON CMT 2024 台灣駭客年會](https://hitcon.org/2024/CMT/) | --- | --- | [🛵 中央研究院 人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%20%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 8.23 (Fri) | 8.24 (Sat) | [HITCON CMT 2024 台灣駭客年會](https://hitcon.org/2024/CMT/) | [Register Now](https://hitcon.kktix.cc/events/hitcon-cmt-2024) | --- | [🛵 中央研究院 人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%20%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ## September
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.11 (Web) | 9.13 (Fri) | [Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | --- | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 9.13 (Fri) | 9.13 (Fri) | [DDD Taiwan Conference 2024](https://conference.ddd-tw.com/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
-| 9.21 (Sat) | 9.22 (Sun) | [PyCon Taiwan 2024](https://tw.pycon.org/2024) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
-| 9.27 (Fri) | 9.27 (Fri) | [JCConf Taiwan 2024](https://jcconf.tw/2024/) | --- | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 9.11 (Web) | 9.13 (Fri) | [Hello World Dev Conference](https://hwdc.ithome.com.tw/2024) | [Register Now](https://hwdc.ithome.com.tw/2024/ticket) | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 9.13 (Fri) | 9.13 (Fri) | [DDD Taiwan Conference 2024](https://conference.ddd-tw.com/) | [Register Now](https://www.accupass.com/event/2406080625301381404160) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 9.21 (Sat) | 9.22 (Sun) | [PyCon Taiwan 2024](https://tw.pycon.org/2024) | [Register Now](https://pycontw.kktix.cc/events/2024-individual) | --- | [🛵 高雄國立科學工藝博物館南館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%9C%8B%E7%AB%8B%E7%A7%91%E5%AD%B8%E5%B7%A5%E8%97%9D%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%8D%97%E9%A4%A8) |
+| 9.27 (Fri) | 9.27 (Fri) | [JCConf Taiwan 2024](https://jcconf.tw/2024/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2024) | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## October
 
