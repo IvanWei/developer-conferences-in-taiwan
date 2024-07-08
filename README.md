@@ -4,7 +4,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.3 (Fri) | 7.8 (Mon) | [[徵稿] Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | [Register Now](https://forms.gle/SUgPCFuyqCJDsV5h6) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 5.3 (Fri) | 7.8 (Mon) | [[徵稿] Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | [End](https://forms.gle/SUgPCFuyqCJDsV5h6) | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
 ## July
 
