@@ -35,7 +35,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 10.23 (Web) | 10.24 (Thu) | [Kubernetes Summit 2024](https://k8s.ithome.com.tw) | --- | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 10.23 (Web) | 10.24 (Thu) | [Kubernetes Summit 2024](https://k8s.ithome.com.tw) | [Register Now](https://k8s.ithome.com.tw/2024/ticket) | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
 ---
 
