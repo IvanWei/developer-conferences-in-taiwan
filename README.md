@@ -8,13 +8,15 @@
 | 9.13 (Fri) | 9.13 (Fri) | [DDD Taiwan Conference 2024](https://conference.ddd-tw.com/) | [End](https://www.accupass.com/event/2406080625301381404160) | --- | [🛵 台大醫院國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 9.21 (Sat) | 9.22 (Sun) | [PyCon Taiwan 2024](https://tw.pycon.org/2024) | [End](https://pycontw.kktix.cc/events/2024-individual) | --- | [🛵 高雄國立科學工藝博物館南館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%9C%8B%E7%AB%8B%E7%A7%91%E5%AD%B8%E5%B7%A5%E8%97%9D%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%8D%97%E9%A4%A8) |
 | 9.26 (Thu) | 9.26 (Thu) | [2024 國泰金控技術年會](https://www.cathaytechcon.com.tw/2024/) | [Register Now](https://eventgo.bnextmedia.com.tw/event/view/e48335u66a861a5e11ce) | --- | [🛵 臺北市信義區市府路45號4樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%B8%82%E5%BA%9C%E8%B7%AF45%E8%99%9F4%E6%A8%93) |
-| 9.27 (Fri) | 9.27 (Fri) | [JCConf Taiwan 2024](https://jcconf.tw/2024/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2024) | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 9.27 (Fri) | 9.27 (Fri) | [2024 台灣人工智慧年會](https://conf2024.aiacademy.tw/) | [End](https://conf2024.aiacademy.tw/signup/) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 9.27 (Fri) | 9.28 (Sat) | [JCConf Taiwan 2024](https://jcconf.tw/2024/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2024) | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## October
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.23 (Web) | 10.24 (Thu) | [Kubernetes Summit 2024](https://k8s.ithome.com.tw) | [Register Now](https://k8s.ithome.com.tw/2024/ticket) | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 10.26 (Sat) | 10.27 (Sun) | [MOPCON 2024](https://mopcon.org/2024/) | [Register Now](https://mopcon.kktix.cc/events/mopcon-2024) | --- | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
 | 10.29 (Tue) | 10.29 (Tue) | [Arm Tech Symposia - 台北](https://events.arm.com/TechSymposia) | [Register Now](https://events.arm.com/techsymposia/begin?c_4504467=24139567&reg_type_id=654465) | --- | [🛵 台北萬豪酒店](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97) |
 | 10.30 (Web) | 10.30 (Web) | [Arm Tech Symposia - 新竹](https://events.arm.com/TechSymposia) | [Register Now](https://events.arm.com/techsymposia/begin?c_4504467=24139568&reg_type_id=654465) | --- | [🛵 新竹國賓大飯店](https://maps.google.com/?q=%E6%96%B0%E7%AB%B9%E5%9C%8B%E8%B3%93%E5%A4%A7%E9%A3%AF%E5%BA%97) |
 
@@ -22,10 +24,17 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 11.3 (Sun) | 11.3 (Sun) | [iPlayground 2024](https://iplayground.io/2024/) | [Register Now](https://iplayground.kktix.cc/events/iplayground2024) | --- | [🛵 左鄰右舍多功能活動空間](https://maps.google.com/?q=%E5%B7%A6%E9%84%B0%E5%8F%B3%E8%88%8D%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%B4%BB%E5%8B%95%E7%A9%BA%E9%96%93) |
 | 11.7 (Thu) | 11.7 (Thu) | [Arm Tech Symposia - 東京](https://events.arm.com/TechSymposia) | [Register Now](https://events.arm.com/techsymposia/begin?c_4504467=24139569&reg_type_id=654465) | --- | [🛫 東京會議中心・品川](https://maps.google.com/?q=%E6%9D%B1%E4%BA%AC%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83%E3%83%BB%E5%93%81%E5%B7%9D) |
 | 11.12 (Tue) | 11.12 (Tue) | [Arm Tech Symposia - 首爾](https://events.arm.com/TechSymposia) | [Register Now](https://events.arm.com/techsymposia/begin?c_4504467=24139570&reg_type_id=654465) | --- | [🛫 首爾帕納斯洲際酒店](https://maps.google.com/?q=%E9%A6%96%E7%88%BE%E5%B8%95%E7%B4%8D%E6%96%AF%E6%B4%B2%E9%9A%9B%E9%85%92%E5%BA%97) |
 | 11.19 (Tue) | 11.19 (Tue) | [Arm Tech Symposia - 上海](https://events.arm.com/TechSymposia) | [Register Now](https://www.armevent.com.cn/TechSymposia-2024/register) | --- | [🛫 上海浦東麗思卡爾頓酒店](https://maps.google.com/?q=%E4%B8%8A%E6%B5%B7%E6%B5%A6%E6%9D%B1%E9%BA%97%E6%80%9D%E5%8D%A1%E7%88%BE%E9%A0%93%E9%85%92%E5%BA%97) |
 | 11.21 (Thu) | 11.21 (Thu) | [Arm Tech Symposia - 深圳](https://events.arm.com/TechSymposia) | [Register Now](https://www.armevent.com.cn/TechSymposia-2024/register) | --- | [🛫 深圳灣萬麗酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E7%81%A3%E8%90%AC%E9%BA%97%E9%85%92%E5%BA%97) |
+
+## December
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 12.14 (Sat) | 12.15 (Sun) | [.NET Conf Taiwan 2024](https://dotnetconf.study4.tw/) | --- | --- | [🛵 台中東區自由二街 91 號](https://maps.google.com/?q=%E5%8F%B0%E4%B8%AD%E6%9D%B1%E5%8D%80%E8%87%AA%E7%94%B1%E4%BA%8C%E8%A1%97%2091%20%E8%99%9F) |
 
 ---
 
