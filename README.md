@@ -1,14 +1,5 @@
 # Developer Conferences in Taiwan 2024
 
-## October
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 10.23 (Web) | 10.24 (Thu) | [Kubernetes Summit 2024](https://k8s.ithome.com.tw) | [End](https://k8s.ithome.com.tw/2024/ticket) | --- | [🛵 台北文創大樓6樓](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 10.26 (Sat) | 10.27 (Sun) | [MOPCON 2024](https://mopcon.org/2024/) | [End](https://mopcon.kktix.cc/events/mopcon-2024) | --- | [🛵 高雄展覽館](https://maps.google.com/?q=%E9%AB%98%E9%9B%84%E5%B1%95%E8%A6%BD%E9%A4%A8) |
-| 10.29 (Tue) | 10.29 (Tue) | [Arm Tech Symposia - 台北](https://events.arm.com/TechSymposia) | [End](https://events.arm.com/techsymposia/begin?c_4504467=24139567&reg_type_id=654465) | --- | [🛵 台北萬豪酒店](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97) |
-| 10.30 (Web) | 10.30 (Web) | [Arm Tech Symposia - 新竹](https://events.arm.com/TechSymposia) | [End](https://events.arm.com/techsymposia/begin?c_4504467=24139568&reg_type_id=654465) | --- | [🛵 新竹國賓大飯店](https://maps.google.com/?q=%E6%96%B0%E7%AB%B9%E5%9C%8B%E8%B3%93%E5%A4%A7%E9%A3%AF%E5%BA%97) |
-
 ## November
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
