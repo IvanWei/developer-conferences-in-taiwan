@@ -8,7 +8,7 @@
 | 11.7 (Thu) | 11.7 (Thu) | [Arm Tech Symposia - 東京](https://events.arm.com/TechSymposia) | [End](https://events.arm.com/techsymposia/begin?c_4504467=24139569&reg_type_id=654465) | --- | [🛫 東京會議中心・品川](https://maps.google.com/?q=%E6%9D%B1%E4%BA%AC%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83%E3%83%BB%E5%93%81%E5%B7%9D) |
 | 11.12 (Tue) | 11.12 (Tue) | [Arm Tech Symposia - 首爾](https://events.arm.com/TechSymposia) | [End](https://events.arm.com/techsymposia/begin?c_4504467=24139570&reg_type_id=654465) | --- | [🛫 首爾帕納斯洲際酒店](https://maps.google.com/?q=%E9%A6%96%E7%88%BE%E5%B8%95%E7%B4%8D%E6%96%AF%E6%B4%B2%E9%9A%9B%E9%85%92%E5%BA%97) |
 | 11.19 (Tue) | 11.19 (Tue) | [Arm Tech Symposia - 上海](https://events.arm.com/TechSymposia) | [End](https://www.armevent.com.cn/TechSymposia-2024/register) | --- | [🛫 上海浦東麗思卡爾頓酒店](https://maps.google.com/?q=%E4%B8%8A%E6%B5%B7%E6%B5%A6%E6%9D%B1%E9%BA%97%E6%80%9D%E5%8D%A1%E7%88%BE%E9%A0%93%E9%85%92%E5%BA%97) |
-| 11.21 (Thu) | 11.21 (Thu) | [Arm Tech Symposia - 深圳](https://events.arm.com/TechSymposia) | [Register Now](https://www.armevent.com.cn/TechSymposia-2024/register) | --- | [🛫 深圳灣萬麗酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E7%81%A3%E8%90%AC%E9%BA%97%E9%85%92%E5%BA%97) |
+| 11.21 (Thu) | 11.21 (Thu) | [Arm Tech Symposia - 深圳](https://events.arm.com/TechSymposia) | [End](https://www.armevent.com.cn/TechSymposia-2024/register) | --- | [🛫 深圳灣萬麗酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E7%81%A3%E8%90%AC%E9%BA%97%E9%85%92%E5%BA%97) |
 
 ## December
 
