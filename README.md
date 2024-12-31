@@ -1,11 +1,16 @@
-# Developer Conferences in Taiwan 2024
+# Developer Conferences in Taiwan 2025
 
-## December
+## February
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.14 (Sat) | 12.15 (Sun) | [.NET Conf Taiwan 2024](https://dotnetconf.study4.tw/) | --- | --- | [🛵 台中東區自由二街 91 號](https://maps.google.com/?q=%E5%8F%B0%E4%B8%AD%E6%9D%B1%E5%8D%80%E8%87%AA%E7%94%B1%E4%BA%8C%E8%A1%97%2091%20%E8%99%9F) |
-| 12.19 (Thu) | 12.25 (Web) | [[徵稿] SITCON 學生計算機年會 2024](https://sitcon.org/) | --- | [End](https://sitcon.org/2025/cfp/) | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+| 2.24 (Mon) | 2.27 (Thu) | [RightsCon 2025](https://www.rightscon.org/) | [Register Now](https://www.rightscon.org/checkout/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+
+## March
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 3.8 (Sat) | 3.8 (Sat) | [SITCON 學生計算機年會 2024](https://sitcon.org/) | [Register Now](https://sitcon.kktix.cc/events/sitcon2025) | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ---
 
