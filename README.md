@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 1.9 (Thu) | 2.27 (Thu) | [[徵稿] DevOpsDays Taipei 2025](https://devopsdays.tw) | --- | [Register Now](https://devopsdays.tw/2025/CFP/ ) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 1.9 (Thu) | 2.5 (Web) | [[徵稿] 2025 Cloud Summit 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | --- | [Register Now](https://event.ithome.com.tw/live/20250702/signup.html) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 1.9 (Thu) | 2.5 (Web) | [[徵稿] 2025 Cloud Summit 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | --- | [End](https://event.ithome.com.tw/live/20250702/signup.html) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 
 ## February
 
