@@ -11,7 +11,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 2.24 (Mon) | 2.27 (Thu) | [RightsCon 2025](https://www.rightscon.org/) | [Register Now](https://www.rightscon.org/checkout/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 2.24 (Mon) | 2.27 (Thu) | [RightsCon 2025](https://www.rightscon.org/) | [End](https://www.rightscon.org/checkout/) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## March
 
