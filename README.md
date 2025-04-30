@@ -1,11 +1,5 @@
 # Developer Conferences in Taiwan 2025
 
-## April
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.15 (Tue) | 4.17 (Thu) | [CYBERSEC 2025 臺灣資安大會](https://cybersec.ithome.com.tw/) | [End](https://signupcybersec.ithome.com.tw/signup/2025) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-
 ## June
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
