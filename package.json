@@ -6,7 +6,7 @@
   "scripts": {
     "update:readme": "node build.js readme",
     "update:ghPage": "node build.js ghPage",
-    "web": "npx http-server ./docs"
+    "web": "http-server ./docs"
   },
   "repository": {
     "type": "git",
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/IvanWei/developer-conferences-in-taiwan#readme",
   "devDependencies": {
-    "http-server": "^0.12.3",
-    "json2md": "https://github.com/IvanWei/json2md.git",
-    "showdown": "^1.9.1"
+    "http-server": "^14.1.1",
+    "json2md": "^2.0.3",
+    "showdown": "^2.1.0"
   }
 }
