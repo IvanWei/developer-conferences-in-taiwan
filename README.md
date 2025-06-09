@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.25 (Sun) | 6.30 (Mon) | [[徵稿] iPlayground 2025](https://iplayground.io/2025/) | --- | [Register Now](https://forms.gle/YYD7jrEpGzNXXF2P7) | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
-| 5.25 (Sun) | 6.8 (Sun) | [[徵稿] JCConf 2025 + TKUG](https://jcconf.tw/2025/) | --- | [Register Now](https://pretalx.com/jcconf-2025/cfp) | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 5.25 (Sun) | 6.8 (Sun) | [[徵稿] JCConf 2025 + TKUG](https://jcconf.tw/2025/) | --- | [End](https://pretalx.com/jcconf-2025/cfp) | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## June
 
