@@ -13,7 +13,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 6.5 (Thu) | 6.6 (Fri) | [DevOpsDays Taipei 2025](https://devopsdays.tw) | [End](https://devopsdays.tw/2025/ticket) | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 6.12 (Thu) | 6.30 (Mon) | [[徵稿] Kubernetes Summit 2025](https://k8s.ithome.com.tw) | --- | [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSdhfUg1kdQVLU6tGQ1sYiotVfYpqVnYswIW91hPpwyb2s19wQ/viewform) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 6.25 (Web) | 6.25 (Web) | [2025 AIA 夏季論壇](https://workshop202506.aiacademy.tw/) | [Register Now](https://workshop202506.aiacademy.tw/#signup) | --- | [🛵 成功大學 綠色魔法學校](https://maps.google.com/?q=%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%20%E7%B6%A0%E8%89%B2%E9%AD%94%E6%B3%95%E5%AD%B8%E6%A0%A1) |
+| 6.25 (Web) | 6.25 (Web) | [2025 AIA 夏季論壇](https://workshop202506.aiacademy.tw/) | [End](https://workshop202506.aiacademy.tw/#signup) | --- | [🛵 成功大學 綠色魔法學校](https://maps.google.com/?q=%E6%88%90%E5%8A%9F%E5%A4%A7%E5%AD%B8%20%E7%B6%A0%E8%89%B2%E9%AD%94%E6%B3%95%E5%AD%B8%E6%A0%A1) |
 
 ## July
 
