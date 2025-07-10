@@ -6,7 +6,7 @@
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 7.1 (Tue) | 7.11 (Fri) | [[徵稿] Hello World Dev Conference 2025](https://hwdc.ithome.com.tw/2025) | --- | [Register Now](https://hwdc.ithome.com.tw/2025/CFP) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 7.2 (Web) | 7.2 (Web) | [2025 Cloud Summit 臺灣雲端大會](https://cloudsummit.ithome.com.tw/) | [End](https://signuptces.ithome.com.tw/) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-| 7.9 (Web) | 7.10 (Thu) | [2025 台北遊戲開發者論壇](https://2025.tgdf.tw/) | [Register Now](https://tgdf.kktix.cc/events/2025tgdf) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 7.9 (Web) | 7.10 (Thu) | [2025 台北遊戲開發者論壇](https://2025.tgdf.tw/) | [End](https://tgdf.kktix.cc/events/2025tgdf) | --- | [🛵 台北國際會議中心](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## August
 
