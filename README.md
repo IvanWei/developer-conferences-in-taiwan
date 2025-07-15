@@ -19,7 +19,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 9.5 (Fri) | 9.7 (Sun) | [PyCon TW 2025](https://tw.pycon.org/2025) | [Register Now](https://tw.pycon.org/2025/zh-hant/registration/tickets) | --- | [🛵 松山文創園區](https://maps.google.com/?q=%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80) |
+| 9.5 (Fri) | 9.7 (Sun) | [PyCon TW 2025](https://tw.pycon.org/2025) | [End](https://tw.pycon.org/2025/zh-hant/registration/tickets) | --- | [🛵 松山文創園區](https://maps.google.com/?q=%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80) |
 | 9.19 (Fri) | 9.19 (Fri) | [JCConf 2025 + TKUG](https://jcconf.tw/2025/) | --- | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 
 ## October
