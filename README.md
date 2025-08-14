@@ -47,6 +47,7 @@
 | Hong Kong Open Source Conference 香港開源年會 | [Link](https://hkoscon.org/) | [Link](https://www.facebook.com/hkoscon/) |
 | 极客邦科技 InfoQ.cn | [Link](https://www.infoq.cn/) | [Link](https://weibo.com/p/1006061746173800/hom) |
 | 台灣駭客協會 | [Link](https://hacker.org.tw/) | [Link](https://www.facebook.com/HackersInTaiwan) |
+| GDG Taipei | [Link](https://gdg.community.dev/gdg-taipei/) | [Link](https://linktr.ee/gdg.taipei) |
 
 ---
 
