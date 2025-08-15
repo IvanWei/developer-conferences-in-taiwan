@@ -32,7 +32,6 @@
 | 台灣人工智慧學校 | [Link](https://aiacademy.tw/) | [Link](https://www.facebook.com/aiacademy.tw/) |
 | AWS Events and Webinars | [Link](https://aws.amazon.com/events) | [Link](https://www.facebook.com/amazonwebservices) |
 | COSCUP | [Link](https://coscup.org/) | [Link](https://www.facebook.com/coscup/) |
-| Domain Driven Design Taiwan | [Link](https://www.ddd-tw.com/) | [Link](https://www.facebook.com/DDDCommunity.tw/) |
 | Golang Taipei | [Link](https://www.meetup.com/golang-taipei-meetup) | [Link](https://www.facebook.com/groups/269001993248363) |
 | Hacks In Taiwan 台灣駭客年會 ( HITCON ) | [Link](https://hitcon.org/) | [Link](https://www.facebook.com/HITCON) |
 | iPlayground | [Link](https://iplayground.io/) | [Link](https://www.facebook.com/theiPlayground) |
