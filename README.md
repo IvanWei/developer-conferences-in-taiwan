@@ -54,6 +54,7 @@
 | Hong Kong Open Source Conference 香港開源年會 | [Link](https://hkoscon.org/) | [Link](https://www.facebook.com/hkoscon/) |
 | 极客邦科技 InfoQ.cn | [Link](https://www.infoq.cn/) | [Link](https://weibo.com/p/1006061746173800/hom) |
 | 台灣駭客協會 | [Link](https://hacker.org.tw/) | [Link](https://www.facebook.com/HackersInTaiwan) |
+| Agile.Taichung | [Link](https://www.facebook.com/groups/Agile.Taichung/) | [Link](https://www.facebook.com/groups/Agile.Taichung/) |
 | GDG Taipei | [Link](https://linktr.ee/gdg.taipei) | [Link](https://www.facebook.com/GDG.Taipei) |
 | Taiwan Product Managers | [Link]() | [Link](https://www.facebook.com/groups/856286435717270) |
 
