@@ -5,7 +5,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 8.9 (Sat) | 8.10 (Sun) | [COSCUP x RubyConf Taiwan 2025](https://coscup.org/2025/) | --- | --- | [🛵 國立臺灣科技大學](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
-| 8.22 (Fri) | 8.23 (Sat) | [AICon深圳2025](https://aicon.infoq.cn/2025/shenzhen/) | [Register Now](https://aicon.infoq.cn/2025/shenzhen/apply) | --- | [🛫 深圳湾万丽酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E6%B9%BE%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97) |
+| 8.22 (Fri) | 8.23 (Sat) | [AICon深圳2025](https://aicon.infoq.cn/2025/shenzhen/) | [End](https://aicon.infoq.cn/2025/shenzhen/apply) | --- | [🛫 深圳湾万丽酒店](https://maps.google.com/?q=%E6%B7%B1%E5%9C%B3%E6%B9%BE%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97) |
 | 8.30 (Sat) | 8.31 (Sun) | [iPlayground 2025](https://iplayground.io/2025/) | [Register Now](https://iplayground.kktix.cc/events/2025general) | --- | [🛵 政大公企中心](https://maps.google.com/?q=%E6%94%BF%E5%A4%A7%E5%85%AC%E4%BC%81%E4%B8%AD%E5%BF%83) |
 
 ## September
