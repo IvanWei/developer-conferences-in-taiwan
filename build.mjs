@@ -1,77 +1,118 @@
-const fs = require('fs');
-const showdown  = require('showdown');
+import { writeFile } from 'node:fs/promises';
+import showdown from 'showdown';
 
 const [type] = process.argv.slice(2);
 
-const json2md = require('json2md');
-const conferenceData = require("./data/conference-data.json").data;
-const organizationData = require("./data/list-of-organization.json").data;
+import json2md from 'json2md';
+import conferenceData from './data/conference-data.json' with { type: 'json' };
+import organizationData from './data/list-of-organization.json' with {
+  type: 'json',
+};
 
-showdown.extension('targetlink', function() {
-  return [
-    {
-      type: 'lang',
-      regex: /\[((?:\[[^\]]*]|[^\[\]])*)]\([ \t]*<?(.*?(?:\(.*?\).*?)?)>?[ \t]*((['"])(.*?)\4[ \t]*)?\)/g,
-      replace: function(wholematch, linkText, url) {
-        const result = `<a href="${url}" target="_blank" alt="${linkText}">${linkText}</a>`;
+showdown.extension('targetlink', () => [
+  {
+    type: 'lang',
+    regex:
+      /\[((?:\[[^\]]*]|[^[\]])*)]\([ \t]*<?(.*?(?:\(.*?\).*?)?)>?[ \t]*((['"])(.*?)\4[ \t]*)?\)/g,
+    replace: (_wholematch, linkText, url) => {
+      const result = `<a href="${url}" target="_blank" alt="${linkText}">${linkText}</a>`;
 
-        return result;
-      },
-    }, {
-      type: 'output',
-      filter: (html) => {
-        const regex = /<table>/g;
-        return html.replace(regex, '<table class="pure-table pure-table-bordered" style="width: 100%;">');
-      },
+      return result;
     },
-  ];
-});
+  },
+  {
+    type: 'output',
+    filter: (html) => {
+      const regex = /<table>/g;
+      return html.replace(
+        regex,
+        '<table class="pure-table pure-table-bordered" style="width: 100%;">',
+      );
+    },
+  },
+]);
 
 switch (type) {
-  case 'readme':
+  case 'readme': {
     const NOTES = [
-      {"hr": ""},
-      { h2: 'More' },
-      { ul: [
-        {link: { title: 'Project\'s wiki', source: 'https://github.com/IvanWei/developer-conferences-in-taiwan/wiki' }},
-        {link: { title: 'DCIT calendar (Web)', source: 'https://dcit.ivanwei.co/' }},
-      ]},
+      { hr: '' },
+      { h2: 'NOTE' },
+      { p: '資訊由網路上收集而來，所有活動資訊以活動主辦單位公佈為準。' },
+      {
+        ul: [
+          {
+            link: {
+              title: 'Architecture',
+              source:
+                'https://github.com/IvanWei/developer-conferences-in-taiwan/wiki',
+            },
+          },
+          {
+            link: {
+              title: 'DCIT calendar (Web version)',
+              source: 'https://dcit.ivanwei.co/',
+            },
+          },
+        ],
+      },
+      { hr: '' },
     ];
-    const reamdeMeData = Array.prototype.concat.call(conferenceData, [{"hr": ""}], organizationData, NOTES);
 
-    fs.writeFile('README.md', json2md(reamdeMeData).replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
-      const month = substr.match(/\d{1,2}/);
-      if (month) {
-        return `| ${month}`;
-      } else {
-        return `)\n |`;
+    conferenceData.data[0].h1 = `${conferenceData.data[0].h1} / Leader Conferences in Taiwan ${new Date().getFullYear()}`;
+    const reamdeMeData = [
+      ...conferenceData.data,
+      [{ hr: '' }],
+      ...organizationData.data,
+    ];
+
+    reamdeMeData.splice(1, ...NOTES);
+
+    writeFile(
+      'README.md',
+      json2md(reamdeMeData).replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
+        const month = substr.match(/\d{1,2}/);
+        if (month) {
+          return `| ${month}`;
+        } else {
+          return `)\n |`;
+        }
+      }),
+    ).then((err) => {
+      if (err) {
+        /* biome-ignore lint/suspicious/noConsole: ingore */
+        console.log('README.md, Failed');
+        return;
       }
-
-    }), (err) => {
-      if (err) throw err;
+      /* biome-ignore lint/suspicious/noConsole: ingore */
       console.log('README.md, OK');
     });
 
     break;
-  case 'ghPage':
+  }
+  case 'ghPage': {
     const titleOfHtml = 'Developer Conferences in Taiwan';
     const descriptionOfHtml = '統整研討會資訊';
     const coverImgOfHtml = 'https://blog.ivanwei.co/images/2018/05/16/DCIT.png';
-    const converter = new showdown.Converter({tables: true, extensions: ['targetlink']});
+    const converter = new showdown.Converter({
+      tables: true,
+      extensions: ['targetlink'],
+    });
 
-    function fixJson2Md (content) {
-      return content.replace(/\n\ /g, ' ').replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
-        const month = substr.match(/\d{1,2}/);
+    function fixJson2Md(content) {
+      return content
+        .replace(/\n /g, ' ')
+        .replace(/(\n\d{1,2}|\)\n\n)/g, (substr) => {
+          const month = substr.match(/\d{1,2}/);
           if (month) {
             return `| ${month}`;
           } else {
             return `)\n |`;
           }
-
         });
     }
 
-    const conferenceHtml = (content) => (`
+    const conferenceHtml = (content) =>
+      `
       <!DOCTYPE HTML>
       <html lang="zh-tw">
       <head>
@@ -140,16 +181,27 @@ switch (type) {
         </div>
       </body>
       </html>
-    `).replace(/(\r\n|\n|\r|\ \ )/gm, '');
+    `.replace(/(\r\n|\n|\r| {2})/gm, '');
 
-    fs.writeFile('docs/index.html', conferenceHtml(converter.makeHtml(fixJson2Md(json2md(conferenceData)))), (err) => {
-      if (err) throw err;
-      console.log('index.html, OK');
-    });
-    fs.writeFile('docs/organization.html', conferenceHtml(converter.makeHtml(fixJson2Md(json2md(organizationData)))), (err) => {
-      if (err) throw err;
-      console.log('organization.html, OK');
-    });
+    writeFile(
+      'docs/index.html',
+      conferenceHtml(converter.makeHtml(fixJson2Md(json2md(conferenceData)))),
+      (err) => {
+        if (err) throw err;
+        /* biome-ignore lint/suspicious/noConsole: ingore */
+        console.log('index.html, OK');
+      },
+    );
+    writeFile(
+      'docs/organization.html',
+      conferenceHtml(converter.makeHtml(fixJson2Md(json2md(organizationData)))),
+      (err) => {
+        if (err) throw err;
+        /* biome-ignore lint/suspicious/noConsole: ingore */
+        console.log('organization.html, OK');
+      },
+    );
 
     break;
+  }
 }

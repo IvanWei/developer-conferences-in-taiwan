@@ -1,4 +1,17 @@
-# Developer Conferences in Taiwan 2025
+# Developer Conferences in Taiwan 2025 / Leader Conferences in Taiwan 2025
+
+## NOTE
+
+
+資訊由網路上收集而來，所有活動資訊以活動主辦單位公佈為準。
+
+
+ - [Architecture](https://github.com/IvanWei/developer-conferences-in-taiwan/wiki)
+    
+ - [DCIT calendar (Web version)](https://dcit.ivanwei.co/)
+    
+
+---
 
 ## August
 
@@ -63,13 +76,3 @@
 | Agile.Taichung | [Link](https://www.facebook.com/groups/Agile.Taichung/) | [Link](https://www.facebook.com/groups/Agile.Taichung/) |
 | GDG Taipei | [Link](https://linktr.ee/gdg.taipei) | [Link](https://www.facebook.com/GDG.Taipei) |
 | Taiwan Product Managers | [Link]() | [Link](https://www.facebook.com/groups/856286435717270) |
-
----
-
-## More
-
-
- - [Project's wiki](https://github.com/IvanWei/developer-conferences-in-taiwan/wiki)
-    
- - [DCIT calendar (Web)](https://dcit.ivanwei.co/)
-    
