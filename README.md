@@ -5,7 +5,7 @@
 ## NOTE
 
 
-資訊由網路上收集而來，所有活動資訊以活動主辦單位公佈為準。
+售票、徵稿和活動時間等資訊來自網路上收集，確切時間以活動主辦單位公告為主，若您為活動主辦單位可於下方申請權限自行加入資訊。
 
 
  - [Architecture](https://github.com/IvanWei/developer-conferences-in-taiwan/wiki)
