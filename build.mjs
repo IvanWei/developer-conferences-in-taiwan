@@ -36,8 +36,9 @@ switch (type) {
   case 'readme': {
     const NOTES = [
       { hr: '' },
+      { h1: `Leader Conferences in Taiwan ${new Date().getFullYear()}` },
       { h2: 'NOTE' },
-      { p: '資訊由網路上收集而來，所有活動資訊以活動主辦單位公佈為準。' },
+      { p: '售票、徵稿和活動時間等資訊來自網路上收集，確切時間以活動主辦單位公告為主，若您為活動主辦單位可於下方申請權限自行加入資訊。' },
       {
         ul: [
           {
@@ -58,7 +59,7 @@ switch (type) {
       { hr: '' },
     ];
 
-    conferenceData.data[0].h1 = `${conferenceData.data[0].h1} / Leader Conferences in Taiwan ${new Date().getFullYear()}`;
+    // conferenceData.data[0].h1 = `${conferenceData.data[0].h1} / `;
     const reamdeMeData = [
       ...conferenceData.data,
       [{ hr: '' }],

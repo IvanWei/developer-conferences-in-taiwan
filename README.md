@@ -1,4 +1,6 @@
-# Developer Conferences in Taiwan 2025 / Leader Conferences in Taiwan 2025
+# Developer Conferences in Taiwan 2025
+
+# Leader Conferences in Taiwan 2025
 
 ## NOTE
 
