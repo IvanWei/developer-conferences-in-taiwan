@@ -20,8 +20,8 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 9.5 (Fri) | 9.7 (Sun) | [PyCon TW 2025](https://tw.pycon.org/2025) | [End](https://tw.pycon.org/2025/zh-hant/registration/tickets) | --- | [🛵 松山文創園區](https://maps.google.com/?q=%E6%9D%BE%E5%B1%B1%E6%96%87%E5%89%B5%E5%9C%92%E5%8D%80) |
-| 9.19 (Fri) | 9.19 (Fri) | [JCConf Taiwan 2025](https://jcconf.tw/2025/) | [Register Now](https://twjug.kktix.cc/events/jcconf-2025) | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 9.19 (Fri) | 9.19 (Fri) | [Agentic AI Developer Day 2025 Taipei](https://gdg.community.dev/events/details/google-gdg-taipei-presents-agentic-ai-developer-day-2025-taipei/) | [Register Now](https://gdg.community.dev/events/details/google-gdg-taipei-presents-agentic-ai-developer-day-2025-taipei/) | --- | [🛵 Google 板橋辦公室 -  新北市板橋區遠東路 8 號](https://maps.google.com/?q=Google%20%E6%9D%BF%E6%A9%8B%E8%BE%A6%E5%85%AC%E5%AE%A4%20-%20%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%81%A0%E6%9D%B1%E8%B7%AF%208%20%E8%99%9F) |
+| 9.19 (Fri) | 9.19 (Fri) | [JCConf Taiwan 2025](https://jcconf.tw/2025/) | [End](https://twjug.kktix.cc/events/jcconf-2025) | --- | [🛵 臺大醫院國際會議中心](https://maps.google.com/?q=%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
+| 9.19 (Fri) | 9.19 (Fri) | [Agentic AI Developer Day 2025 Taipei](https://gdg.community.dev/events/details/google-gdg-taipei-presents-agentic-ai-developer-day-2025-taipei/) | [End](https://gdg.community.dev/events/details/google-gdg-taipei-presents-agentic-ai-developer-day-2025-taipei/) | --- | [🛵 Google 板橋辦公室 -  新北市板橋區遠東路 8 號](https://maps.google.com/?q=Google%20%E6%9D%BF%E6%A9%8B%E8%BE%A6%E5%85%AC%E5%AE%A4%20-%20%20%E6%96%B0%E5%8C%97%E5%B8%82%E6%9D%BF%E6%A9%8B%E5%8D%80%E9%81%A0%E6%9D%B1%E8%B7%AF%208%20%E8%99%9F) |
 
 ## October
 
