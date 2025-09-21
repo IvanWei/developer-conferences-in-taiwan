@@ -43,7 +43,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 12.6 (Sat) | 12.6 (Sat) | [DevFest Taipei 2025](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2025/cohost-gdg-taipei) | [Not Yet Started](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2025/cohost-gdg-taipei) | --- | [🛵 國立臺灣大學博雅教學館](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8) |
+| 12.6 (Sat) | 12.6 (Sat) | [DevFest Taipei 2025](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2025/cohost-gdg-taipei) | [Register Now](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2025/cohost-gdg-taipei) | --- | [🛵 國立臺灣大學博雅教學館](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E5%A4%A7%E5%AD%B8%E5%8D%9A%E9%9B%85%E6%95%99%E5%AD%B8%E9%A4%A8) |
 
 ---
 
