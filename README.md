@@ -20,7 +20,7 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 10.14 (Tue) | 10.15 (Web) | [Hello World Dev Conference 2025](https://hwdc.ithome.com.tw/2025) | [End](https://hwdc.ithome.com.tw/2025/ticket) | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 10.20 (Mon) | 10.20 (Mon) | [2025 國泰金控技術年會](https://www.cathaytechcon.com.tw/2025CTC/) | [Register Now](https://www.cathaytechcon.com.tw/2025CTC/#sec-6) | --- | [🛵 台北101 獨一文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97101%20%E7%8D%A8%E4%B8%80%E6%96%87%E5%89%B5) |
+| 10.20 (Mon) | 10.20 (Mon) | [2025 國泰金控技術年會](https://www.cathaytechcon.com.tw/2025CTC/) | [End](https://www.cathaytechcon.com.tw/2025CTC/#sec-6) | --- | [🛵 台北101 獨一文創](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97101%20%E7%8D%A8%E4%B8%80%E6%96%87%E5%89%B5) |
 | 10.22 (Web) | 10.22 (Web) | [HITCON CISO Summit 2025](https://hitcon.org/2025/CISO/) | --- | --- | [🛵 台北萬豪酒店](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E8%90%AC%E8%B1%AA%E9%85%92%E5%BA%97) |
 | 10.22 (Web) | 10.23 (Thu) | [Kubernetes Summit 2025](https://k8s.ithome.com.tw) | [End](https://k8s.ithome.com.tw/2025/ticket) | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
