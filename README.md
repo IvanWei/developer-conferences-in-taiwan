@@ -1,6 +1,6 @@
 # Developer Conferences in Taiwan 2026
 
-# Leader Conferences in Taiwan 2025
+# Leader Conferences in Taiwan 2026
 
 ## NOTE
 
