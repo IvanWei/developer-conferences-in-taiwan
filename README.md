@@ -1,4 +1,4 @@
-# Developer Conferences in Taiwan 2026
+# Developer Conferences in Taiwan 2025
 
 # Leader Conferences in Taiwan 2026
 
@@ -14,6 +14,20 @@
     
 
 ---
+
+## October
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 10.12 (Sun) | 1.23 (Fri) | [[徵稿] SITCON 學生計算機年會 2026](https://sitcon.org/) | --- | [Register Now](https://sitcon.org/2026/cfp/) | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+
+# Developer Conferences in Taiwan 2026
+
+## March
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 3.28 (Sat) | 3.28 (Sat) | [SITCON 學生計算機年會 2026](https://sitcon.org/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ## July
 
