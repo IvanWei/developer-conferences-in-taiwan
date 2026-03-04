@@ -19,13 +19,49 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 3.4 (Web) | 3.22 (Sun) | [[徵稿] Hong Kong Open Source Conference 2026](https://www.facebook.com/hkoscon/posts/pfbid024Zb2fSHnYhm2kwj2xrqxYtDwVBdZVAbsys5CSDCvaTq3eRrcf8HgMBn6qyku8hmXl) | --- | [Register Now](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) | [🛫 HKIIT Tsing Yi (IVE Tsing Yi Campus)](https://maps.google.com/?q=HKIIT%20Tsing%20Yi%20(IVE%20Tsing%20Yi%20Campus)) |
+| 3.4 (Web) | 3.10 (Tue) | [[徵稿] DevOpsDays Taipei 2026](https://devopsdays.tw/2026) | --- | [Register Now](https://devopsdays.tw/2026/CFP/) | [🛵 臺北文創大樓 6 樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%20%E6%A8%93) |
+| 3.4 (Web) | 3.13 (Fri) | [[徵稿] 2026臺灣雲端大會](https://event.ithome.com.tw/live/20260701/index.html) | --- | [Register Now](https://event.ithome.com.tw/live/20260701/signup.html?v=1771832777) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 3.4 (Web) | 3.13 (Fri) | [[徵稿] AI Enterprise Summit 2026](https://event.ithome.com.tw/live/20260702/index.html) | --- | [Register Now](https://event.ithome.com.tw/live/20260702/index.html) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 3.4 (Web) | 4.30 (Thu) | [[徵稿] [實體] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 3.4 (Web) | 4.30 (Thu) | [[徵稿] [線上] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 Twitch](https://maps.google.com/?q=Twitch) |
+| 3.23 (Mon) | 3.23 (Mon) | [Observability Day 可觀察性技術日](https://o11yday.ithome.com.tw/2026/) | --- | --- | [🛵 張榮發基金會國際會議中心](https://maps.google.com/?q=%E5%BC%B5%E6%A6%AE%E7%99%BC%E5%9F%BA%E9%87%91%E6%9C%83%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
 | 3.28 (Sat) | 3.28 (Sat) | [SITCON 學生計算機年會 2026](https://sitcon.org/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
+
+## April
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 4.10 (Fri) | 4.10 (Fri) | [2026 數位永續高峰會](https://dss.ithome.com.tw/2026/index.html) | --- | --- | [🛵 台北富邦國際會議中心B2](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83B2) |
+
+## May
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 5.5 (Tue) | 5.7 (Thu) | [CYBERSEC 2026 臺灣資安大會](https://cybersec.ithome.com.tw/2026/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2026) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+
+## June
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 6.6 (Sat) | 6.6 (Sat) | [Hong Kong Open Source Conference 2026](https://www.facebook.com/hkoscon/posts/pfbid024Zb2fSHnYhm2kwj2xrqxYtDwVBdZVAbsys5CSDCvaTq3eRrcf8HgMBn6qyku8hmXl) | --- | --- | [🛫 HKIIT Tsing Yi (IVE Tsing Yi Campus)](https://maps.google.com/?q=HKIIT%20Tsing%20Yi%20(IVE%20Tsing%20Yi%20Campus)) |
+| 6.25 (Thu) | 6.26 (Fri) | [DevOpsDays Taipei 2026](https://devopsdays.tw/2026) | --- | --- | [🛵 臺北文創大樓 6 樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%20%E6%A8%93) |
 
 ## July
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 7.1 (Web) | 7.2 (Thu) | [2026臺灣雲端大會](https://event.ithome.com.tw/live/20260701/index.html) | --- | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 7.1 (Web) | 7.2 (Thu) | [AI Enterprise Summit 2026](https://event.ithome.com.tw/live/20260702/index.html) | --- | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 | 7.1 (Web) | 7.3 (Fri) | [IEEE ICCE-TW 2026](https://www.icce-tw.org/) | --- | --- | [🛵 No. 8, Shuzi Rd., Zhongli Dist., Taoyuan City, Taiwan](https://maps.google.com/?q=No.%208,%20Shuzi%20Rd.,%20Zhongli%20Dist.,%20Taoyuan%20City,%20Taiwan) |
+| 7.15 (Web) | 7.16 (Thu) | [[實體] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 7.18 (Sat) | 7.19 (Sun) | [[線上] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | --- | [🛵 Twitch](https://maps.google.com/?q=Twitch) |
+
+## August
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 8.8 (Sat) | 8.9 (Sun) | [COSCUP 2026 (UbuCon Asia 合辦)](https://coscup.org/2026/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
 
 ---
 
