@@ -19,14 +19,8 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.4 (Web) | 3.22 (Sun) | [[徵稿] Hong Kong Open Source Conference 2026](https://www.facebook.com/hkoscon/posts/pfbid024Zb2fSHnYhm2kwj2xrqxYtDwVBdZVAbsys5CSDCvaTq3eRrcf8HgMBn6qyku8hmXl) | --- | [End](https://discourse.opensource.hk/t/call-for-proposals-hong-kong-open-source-conference-2026-6-june-2026/42) | [🛫 HKIIT Tsing Yi (IVE Tsing Yi Campus)](https://maps.google.com/?q=HKIIT%20Tsing%20Yi%20(IVE%20Tsing%20Yi%20Campus)) |
-| 3.4 (Web) | 3.10 (Tue) | [[徵稿] DevOpsDays Taipei 2026](https://devopsdays.tw/2026) | --- | [End](https://devopsdays.tw/2026/CFP/) | [🛵 臺北文創大樓 6 樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%93%206%20%E6%A8%93) |
-| 3.4 (Web) | 3.13 (Fri) | [[徵稿] 2026臺灣雲端大會](https://event.ithome.com.tw/live/20260701/index.html) | --- | [End](https://event.ithome.com.tw/live/20260701/signup.html?v=1771832777) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-| 3.4 (Web) | 3.13 (Fri) | [[徵稿] AI Enterprise Summit 2026](https://event.ithome.com.tw/live/20260702/index.html) | --- | [End](https://event.ithome.com.tw/live/20260702/index.html) | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 | 3.4 (Web) | 4.30 (Thu) | [[徵稿] [實體] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 3.4 (Web) | 4.30 (Thu) | [[徵稿] [線上] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 Twitch](https://maps.google.com/?q=Twitch) |
-| 3.23 (Mon) | 3.23 (Mon) | [Observability Day 可觀察性技術日](https://o11yday.ithome.com.tw/2026/) | --- | --- | [🛵 張榮發基金會國際會議中心](https://maps.google.com/?q=%E5%BC%B5%E6%A6%AE%E7%99%BC%E5%9F%BA%E9%87%91%E6%9C%83%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83) |
-| 3.28 (Sat) | 3.28 (Sat) | [SITCON 學生計算機年會 2026](https://sitcon.org/) | --- | --- | [🛵 中央研究院人文社會科學館](https://maps.google.com/?q=%E4%B8%AD%E5%A4%AE%E7%A0%94%E7%A9%B6%E9%99%A2%E4%BA%BA%E6%96%87%E7%A4%BE%E6%9C%83%E7%A7%91%E5%AD%B8%E9%A4%A8) |
 
 ## April
 
