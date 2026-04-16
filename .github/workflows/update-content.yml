@@ -1,0 +1,46 @@
+name: Update README.md
+on:
+  schedule:
+    - cron: '0 0/1 * * *'
+  workflow_dispatch:
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  contents:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Setup ssh-agent
+        uses: webfactory/ssh-agent@v0.9.1
+        with:
+          ssh-private-key: ${{secrets.SSH_PRIVATE_KEY}}
+      - name: Setup User Information
+        run: |
+          git config --global user.email "ivanwei_slack@outlook.com"
+          git config --global user.name "WorldEarthBot"
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install Node.js packages
+        run: yarn install
+      - name: Refresh Raw data
+        env:
+          CONFERENCE_SOURCE_URL: ${{secrets.CONFERENCE_SOURCE_URL}}
+          ORGANIZATION_SOURCE_URL: ${{secrets.ORGANIZATION_SOURCE_URL}}
+        run: |
+          make refresh-conference-data
+          make refresh-organization-data
+      - name: Transfer Data
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          make refresh-README-file
+      # - name: Create html page
+      #   run: make refresh-HTML-file
+      - name: Deployment
+        run: make deployment
