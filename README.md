@@ -15,19 +15,6 @@
 
 ---
 
-## March
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 3.4 (Web) | 4.30 (Thu) | [[徵稿] [實體] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
-| 3.4 (Web) | 4.30 (Thu) | [[徵稿] [線上] 2026 台北遊戲開發者論壇](https://2026.tgdf.tw) | --- | [Register Now](https://2026.tgdf.tw) | [🛵 Twitch](https://maps.google.com/?q=Twitch) |
-
-## April
-
-| Start date | End date | Name | Ticket | Call for Speaker | Venue |
-| ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 4.10 (Fri) | 4.10 (Fri) | [2026 數位永續高峰會](https://dss.ithome.com.tw/2026/index.html) | --- | --- | [🛵 台北富邦國際會議中心B2](https://maps.google.com/?q=%E5%8F%B0%E5%8C%97%E5%AF%8C%E9%82%A6%E5%9C%8B%E9%9A%9B%E6%9C%83%E8%AD%B0%E4%B8%AD%E5%BF%83B2) |
-
 ## May
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
