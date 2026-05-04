@@ -19,7 +19,7 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.5 (Tue) | 5.7 (Thu) | [CYBERSEC 2026 臺灣資安大會](https://cybersec.ithome.com.tw/2026/) | [Register Now](https://signupcybersec.ithome.com.tw/signup/2026) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 5.5 (Tue) | 5.7 (Thu) | [CYBERSEC 2026 臺灣資安大會](https://cybersec.ithome.com.tw/2026/) | [End](https://signupcybersec.ithome.com.tw/signup/2026) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
 
 ## June
 
