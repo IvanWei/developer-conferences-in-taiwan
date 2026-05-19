@@ -20,6 +20,9 @@
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
 | 5.5 (Tue) | 5.7 (Thu) | [CYBERSEC 2026 臺灣資安大會](https://cybersec.ithome.com.tw/2026/) | [End](https://signupcybersec.ithome.com.tw/signup/2026) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
+| 5.19 (Tue) | 5.22 (Fri) | [[徵稿] Agentic Automation Day 企業自動化 X Agent](https://aaday.ithome.com.tw/) | --- | [Register Now](https://aaday.ithome.com.tw/2026/CFP) | [🛵 公務人力發展學院](https://maps.google.com/?q=%E5%85%AC%E5%8B%99%E4%BA%BA%E5%8A%9B%E7%99%BC%E5%B1%95%E5%AD%B8%E9%99%A2) |
+| 5.19 (Tue) | 6.11 (Thu) | [[徵稿] KubeSummit 2026](https://k8s.ithome.com.tw/) | --- | [Register Now](https://k8s.ithome.com.tw/2026/CFP) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+| 5.19 (Tue) | 7.17 (Fri) | [[徵稿] Hello World Dev Conference 2025](https://hwdc.ithome.com.tw) | --- | [Register Now](https://hwdc.ithome.com.tw/2026/CFP) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
 ## June
 
@@ -42,7 +45,20 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 8.8 (Sat) | 8.9 (Sun) | [COSCUP 2026 (UbuCon Asia 合辦)](https://coscup.org/2026/) | --- | --- | [🛵 ](https://maps.google.com/?q=) |
+| 8.6 (Thu) | 8.6 (Thu) | [Agentic Automation Day 企業自動化 X Agent](https://aaday.ithome.com.tw/) | --- | --- | [🛵 公務人力發展學院](https://maps.google.com/?q=%E5%85%AC%E5%8B%99%E4%BA%BA%E5%8A%9B%E7%99%BC%E5%B1%95%E5%AD%B8%E9%99%A2) |
+| 8.8 (Sat) | 8.9 (Sun) | [COSCUP 2026 (UbuCon Asia 合辦)](https://coscup.org/2026/) | --- | --- | [🛵 國立臺灣科技大學](https://maps.google.com/?q=%E5%9C%8B%E7%AB%8B%E8%87%BA%E7%81%A3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%B8) |
+
+## September
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 9.10 (Thu) | 9.11 (Fri) | [KubeSummit 2026](https://k8s.ithome.com.tw/) | --- | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
+
+## October
+
+| Start date | End date | Name | Ticket | Call for Speaker | Venue |
+| ---------- | -------- | ---- | ------ | ---------------- | ----- |
+| 10.14 (Web) | 10.15 (Thu) | [Hello World Dev Conference 2025](https://hwdc.ithome.com.tw) | --- | --- | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
 ---
 
