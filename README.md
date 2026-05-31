@@ -19,8 +19,6 @@
 
 | Start date | End date | Name | Ticket | Call for Speaker | Venue |
 | ---------- | -------- | ---- | ------ | ---------------- | ----- |
-| 5.5 (Tue) | 5.7 (Thu) | [CYBERSEC 2026 臺灣資安大會](https://cybersec.ithome.com.tw/2026/) | [End](https://signupcybersec.ithome.com.tw/signup/2026) | --- | [🛵 臺北南港展覽二館](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E5%8D%97%E6%B8%AF%E5%B1%95%E8%A6%BD%E4%BA%8C%E9%A4%A8) |
-| 5.19 (Tue) | 5.22 (Fri) | [[徵稿] Agentic Automation Day 企業自動化 X Agent](https://aaday.ithome.com.tw/) | --- | [End](https://aaday.ithome.com.tw/2026/CFP) | [🛵 公務人力發展學院](https://maps.google.com/?q=%E5%85%AC%E5%8B%99%E4%BA%BA%E5%8A%9B%E7%99%BC%E5%B1%95%E5%AD%B8%E9%99%A2) |
 | 5.19 (Tue) | 6.11 (Thu) | [[徵稿] KubeSummit 2026](https://k8s.ithome.com.tw/) | --- | [Register Now](https://k8s.ithome.com.tw/2026/CFP) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 | 5.19 (Tue) | 7.17 (Fri) | [[徵稿] Hello World Dev Conference 2026](https://hwdc.ithome.com.tw) | --- | [Register Now](https://hwdc.ithome.com.tw/2026/CFP) | [🛵 臺北文創大樓6樓](https://maps.google.com/?q=%E8%87%BA%E5%8C%97%E6%96%87%E5%89%B5%E5%A4%A7%E6%A8%936%E6%A8%93) |
 
